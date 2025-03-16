@@ -1,0 +1,142 @@
+{
+  "case_id": "3c719322-35d2-4bef-95ae-82aea62face6",
+  "offender_profile": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "MALE",
+      "employment": "Manual labor or semi-skilled trade",
+      "relationship": "Single or unmarried",
+      "living_situation": "Independent residence; private setting",
+      "education": "High school graduate or vocational training; average-above average intelligence",
+      "reasoning": [
+        "Controlled crime scenes and concealment",
+        "Transportation to distant kill site and effort to conceal crimes"
+      ]
+    },
+    "psychological_characteristics": {
+      "personality_type": "Organized psychopath",
+      "control_needs": "High",
+      "social_competence": "Socially adept, functional",
+      "stress_factors": "Ongoing frustrations toward women or life stressors",
+      "fantasy_elements": "Rich, controlled, violent sexual fantasies",
+      "anger_management": "Controlled, deliberate expression",
+      "reasoning": [
+        "Body posing indicates control-oriented fantasies",
+        "Efficient execution and planning implies organization and detached emotional traits"
+      ]
+    },
+    "behavioral_characteristics": {
+      "crime_scene_behavior": "Highly organized and planned",
+      "violence_type": "Controlled, sexually motivated",
+      "victim_interaction": "Initially manipulative, increasing coercion",
+      "post_offense_behavior": "Evidence concealment, vehicle cleanup",
+      "risk_taking": "Moderate-high risk",
+      "trophy_taking": "Personal items, jewelry",
+      "reasoning": [
+        "Post-mortem staging, careful evidence concealment"
+      ]
+    },
+    "geographic_behavior": {
+      "crime_scene_location": "Remote wooded location with park accessibility",
+      "crime_scene_layout": "Hidden ravine, off main trails",
+      "crime_scene_characteristics": "Deliberate concealment and body posing",
+      "reasoning": [
+        "Local area familiarity",
+        "Experienced remote transport and concealment"
+      ]
+    },
+    "skills_and_knowledge": {
+      "technical_skills": "Moderate technical skills",
+      "planning_ability": "High planning capacity",
+      "weapon_proficiency": "Limited, manual methods favored",
+      "knot_tying": "Skilled with restraints",
+      "crime_scene_awareness": "High forensic awareness",
+      "reasoning": [
+        "Cleaned vehicle, restrained victim proficiency, forensic scene control"
+      ]
+    },
+    "investigative_implications": {
+      "prior_offenses": "Previous similar offenses likely",
+      "escalation_risk": "High potential escalation",
+      "documentation": "Likely documentation",
+      "victim_selection": "Young female college students, physically similar",
+      "cooling_off_period": "4-7 months intervals",
+      "reasoning": [
+        "Victim commonalities across similar crimes",
+        "interval noted among similar unsolved cases"
+      ]
+    },
+    "key_identifiers": {
+      "occupation_type": "Skilled trade, flexible employment",
+      "appearance": "Socially normal appearance",
+      "social_role": "Casually integrated community presence",
+      "hobbies": "Outdoor, vehicle interests",
+      "vehicle": "Ordinary passenger vehicle",
+      "reasoning": [
+        "Transportation evidence, community interactions noted"
+      ]
+    },
+    "reasoning": [
+      "Comprehensive profile from case evidence and patterns"
+    ]
+  },
+  "validation_metrics": {
+    "key_behavioral_indicators": [
+      "Controlled approach, victimology"
+    ],
+    "critical_evidence": [
+      "ligature, restraints, posing"
+    ],
+    "profile_accuracy_factors": [
+      "Consistent indicators linked to offender type"
+    ]
+  },
+  "framework_classifications": {
+    "narrative_action_system": {
+      "primary_classification": "REVENGEFUL",
+      "confidence": 0.8,
+      "supporting_evidence": [
+        "methodical control",
+        "targeted females"
+      ],
+      "contradicting_evidence": [],
+      "reasoning": [
+        "Planned personal mission characteristics"
+      ]
+    },
+    "sexual_behavioral_analysis": {
+      "primary_classification": "POWER_ASSERTIVE",
+      "confidence": 0.85,
+      "supporting_evidence": [
+        "control & violence"
+      ],
+      "contradicting_evidence": [],
+      "reasoning": [
+        "Sexual intent escalated to murder for control"
+      ]
+    },
+    "sexual_homicide_pathways_analysis": {
+      "primary_classification": "OPPORTUNISTIC",
+      "confidence": 0.7,
+      "supporting_evidence": [
+        "Sexual assault turned fatal"
+      ],
+      "contradicting_evidence": [],
+      "reasoning": [
+        "Primary sex intent, murder instrumental"
+      ]
+    },
+    "spatial_behavioral_analysis": {
+      "primary_classification": "COMMUTER",
+      "confidence": 0.9,
+      "supporting_evidence": [
+        "Vehicle use",
+        "Body transported far from initial scene"
+      ],
+      "contradicting_evidence": [],
+      "reasoning": [
+        "Offender travels distance to commit and conceal crimes"
+      ]
+    }
+  }
+}

@@ -1,0 +1,153 @@
+{
+  "case_id": "99244886-7fa4-442a-9373-bc34118442a5",
+  "offender_profile": {
+    "demographics": {
+      "age_range": "Late 20s - mid 30s",
+      "gender": "MALE",
+      "employment": "Employment with flexible hours or skilled trade",
+      "relationship": "Single or separated",
+      "living_situation": "Lives alone or independently",
+      "education": "High-school education, possibly vocational/technical training; moderate-high intelligence",
+      "reasoning": [
+        "Methodical planning, offense timing",
+        "Technical proficiency with tools/materials",
+        "Offense behavior and sexual assault nature strongly suggest male"
+      ]
+    },
+    "psychological_characteristics": {
+      "personality_type": "Psychopathic, controlled emotionally detached personality",
+      "control_needs": "High need for domination and control",
+      "social_competence": "Superficial adequacy, deeper relationship dysfunction",
+      "stress_factors": "Perceived humiliation or inadequacy, stress from isolation",
+      "fantasy_elements": "Intense, violent, domination-oriented fantasies",
+      "anger_management": "Controlled methodical expression through domination rather than impulsivity",
+      "reasoning": [
+        "Sequential killings, control indicators",
+        "Sexual assault indicates deep fantasy life",
+        "Emotional detachment evidenced in actions"
+      ]
+    },
+    "behavioral_characteristics": {
+      "crime_scene_behavior": "Highly organized, methodical",
+      "violence_type": "Controlled strangulation, systematic dominating violence",
+      "victim_interaction": "Calculated, controlling, intimidation initially and intimate violence thereafter",
+      "post_offense_behavior": "Calm, careful, trophy-taking, methodical escape",
+      "risk_taking": "Moderate, calculated risk",
+      "trophy_taking": "Yes, personal items (watch, radio)",
+      "reasoning": [
+        "Scene preparation, binding victims systematically",
+        "Vehicle abandonment calculated",
+        "Evidence of trophies indicates reliving event"
+      ]
+    },
+    "geographic_behavior": {
+      "crime_scene_location": "Residential home, urban neighborhood",
+      "crime_scene_layout": "Single-family household",
+      "crime_scene_characteristics": "Crime without forced entry, organized sequential scene",
+      "reasoning": [
+        "No forced entry",
+        "Prior knowledge of family schedule/location",
+        "Crime and car abandonment nearby indicate familiarity"
+      ]
+    },
+    "skills_and_knowledge": {
+      "technical_skills": "Moderate to high technical proficiency",
+      "planning_ability": "High capacity for planning, organization",
+      "weapon_proficiency": "Moderate, sufficient to control victims",
+      "knot_tying": "High skill in restraint/knots",
+      "crime_scene_awareness": "Moderate awareness, basic not expert",
+      "reasoning": [
+        "Cut phone lines, binding expertise",
+        "Evidence cleanup & calculated escape"
+      ]
+    },
+    "investigative_implications": {
+      "prior_offenses": "Previous sexual offenses likely",
+      "escalation_risk": "High risk of escalation",
+      "documentation": "Likely through souvenirs",
+      "victim_selection": "Vulnerable family, children present especially female",
+      "cooling_off_period": "Moderate to long cooling off periods",
+      "reasoning": [
+        "Offender's advanced planning indicates experience",
+        "Sexual nature indicates escalation patterns"
+      ]
+    },
+    "key_identifiers": {
+      "occupation_type": "Technician, skilled manual laborer",
+      "appearance": "Average, inconspicuous",
+      "social_role": "Quiet or neutral community role",
+      "hobbies": "Mechanical interests, violent pornography or voyeurism",
+      "vehicle": "Medium-sized, maintained sedan",
+      "reasoning": [
+        "Seen vehicle close to scene",
+        "Offense toolkit indicates mechanical interests"
+      ]
+    },
+    "reasoning": [
+      "Detailed analysis based on crime scene evidence, offender behavior, and classification frameworks applied"
+    ]
+  },
+  "validation_metrics": {
+    "key_behavioral_indicators": [
+      "Planning",
+      "Controlled dominance",
+      "Sexual assault behavior"
+    ],
+    "critical_evidence": [
+      "Bindings",
+      "trophy-taking",
+      "no forced entry"
+    ],
+    "profile_accuracy_factors": [
+      "precise evidence correlation with frameworks"
+    ]
+  },
+  "framework_classifications": {
+    "narrative_action_system": {
+      "primary_classification": "PROFESSIONAL",
+      "confidence": 0.9,
+      "supporting_evidence": [
+        "Calm organized scene, sequential killings"
+      ],
+      "contradicting_evidence": [
+        "Minor struggle in scene"
+      ],
+      "reasoning": [
+        "Clearly controlled, calculated crime execution"
+      ]
+    },
+    "sexual_behavioral_analysis": {
+      "primary_classification": "ANGER_EXCITATION",
+      "confidence": 0.9,
+      "supporting_evidence": [
+        "Sexual Assault controlled violence"
+      ],
+      "contradicting_evidence": [],
+      "reasoning": [
+        "Prolonged, ritualized violence indicative"
+      ]
+    },
+    "sexual_homicide_pathways_analysis": {
+      "primary_classification": "SADISTIC",
+      "confidence": 0.9,
+      "supporting_evidence": [
+        "Intense control-focused sexual assault"
+      ],
+      "contradicting_evidence": [],
+      "reasoning": [
+        "Dominant violence patterns displayed"
+      ]
+    },
+    "spatial_behavioral_analysis": {
+      "primary_classification": "MARAUDER",
+      "confidence": 0.9,
+      "supporting_evidence": [
+        "Local knowledge, abandonment location"
+      ],
+      "contradicting_evidence": [],
+      "reasoning": [
+        "Offender displays clear marauder spatial behaviors"
+      ]
+    }
+  }
+}

@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gold Standards - Profiling-LLM</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="gold-standards.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.5/dist/purify.min.js"></script>
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <i class="fas fa-brain"></i>
+            <span>Profiling-LLM</span>
+        </div>
+        <h1>Gold Standards Collection</h1>
+        <div class="nav-links">
+            <a href="index.html" class="nav-link"><i class="fas fa-chart-bar"></i> Dashboard</a>
+            <a href="https://github.com/makcanca/profiling-llm" target="_blank" class="nav-link github-link"><i class="fab fa-github"></i> GitHub</a>
+            <div class="theme-toggle">
+                <i class="fas fa-moon"></i>
+                <label class="switch">
+                    <input type="checkbox" id="theme-switch">
+                    <span class="slider round"></span>
+                </label>
+                <i class="fas fa-sun"></i>
+            </div>
+        </div>
+    </header>
+
+    <div class="container">
+        <div class="gold-standards-intro">
+            <h2>Standards Used for Evaluation</h2>
+            <p>
+                These profiles represents a curated collection of criminal profiles based on publicly available case evidence.
+            </p>
+            
+            <div class="frameworks-overview">
+                <h3>Criminal Profiling Frameworks</h3>
+                
+                <div class="framework-section">
+                    <h4><i class="fas fa-theater-masks"></i> Narrative Action System (NAS)</h4>
+                    <p>The Narrative Action System, developed by Youngs and Canter, categorizes criminal behavior according to four narrative roles that shape offender actions and decision-making. These roles emerge from the intersection of two fundamental psychological dimensions: potency (control/mastery versus powerlessness) and intimacy (significance versus insignificance of others).</p>
+                    
+                    <div class="framework-types">
+                        <div class="framework-type framework-nas">
+                            <h5>REVENGEFUL MISSION</h5>
+                            <p>Strong protagonist seeking specific impact on significant others within a quest narrative</p>
+                        </div>
+                        <div class="framework-type framework-nas">
+                            <h5>TRAGIC HERO</h5>
+                            <p>Powerless protagonist enacting an inevitable, justified response within a tragedy narrative</p>
+                        </div>
+                        <div class="framework-type framework-nas">
+                            <h5>PROFESSIONAL</h5>
+                            <p>Competent protagonist demonstrating mastery and control within an adventure narrative</p>
+                        </div>
+                        <div class="framework-type framework-nas">
+                            <h5>VICTIM</h5>
+                            <p>Confused, powerless protagonist reacting to significant others within an irony narrative</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="framework-section">
+                    <h4><i class="fas fa-exclamation-triangle"></i> Sexual Homicide Patterns Analysis (SHPA)</h4>
+                    <p>This framework, derived from the work of Keppel and Walter, provides a specialized classification for sexual homicides based on motivational factors:</p>
+                    
+                    <div class="framework-types">
+                        <div class="framework-type framework-shpa">
+                            <h5>ANGER-EXCITATION</h5>
+                            <p>Planned sexual assault and murder designed to inflict pain and terror for perpetrator's gratification</p>
+                        </div>
+                        <div class="framework-type framework-shpa">
+                            <h5>POWER-ASSERTIVE</h5>
+                            <p>Sexual assault where rape is planned but murder is an unplanned response to maintain control</p>
+                        </div>
+                        <div class="framework-type framework-shpa">
+                            <h5>POWER-REASSURANCE</h5>
+                            <p>Planned rape followed by unplanned overkill when fantasy of seduction fails</p>
+                        </div>
+                        <div class="framework-type framework-shpa">
+                            <h5>ANGER-RETALIATORY</h5>
+                            <p>Planned sexual assault and murder as symbolic revenge and anger</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="framework-section">
+                    <h4><i class="fas fa-route"></i> Sexual Homicide Pathways Assessment Framework (SHPAF)</h4>
+                    <p>This contemporary framework, based on the empirical research of Beauregard, Proulx, and colleagues, approaches sexual homicide through distinct pathways integrating crime scene behaviors, offender psychology, and developmental factors:</p>
+                    
+                    <div class="framework-types">
+                        <div class="framework-type framework-bcs">
+                            <h5>SADISTIC PATHWAY</h5>
+                            <p>Calculated, planned homicide driven by sadistic fantasies and sexual gratification through victim suffering and control; characterized by extensive preparation, sophisticated crime scenes, and post-mortem activities</p>
+                        </div>
+                        <div class="framework-type framework-bcs">
+                            <h5>ANGRY PATHWAY</h5>
+                            <p>Homicide resulting from intense rage where sexual elements serve as vehicles for expressing aggression rather than primary gratification; characterized by excessive violence, overkill, minimal planning, and often triggered by specific events</p>
+                        </div>
+                        <div class="framework-type framework-bcs">
+                            <h5>OPPORTUNISTIC PATHWAY</h5>
+                            <p>Homicide occurring as an unplanned extension of sexual assault, typically instrumental to avoid detection or in response to victim resistance; characterized by mixed organized/disorganized elements with evidence of situational escalation</p>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="framework-section">
+                    <h4><i class="fas fa-map-marked-alt"></i> Spatial Behavioral Analysis</h4>
+                    <p>Geographic profiling examines the spatial aspects of criminal behavior, classifying offenders based on their movement patterns:</p>
+                    
+                    <div class="framework-types">
+                        <div class="framework-type framework-spatial">
+                            <h5>MARAUDER</h5>
+                            <p>Criminal operates from a fixed base within their comfort zone</p>
+                        </div>
+                        <div class="framework-type framework-spatial">
+                            <h5>COMMUTER</h5>
+                            <p>Criminal travels to commit crimes outside their home area</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="academic-references">
+                <h3>Key Academic References</h3>
+                <ul>
+                    <li>
+                        Keppel, R. D., & Walter, R. (1999). Profiling killers: A revised classification model for understanding sexual murder. <em>International Journal of Offender Therapy and Comparative Criminology, 43(4)</em>, 417–437. <a href="https://doi.org/10.1177/0306624X99434002" target="_blank">https://doi.org/10.1177/0306624X99434002</a>
+                    </li>
+                    <li>
+                        Youngs, D., & Canter, D. V. (2012). Narrative roles in criminal action: An integrative framework for differentiating offenders. <em>Legal and Criminological Psychology, 17(2)</em>, 233–249. <a href="https://doi.org/10.1111/j.2044-8333.2011.02011.x" target="_blank">https://doi.org/10.1111/j.2044-8333.2011.02011.x</a>
+                    </li>
+                    <li>
+                        Beauregard, Eric & Martineau, Melissa. (2016). <em>The Sexual Murderer: Offender behavior and implications for practice</em>. <a href="https://doi.org/10.4324/9781315683768" target="_blank">https://doi.org/10.4324/9781315683768</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="gold-standards-grid" id="gold-standards-grid">
+            <!-- Cards will be dynamically populated -->
+        </div>
+
+        <div class="profile-viewer" id="profile-viewer">
+            <div class="profile-viewer-header">
+                <h2 id="profile-title">Select a profile to view</h2>
+                <button id="close-profile" class="btn secondary-btn">
+                    <i class="fas fa-times"></i> Close
+                </button>
+            </div>
+
+            <div class="profile-viewer-content" id="profile-content">
+                <div class="profile-left-panel">
+                    <div class="profile-image-container" id="profile-image">
+                        <div class="profile-image-placeholder">
+                            <i class="fas fa-user-secret"></i>
+                        </div>
+                    </div>
+                    <div class="case-summary-card">
+                        <h3><i class="fas fa-file-alt"></i> Case Summary</h3>
+                        <div id="case-summary">
+                            <p>Select a profile to view case details</p>
+                        </div>
+                    </div>
+                    <div class="framework-analysis-card">
+                        <h3><i class="fas fa-sitemap"></i> Framework Classifications</h3>
+                        <div id="framework-classifications">
+                            <!-- Will be populated dynamically -->
+                        </div>
+                    </div>
+                </div>
+                <div class="profile-main-content">
+                    <div class="tabs">
+                        <button class="tab-btn active" data-tab="demographics">Demographics</button>
+                        <button class="tab-btn" data-tab="psychological">Psychological</button>
+                        <button class="tab-btn" data-tab="behavioral">Behavioral</button>
+                        <button class="tab-btn" data-tab="geographic">Geographic</button>
+                        <button class="tab-btn" data-tab="skills">Skills & Knowledge</button>
+                        <button class="tab-btn" data-tab="investigative">Investigative</button>
+                        <button class="tab-btn" data-tab="identifiers">Key Identifiers</button>
+                        <button class="tab-btn" data-tab="validation">Validation</button>
+                    </div>
+                    <div class="tab-content" id="tab-content">
+                        <div class="placeholder-content">
+                            <i class="fas fa-user-secret placeholder-icon"></i>
+                            <p>Select a gold standard profile to explore detailed criminal behavior analysis</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <footer>
+        <div class="footer-content">
+            <p class="copyright">© 2025 Mustafa Akcanca, GNU GPLv3</p>
+            <a href="https://github.com/makcanca/profiling-llm" target="_blank" class="footer-github-link">
+                <i class="fab fa-github"></i> View on GitHub
+            </a>
+        </div>
+    </footer>
+    
+    <script src="gold-standards-loader.js"></script>
+    <script src="gold-standards.js"></script>
+</body>
+</html> 

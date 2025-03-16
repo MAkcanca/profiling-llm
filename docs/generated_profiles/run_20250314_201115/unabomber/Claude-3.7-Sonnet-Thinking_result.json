@@ -1,0 +1,194 @@
+{
+  "case_id": "9dd8bd29-8376-4deb-8de0-bc8be2cf04b3",
+  "offender_profile": {
+    "demographics": {
+      "age_range": "35-50 years",
+      "gender": "MALE",
+      "employment": "Likely unemployed, underemployed, or self-employed in isolated setting",
+      "relationship": "Single, socially isolated",
+      "living_situation": "Lives alone in rural or semi-rural setting with privacy for activities",
+      "education": "Advanced education in technical field (engineering, mathematics, or sciences) with above-average intelligence",
+      "reasoning": [
+        "Device construction shows advanced technical knowledge indicating education and maturity",
+        "Statistical likelihood in bombing cases suggests male perpetrator",
+        "The time required to plan and execute multiple bombings suggests limited social commitments",
+        "Crafting bombs requires private workspace away from observation",
+        "Target selection of academic professionals suggests familiarity with these environments"
+      ]
+    },
+    "psychological_characteristics": {
+      "personality_type": "Introverted, meticulous, detail-oriented with rigid ideology",
+      "control_needs": "High need for control demonstrated through precision of devices and selection of targets",
+      "social_competence": "Limited social skills; likely functions minimally in necessary interactions but avoids deeper connections",
+      "stress_factors": "Perceived threats from technological advancement; possible rejection from academic or professional communities",
+      "fantasy_elements": "Fantasizes about recognition of intellectual superiority and vindication of ideological viewpoint",
+      "anger_management": "Anger channeled through calculated, delayed action rather than immediate outbursts",
+      "reasoning": [
+        "The meticulous construction of devices indicates obsessive attention to detail",
+        "The selection of targets in technical/academic fields suggests ideological motivation",
+        "The preference for distance attacks rather than confrontation suggests limited social comfort",
+        "The progression of attacks over years indicates persistent grievance",
+        "The calculated nature of attacks suggests controlled rather than impulsive anger expression"
+      ]
+    },
+    "behavioral_characteristics": {
+      "crime_scene_behavior": "Highly organized with methodical planning and execution",
+      "violence_type": "Instrumental violence serving ideological purpose; indirect rather than confrontational",
+      "victim_interaction": "No direct interaction; selects victims based on symbolic value rather than personal connection",
+      "post_offense_behavior": "Likely monitors media coverage; continues planning next attack; maintains internal justification",
+      "risk_taking": "Calculated risk-taker; minimizes exposure through distance attacks and forensic countermeasures",
+      "trophy_taking": "May collect news articles about attacks; keeps no traditional trophies from scenes",
+      "reasoning": [
+        "No forensic evidence recovered indicates careful planning and execution",
+        "The consistent methodology across multiple attacks shows organized behavior",
+        "Mail bombing method allows for distance from victims, indicating preference for indirect violence",
+        "The series of attacks over years shows sustained mission without need for public acknowledgment",
+        "The selection of materials to avoid tracing demonstrates risk awareness"
+      ]
+    },
+    "geographic_behavior": {
+      "crime_scene_location": "Targets academic and technological institutions across multiple states",
+      "crime_scene_layout": "Bombs designed to detonate in office environments when opened by specific recipients",
+      "crime_scene_characteristics": "Offender not present at scene; devices delivered through mail system",
+      "reasoning": [
+        "All known targets have been academic researchers or technology professionals",
+        "Packages addressed to specific individuals in institutional settings",
+        "Mail delivery method ensures offender's absence from crime scene",
+        "Multiple states targeted indicates broad geographical selection based on symbolic rather than convenient targets"
+      ]
+    },
+    "skills_and_knowledge": {
+      "technical_skills": "Extremely high technical proficiency in explosives and mechanical design",
+      "planning_ability": "Exceptional planning capacity demonstrated by sustained campaign over years",
+      "weapon_proficiency": "Specialized knowledge of explosive devices; likely self-taught rather than formal training",
+      "knot_tying": "Not directly applicable, but shows precision in trigger mechanism construction",
+      "crime_scene_awareness": "Very high awareness of forensic techniques; deliberately avoids leaving evidence",
+      "reasoning": [
+        "Handcrafted wooden containers and functioning trigger mechanisms demonstrate technical skill",
+        "Consistent methodology over multiple incidents shows planning capacity",
+        "Use of common materials rather than military explosives suggests self-taught knowledge",
+        "No fingerprints or DNA recovered indicates forensic awareness",
+        "Evidence of hand-planing wood surfaces shows craftsmanship and attention to detail"
+      ]
+    },
+    "investigative_implications": {
+      "prior_offenses": "Likely history of minor property crimes or trespassing rather than violent offenses; six similar bombings established",
+      "escalation_risk": "Moderate to high risk of continued attacks with potential for increased sophistication",
+      "documentation": "Likely maintains detailed records documenting ideology and technical specifications",
+      "victim_selection": "Targets individuals in technological and academic fields, particularly those working on advanced computing and surveillance technologies",
+      "cooling_off_period": "Pattern suggests approximately 1-2 attacks per year based on previous incidents",
+      "reasoning": [
+        "Series of similar bombings from 1985-1989 establishes pattern of behavior",
+        "Progressive refinement of technique suggests ongoing commitment to cause",
+        "Methodical nature suggests documentation of activities",
+        "All victims are connected to technology or research fields",
+        "Timing of previous incidents suggests planning cycles between attacks"
+      ]
+    },
+    "key_identifiers": {
+      "occupation_type": "Background in engineering, mathematics, or physical sciences; currently isolated from mainstream employment",
+      "appearance": "Likely unremarkable in appearance; conventional enough not to draw attention",
+      "social_role": "Minimal community involvement; perceived as reclusive but not threatening",
+      "hobbies": "Woodworking, mechanical projects, philosophical study of technology's impact on society",
+      "vehicle": "If present, older practical model that is well-maintained but not attention-drawing",
+      "reasoning": [
+        "Technical skills evident in bomb construction suggest background in technical field",
+        "Need to mail packages without raising suspicion requires ordinary appearance",
+        "Ideology and time commitment to bombings suggests limited community engagement",
+        "Evidence of hand-crafted wooden components indicates woodworking skills",
+        "Pattern of behavior suggests practical rather than status-oriented personality"
+      ]
+    },
+    "reasoning": [
+      "The methodical construction of devices indicates someone with technical training and meticulous attention to detail",
+      "The targeting pattern focuses exclusively on academic and technological professionals, suggesting ideological motivation",
+      "The consistency of methodology across multiple incidents indicates a mission-oriented offender",
+      "The geographic distribution of targets with Northern California origin suggests strategic target selection rather than convenience",
+      "The absence of direct communication indicates someone who believes their actions speak for themselves",
+      "The timeline of attacks shows sustained commitment to cause over multiple years"
+    ]
+  },
+  "validation_metrics": {
+    "key_behavioral_indicators": [
+      "Continued targeting of academic/technology professionals",
+      "Consistent use of handcrafted wooden containers for devices",
+      "Meticulous construction with similar explosive mechanisms",
+      "Forensic awareness and countermeasures",
+      "Mailing pattern originating from Northern California"
+    ],
+    "critical_evidence": [
+      "Distinctive hand-planed wooden components",
+      "Similar mechanical trigger mechanisms across incidents",
+      "Targeting pattern focusing on technology researchers",
+      "Postal evidence linking to Northern California",
+      "Timeline establishing pattern from 1985-1989"
+    ],
+    "profile_accuracy_factors": [
+      "Consistency of device construction techniques",
+      "Specificity of target selection criteria",
+      "Geographic origin of mailings",
+      "Technical sophistication of devices",
+      "Forensic avoidance behaviors"
+    ]
+  },
+  "framework_classifications": {
+    "narrative_action_system": {
+      "primary_classification": "REVENGEFUL",
+      "confidence": 0.85,
+      "supporting_evidence": [
+        "Targeting specific professionals in technology fields indicates mission-oriented approach",
+        "Controlled, methodical violence without signs of chaos",
+        "Evidence of preparation and determination to complete action",
+        "Crime scene shows signs of a justified 'mission' or purpose",
+        "Calm execution despite negative motivation"
+      ],
+      "contradicting_evidence": [
+        "No explicit communications explaining motivation",
+        "Some opportunistic elements in target selection across wide geography"
+      ],
+      "reasoning": [
+        "The pattern of targeting academic and technological professionals suggests a revengeful mission narrative",
+        "The meticulous construction of devices indicates a calm, controlled approach to violence",
+        "The consistent methodology across multiple incidents suggests a mission-driven purpose",
+        "The absence of emotional indicators at crime scenes aligns with controlled execution",
+        "Target selection based on professional roles rather than personal connections indicates symbolic targeting"
+      ]
+    },
+    "sexual_behavioral_analysis": {
+      "primary_classification": null,
+      "confidence": null,
+      "supporting_evidence": null,
+      "contradicting_evidence": null,
+      "reasoning": null
+    },
+    "sexual_homicide_pathways_analysis": {
+      "primary_classification": null,
+      "confidence": null,
+      "supporting_evidence": null,
+      "contradicting_evidence": null,
+      "reasoning": null
+    },
+    "spatial_behavioral_analysis": {
+      "primary_classification": "COMMUTER",
+      "confidence": 0.9,
+      "supporting_evidence": [
+        "Clear spatial distinction between residence (Northern California) and offense locations across multiple states",
+        "Evidence of targeted location selection based on victim characteristics rather than geography",
+        "Willingness to cross jurisdictional boundaries to commit crimes",
+        "Crimes demonstrate consistency in methodology despite geographic dispersion",
+        "Use of postal system indicates comfort with distance between self and targets"
+      ],
+      "contradicting_evidence": [
+        "Limited information about actual residence location",
+        "Postal origin may not represent true home base"
+      ],
+      "reasoning": [
+        "The mailing of packages from Northern California to targets across multiple states establishes a clear commuter pattern",
+        "The selection of targets appears based on symbolic value rather than geographic convenience",
+        "The consistent use of the postal system demonstrates comfort operating across jurisdictional boundaries",
+        "The absence of geographic clustering around a specific area suggests deliberate separation between anchor point and targets",
+        "The nationwide distribution of targets with consistent methodology indicates target selection based on characteristics rather than proximity"
+      ]
+    }
+  }
+}

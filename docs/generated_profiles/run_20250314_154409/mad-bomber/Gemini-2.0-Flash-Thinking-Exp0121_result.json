@@ -1,0 +1,188 @@
+{
+  "case_id": "92508df4-89cd-4935-bde0-2f00bea3b164",
+  "offender_profile": {
+    "demographics": {
+      "age_range": "45-65 years old",
+      "gender": "MALE",
+      "employment": "Likely former manual labor or skilled trade worker, possibly unemployed or retired.",
+      "relationship": "Likely single, divorced, widowed or socially isolated.",
+      "living_situation": "Likely living alone or in minimal social setting.",
+      "education": "Likely possesses a skilled trade level education with average to above-average intelligence in technical domains. May have language background suggesting non-native English speaker or foreign education.",
+      "reasoning": [
+        "**Age Range (45-65):** Surveillance footage suggests 'middle-aged'. Communications reference injury in 'early 2000s' and '13 years waiting', pointing to someone older than mid-30s. Assuming injury occurred around age 30-40, current age would be in this range.",
+        "**Gender (MALE):** Grievance related to workplace injury in utilities sector is statistically more associated with male-dominated professions. Surveillance footage depicts an 'individual' which lacks specific gender indicators but given the context male is more probable.",
+        "**Employment (Former manual worker/unemployed/retired):** Grievance centers on workplace injury at EGU. Skills in bomb-making suggest some technical aptitude, possibly from manual labor background. Unemployment or retirement could explain time available for device construction and attacks.",
+        "**Relationship Status (Isolated):** Communications are focused on grievance, lacking social context. Actions are solitary, suggesting social isolation. Lack of personal connections implied by anonymity and indirect communication methods.",
+        "**Living Arrangements (Living Alone):**  Social isolation and focus on grievance suggest minimal social network, possibly living alone. This would provide more opportunity and less scrutiny for planning and executing offenses.",
+        "**Education/Intelligence (Skilled Trade/Average to Above Average):** Bomb-making requires some technical skill and planning, indicating at least average intelligence. Grammatical issues in communications suggest possible non-native English speaker or foreign education, or simply lower formal education level, but technical skills suggest practical intelligence."
+      ]
+    },
+    "psychological_characteristics": {
+      "personality_type": "Resentful and grudge-holding personality with methodical and potentially paranoid traits.",
+      "control_needs": "Low need for general power and control, but a strong need for recognition and justice related to perceived grievance.",
+      "social_competence": "Likely poor social skills, struggles with direct communication and interpersonal relationships, prefers indirect and anonymous methods.",
+      "stress_factors": "Unresolved workplace injury, perceived injustice and lack of compensation from EGU, potential financial hardship, feeling ignored or dismissed.",
+      "fantasy_elements": "Fantasies centered on recognition of grievance, justice being served against EGU, and being acknowledged for suffering. Not sexually motivated or overtly violent fantasies, but focused on righting a perceived wrong.",
+      "anger_management": "Anger is suppressed and channeled into methodical, planned actions rather than explosive outbursts. Anger is a persistent undercurrent fueling the long-term campaign of bombings.",
+      "reasoning": [
+        "**Personality (Resentful/Methodical/Paranoid):** Long-term grievance, repeated references to being 'wronged', and meticulous device construction point to resentment and methodical nature. Surveillance avoidance and encrypted emails suggest paranoia or heightened caution.",
+        "**Need for Power/Control (Low General, High Grievance-Related):** Actions are not about general domination, but specifically about EGU. The goal is to be heard and compensated, suggesting a need for grievance recognition rather than broad power seeking.",
+        "**Social Skills (Poor):** Indirect communication via bombs and notes, avoidance of direct confrontation, and anonymity indicate poor social skills and preference for non-personal interaction. Reluctance to be seen on camera reinforces social avoidance.",
+        "**Stressors (Workplace Injury/Injustice/Lack of Compensation):** Communications explicitly state workplace injury in 'early 2000s', lack of compensation, and feeling wronged by EGU. These form the core stressors driving the actions.",
+        "**Fantasies (Recognition/Justice):** Communications and actions are consistently focused on 'justice', 'fair consideration', and being 'heard'. Fantasies are likely centered on EGU acknowledging wrongdoing and providing compensation, not gratuitous violence or sexual gratification.",
+        "**Anger Expression (Suppressed/Methodical):**  Actions are planned and executed over a long period, suggesting suppressed anger rather than impulsive rage. The methodical device construction and escalation indicate controlled, directed anger."
+      ]
+    },
+    "behavioral_characteristics": {
+      "crime_scene_behavior": "Organized and methodical crime scenes with evidence of planning and consistent methodology in device construction and placement.",
+      "violence_type": "Instrumental violence, designed to cause disruption and public attention rather than mass casualties. Violence is a means to an end (recognition of grievance) rather than an end in itself.",
+      "victim_interaction": "No direct interaction with victims. Targets are symbolic (EGU facilities, public places) representing the perceived source of grievance or the public who should be 'warned'.",
+      "post_offense_behavior": "Communicates with media to explain motives, monitors investigation by avoiding surveillance, and continues to refine device sophistication over time.",
+      "risk_taking": "Calculated risk-taker. Takes risks by planting bombs but mitigates risks through forensic awareness (no fingerprints/DNA), surveillance avoidance, and using public Wi-Fi.",
+      "trophy_taking": "No evidence of trophy taking. The 'trophy' is arguably the public attention and media coverage of the grievance.",
+      "reasoning": [
+        "**Organization (Organized/Methodical):** Consistent device construction, planned placement, and communications strategy demonstrate organized behavior. Lack of fingerprints/DNA also indicates a degree of pre-planning and awareness.",
+        "**Violence Nature (Instrumental):** Devices are designed to cause injury and disruption, but not mass fatalities. This suggests the violence is a tool to achieve recognition of grievance rather than a desire for indiscriminate harm. Injury minimization points to instrumental use of violence.",
+        "**Victim Interaction (No Direct Interaction/Symbolic Targets):** Absence of direct victim contact and targeting of EGU facilities and public spaces indicates symbolic victim selection. The 'victims' are representative of EGU or the public who are being 'warned'.",
+        "**Post-Offense Behavior (Communicates/Monitors/Refines):** Media communications, surveillance avoidance, and escalating device sophistication show post-offense engagement. The offender actively seeks to manage the narrative and continue the campaign.",
+        "**Risk Level (Calculated):** Planting bombs is inherently risky, but the offender takes steps to minimize personal risk (forensic awareness, surveillance avoidance, public Wi-Fi). This suggests a calculated approach to risk-taking, where risks are weighed against perceived gains (grievance recognition).",
+        "**Trophies (None):** Lack of souvenir taking and focus on communication suggest trophies are not part of the motivation. The desired 'trophy' is public acknowledgement of the grievance and potential compensation."
+      ]
+    },
+    "geographic_behavior": {
+      "crime_scene_location": "Urban/city environment.",
+      "crime_scene_layout": "Varied public locations including transit hubs, cinemas, libraries, public charging stations, and EGU facilities.",
+      "crime_scene_characteristics": "Public, accessible locations with symbolic value related to EGU's operations or public visibility.",
+      "reasoning": [
+        "**Location (Urban/City):** Target locations are within a city, indicating an urban operational base.",
+        "**Layout (Varied Public Locations):** Targets are diverse public spaces, suggesting opportunistic selection within the city or deliberate targeting of locations with high public visibility or EGU association.",
+        "**Characteristics (Public/Accessible/Symbolic):** Locations are generally accessible to the public, maximizing potential for disruption and attention. EGU facilities are direct targets related to the grievance, while public spaces amplify the message and public awareness."
+      ]
+    },
+    "skills_and_knowledge": {
+      "technical_skills": "Moderate technical proficiency in bomb-making, electronics (timing mechanisms), and basic chemistry (explosives).",
+      "planning_ability": "High capacity for planning and organization, evident in long-term campaign, consistent methodology, and communication strategy.",
+      "weapon_proficiency": "Comfortable with using crude explosive devices as 'weapons' to achieve objectives, though not necessarily skilled in conventional weaponry.",
+      "knot_tying": "Not applicable.",
+      "crime_scene_awareness": "High awareness of forensic evidence, demonstrated by efforts to avoid leaving fingerprints and DNA, and using public Wi-Fi.",
+      "reasoning": [
+        "**Technical Proficiency (Moderate):** Device construction shows practical skills in mechanics, basic electronics, and chemistry, but not advanced or professional-level expertise. Crude pipe bombs and simple timing mechanisms indicate moderate skill.",
+        "**Planning/Organization (High):** Long-term campaign spanning years, consistent device design, escalating sophistication, and communication efforts all point to strong planning and organizational abilities.",
+        "**Weapons Skill (Crude Bombs):**  Comfort and willingness to use bombs as tools for communication and disruption indicate a form of 'weapon skill' within the context of homemade explosives, even if not in conventional weaponry.",
+        "**Restraints/Knots (N/A):** Not relevant to this case.",
+        "**Forensic Awareness (High):** Efforts to avoid fingerprints/DNA and use of public Wi-Fi demonstrate a conscious effort to evade detection, indicating awareness of forensic investigation techniques."
+      ]
+    },
+    "investigative_implications": {
+      "prior_offenses": "Unlikely history of prior violent crimes. Possible history of workplace disputes or minor incidents, but no indication of prior serious criminal behavior.",
+      "escalation_risk": "Moderate to high risk of escalation. Devices are becoming more sophisticated and reliable. Frustration with lack of response could lead to more dangerous devices or targeting strategies.",
+      "documentation": "Yes, the subject actively documents crimes through written notes, letters, and encrypted emails to media outlets.",
+      "victim_selection": "Symbolic victim selection. Targets represent EGU or public spaces, not specific individuals. Victimology is defined by association with EGU or public visibility rather than personal characteristics.",
+      "cooling_off_period": "Variable time between offenses, with periods of inactivity followed by resumed activity and escalation. Offenses may be triggered by perceived lack of progress or re-emergence of grievance.",
+      "reasoning": [
+        "**Previous Crimes (Unlikely Violent):** Escalation from no violence to bombings suggests a grievance-driven motive rather than a pre-existing pattern of violent behavior. Lack of prior criminal record is probable.",
+        "**Escalation Risk (Moderate to High):** Device sophistication is increasing, suggesting a learning curve and willingness to escalate. Lack of desired response from EGU could fuel further escalation to more dangerous tactics.",
+        "**Documents Crimes (Yes):** Extensive communications demonstrate a desire to document and explain actions. Notes, letters, and emails serve as a record of motives and grievances.",
+        "**Victimology (Symbolic):** Targets are chosen for their symbolic connection to EGU or public visibility, not based on individual victim characteristics. 'Victims' are incidental to the message.",
+        "**Time Between Offenses (Variable):** Inconsistent timing suggests offenses may be triggered by external factors (e.g., news related to EGU, personal reminders of grievance) or planned in bursts followed by periods of observation."
+      ]
+    },
+    "key_identifiers": {
+      "occupation_type": "Likely former EGU manual labor or skilled trade worker.",
+      "appearance": "Middle-aged appearance. Surveillance footage suggests average build, possibly with a limp or right leg impairment. Likely dresses inconspicuously to blend in.",
+      "social_role": "Likely a loner, not actively involved in community or social groups. Isolated and focused on personal grievance.",
+      "hobbies": "Possible interests in mechanics, electronics, and technical hobbies. May engage in online forums related to workplace injuries or grievances, potentially under anonymous profiles.",
+      "vehicle": "Vehicle type is unknown, may use public transportation or own an older, unremarkable vehicle to avoid drawing attention.",
+      "reasoning": [
+        "**Occupation (Former EGU Manual Worker):** Directly inferred from grievance content and technical skill set, aligning with typical EGU workforce demographics.",
+        "**Appearance (Middle-aged/Limp/Inconspicuous):** Surveillance footage provides limited physical description. 'Middle-aged' and 'limp' are noted. Inconspicuous dress is inferred from surveillance avoidance and desire to remain undetected.",
+        "**Community Role (Loner):** Social isolation inferred from lack of personal connections in communications and solitary nature of actions.",
+        "**Interests/Hobbies (Technical/Grievance-Related):** Technical skills suggest possible hobbies in related areas. Grievance focus may extend to online forums seeking validation or support for perceived injustices.",
+        "**Vehicle (Unknown/Public Transport/Unremarkable Vehicle):** Vehicle is not specified in evidence. Public Wi-Fi usage and public target locations suggest potential reliance on public transport or use of an unremarkable vehicle to minimize traceability."
+      ]
+    },
+    "reasoning": [
+      "The offender profile is primarily driven by the consistent narrative of grievance against Eastern Grid Utilities (EGU) due to a perceived workplace injury and lack of compensation. This grievance is the central motivation evident across communications, target selection, and the escalation of actions.",
+      "The offender demonstrates methodical and organized behavior in device construction and placement, indicating planning and a degree of technical skill. However, the devices are designed for disruption and attention rather than mass casualties, suggesting instrumental violence focused on achieving recognition of the grievance.",
+      "The offender exhibits forensic awareness by avoiding fingerprints and DNA and using public Wi-Fi, suggesting an understanding of basic investigative techniques and a desire to remain undetected.",
+      "Spatial behavior analysis suggests a 'Marauder' pattern, with offenses occurring within the city, potentially close to a base of operations, and targeting familiar locations or locations of symbolic importance within their known environment.",
+      "Psychologically, the offender is characterized by resentment, suppressed anger, and a strong need for justice related to the perceived wrong. Social isolation and poor communication skills contribute to the indirect and anonymous nature of the attacks."
+    ]
+  },
+  "validation_metrics": {
+    "key_behavioral_indicators": [
+      "Continued communication referencing grievance against EGU and demanding 'fair consideration'.",
+      "Escalation in device sophistication and potentially target selection if grievance is not addressed.",
+      "Consistent use of similar device construction methods and materials.",
+      "Avoidance of direct confrontation and reliance on indirect methods of communication and action.",
+      "Maintenance of forensic awareness and efforts to evade detection in future incidents."
+    ],
+    "critical_evidence": [
+      "Confirmation of EGU employment history matching the timeframe and details mentioned in communications.",
+      "Documentation of a workplace injury at EGU around 'early 2000s' for an employee with characteristics matching the profile.",
+      "Records of denied worker's compensation claims or appeals related to the injury.",
+      "Surveillance footage definitively confirming physical description and gait impairment.",
+      "Recovery of device components or materials traceable to the offender's residence or known associates."
+    ],
+    "profile_accuracy_factors": [
+      "Lack of comprehensive surveillance data.",
+      "Assumptions made regarding gender and social isolation based on statistical probabilities and behavioral patterns.",
+      "Potential for misinterpretation of communication style and motives.",
+      "Evolution of offender behavior and tactics which may deviate from current profile predictions.",
+      "Possibility of copycat offenders or misattribution of responsibility if not all evidence is definitively linked."
+    ]
+  },
+  "framework_classifications": {
+    "narrative_action_system": {
+      "primary_classification": "REVENGEFUL",
+      "confidence": 0.9,
+      "supporting_evidence": [
+        "Consistent grievance against EGU clearly articulated in communications.",
+        "Targeted attacks against EGU facilities and locations with symbolic public impact.",
+        "Methodical and planned execution of bombings, indicating determination.",
+        "Communications frame actions as justified response to perceived injustice.",
+        "Escalation of devices suggests a focused 'mission' to achieve objectives."
+      ],
+      "contradicting_evidence": [
+        "No indicators of chaotic behavior typically associated with 'TRAGIC HERO'.",
+        "Actions are not purely 'PROFESSIONAL' as they are driven by personal grievance, not just technical mastery.",
+        "Offender is not acting as a 'VICTIM' in the sense of being coerced or confused, but rather as someone wronged seeking retribution."
+      ],
+      "reasoning": [
+        "The overwhelming evidence points to a sustained campaign of revenge driven by a specific grievance. The actions are purposeful and directed, aligning strongly with the 'REVENGEFUL MISSION' archetype. The high confidence score reflects the clear and consistent motive and methodology."
+      ]
+    },
+    "sexual_behavioral_analysis": {
+      "primary_classification": null,
+      "confidence": null,
+      "supporting_evidence": null,
+      "contradicting_evidence": null,
+      "reasoning": null
+    },
+    "sexual_homicide_pathways_analysis": {
+      "primary_classification": null,
+      "confidence": null,
+      "supporting_evidence": null,
+      "contradicting_evidence": null,
+      "reasoning": null
+    },
+    "spatial_behavioral_analysis": {
+      "primary_classification": "MARAUDER",
+      "confidence": 0.7,
+      "supporting_evidence": [
+        "Target locations are within the city, suggesting a localized operational area.",
+        "Targets include public places and EGU facilities within the city, potentially opportunistic within a familiar zone.",
+        "Public Wi-Fi usage suggests local activity and attempt to anonymize location within the city.",
+        "No evidence of long-distance travel or targeting locations far from the city."
+      ],
+      "contradicting_evidence": [
+        "Lack of definitive anchor point identification (e.g., residence).",
+        "Target locations are somewhat dispersed across the city, not tightly clustered.",
+        "Transportation methods are not explicitly defined, could involve some commuting within the city."
+      ],
+      "reasoning": [
+        "The evidence leans towards 'Marauder' due to the urban, localized nature of the attacks and target locations within the city. While not definitively proven, the available data supports the inference that the offender operates within a relatively confined geographic area within the city. Confidence is moderate due to lack of precise anchor point and some target dispersion."
+      ]
+    }
+  }
+}

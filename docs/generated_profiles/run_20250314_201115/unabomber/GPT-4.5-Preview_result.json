@@ -1,0 +1,137 @@
+{
+  "case_id": "9dd8bd29-8376-4deb-8de0-bc8be2cf04b3",
+  "offender_profile": {
+    "demographics": {
+      "age_range": "Late 20s to mid-40s",
+      "gender": "MALE",
+      "employment": "Technical, precision-oriented field or skilled manual trade",
+      "relationship": "Single or isolated relationship status",
+      "living_situation": "Solitary living, possibly rural or isolated location",
+      "education": "Above-average, likely higher education in engineering or technical sciences",
+      "reasoning": [
+        "Complexity and skill demonstrated in bomb-making point to high intelligence and education.",
+        "Historical data indicate most mail bombing offenders are males aged late 20-40s, often technically trained.",
+        "Solitary access required for prolonged clandestine activity."
+      ]
+    },
+    "psychological_characteristics": {
+      "personality_type": "Highly methodical, organized, grievance-oriented with possible paranoid traits",
+      "control_needs": "High, strongly desires control over outcomes and impacts",
+      "social_competence": "Poor social skills, limited interactions",
+      "stress_factors": "Perceived persecution, societal rejection, or ideological grievance",
+      "fantasy_elements": "Intense ideological grievance fantasies involving technology or academia",
+      "anger_management": "Controlled anger expressed indirectly through planned violence",
+      "reasoning": [
+        "Well-planned attacks and target-specific violence displaying control.",
+        "Absence of direct confrontation indicative of poor social interaction and preference for anonymity.",
+        "Persistent targeting and precision implying intense, ideologically linked anger."
+      ]
+    },
+    "behavioral_characteristics": {
+      "crime_scene_behavior": "Highly organized, forensically meticulous, deliberate execution",
+      "violence_type": "Instrumental violence for personal/ideological purposes, no unnecessary violence",
+      "victim_interaction": "Indirect, depersonalized interaction via explosive device",
+      "post_offense_behavior": "Returns to normal structured activities without suspicion",
+      "risk_taking": "Elevated calculated risks balanced with forensic caution",
+      "trophy_taking": "No trophies taken",
+      "reasoning": [
+        "Crime scenes consistently show meticulous forensic avoidance and skilled preparation.",
+        "Indirect method demonstrates depersonalized psychological approach."
+      ]
+    },
+    "geographic_behavior": {
+      "crime_scene_location": "Victim's professional office, non-personal space",
+      "crime_scene_layout": "Structured office, predictable routine facilitating targeting",
+      "crime_scene_characteristics": "Professionally organized institution targeted due to ideological symbolism",
+      "reasoning": [
+        "Consistent targeting of academic/research environments indicative of ideological motivations."
+      ]
+    },
+    "skills_and_knowledge": {
+      "technical_skills": "High, demonstrated through device sophistication and forensic measures",
+      "planning_ability": "Highly capable of complex logistical planning",
+      "weapon_proficiency": "Comfortable with explosives, meticulously assembled devices",
+      "knot_tying": "Not applicable",
+      "crime_scene_awareness": "High awareness, deliberate forensic countermeasures",
+      "reasoning": [
+        "Technical complexity, proficient craftsmanship, and attentiveness to forensic avoidance show exceptional skill."
+      ]
+    },
+    "investigative_implications": {
+      "prior_offenses": "Likely committed multiple similar prior bombings",
+      "escalation_risk": "Moderate, careful pacing limits escalation likelihood",
+      "documentation": "Likely documents detailed planning or collect research",
+      "victim_selection": "Targets academics and technological professionals specifically",
+      "cooling_off_period": "Months to years between offenses",
+      "reasoning": [
+        "Multiple similar incidents spanning years indicate a documented grievance or ideological campaign."
+      ]
+    },
+    "key_identifiers": {
+      "occupation_type": "Manual craftsman, technician, engineer",
+      "appearance": "Unremarkable, average in appearance, unnoticed easily in public",
+      "social_role": "Minimal community interactions, possibly isolated",
+      "hobbies": "Detailed manual disciplines (electronics, woodworking, engineering)",
+      "vehicle": "Older vehicle indicative of practical, discreet lifestyle",
+      "reasoning": [
+        "Personal meticulousness and technical capability direct identification of precise manual disciplines and socially isolated lifestyle."
+      ]
+    },
+    "reasoning": [
+      "Integrated analysis of crime scene evidence, methodology, geography, victimology, and historical criminal patterns provide cohesive profile."
+    ]
+  },
+  "validation_metrics": {
+    "key_behavioral_indicators": [
+      "Meticulous forensic avoidance",
+      "Technical proficiency",
+      "Ideological targeting"
+    ],
+    "critical_evidence": [
+      "Wooden box craft, untraceable components, forensic countermeasures"
+    ],
+    "profile_accuracy_factors": [
+      "Consistency across multiple similar offenses, proven technical ability and demonstrated ideological targeting"
+    ]
+  },
+  "framework_classifications": {
+    "narrative_action_system": {
+      "primary_classification": "REVENGEFUL",
+      "confidence": 0.95,
+      "supporting_evidence": [
+        "High control",
+        "Methodical planning",
+        "Ideological victim selection"
+      ],
+      "contradicting_evidence": [],
+      "reasoning": [
+        "Clear indicators of vengeance-driven targeting and patient, methodical execution of violence."
+      ]
+    },
+    "sexual_behavioral_analysis": {
+      "primary_classification": null,
+      "confidence": null,
+      "supporting_evidence": null,
+      "contradicting_evidence": null,
+      "reasoning": null
+    },
+    "sexual_homicide_pathways_analysis": {
+      "primary_classification": null,
+      "confidence": null,
+      "supporting_evidence": null,
+      "contradicting_evidence": null,
+      "reasoning": null
+    },
+    "spatial_behavioral_analysis": {
+      "primary_classification": "COMMUTER",
+      "confidence": 0.95,
+      "supporting_evidence": [
+        "Packages mailed from Northern California, crimes far distances"
+      ],
+      "contradicting_evidence": [],
+      "reasoning": [
+        "Clear spatial distancing between residence and targets."
+      ]
+    }
+  }
+}

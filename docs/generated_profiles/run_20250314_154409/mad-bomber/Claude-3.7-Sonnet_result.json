@@ -1,0 +1,203 @@
+{
+  "case_id": "92508df4-89cd-4935-bde0-2f00bea3b164",
+  "offender_profile": {
+    "demographics": {
+      "age_range": "45-55 years old",
+      "gender": "MALE",
+      "employment": "Former technical/maintenance worker at Eastern Grid Utilities, likely currently unemployed or underemployed due to injury",
+      "relationship": "Likely single or divorced, limited social connections",
+      "living_situation": "Lives alone in modest housing with private workspace",
+      "education": "Technical trade education or vocational training, average to above-average intelligence with specialized mechanical knowledge",
+      "reasoning": [
+        "Communications reference workplace injury in early 2000s, suggesting someone old enough to have been employed at that time",
+        "Technical aspects of bombs suggest vocational training and mechanical aptitude",
+        "Male gender is statistically more likely in bombing cases and surveillance footage suggests male figure",
+        "Injury claim and focus on compensation suggests possible unemployment or underemployment",
+        "Private workspace is evident from the consistent, undisturbed bomb-making activities",
+        "Surveillance footage shows individual operating alone"
+      ]
+    },
+    "psychological_characteristics": {
+      "personality_type": "Methodical, detail-oriented personality with obsessive focus on perceived injustice",
+      "control_needs": "Moderate need for control, expressed through technical precision and public fear rather than direct domination",
+      "social_competence": "Limited social skills, likely withdrawn from normal social circles but capable of functioning in public without drawing attention",
+      "stress_factors": "Primary stressor is perceived injustice from EGU regarding workplace injury and denial of compensation; possibly experiences ongoing physical pain or limitations",
+      "fantasy_elements": "Revenge fantasies focused on public embarrassment of EGU and validation of grievances rather than destructive outcomes",
+      "anger_management": "Controlled, channeled anger expressed through carefully planned acts rather than impulsive outbursts",
+      "reasoning": [
+        "Consistent bomb-making methodology indicates methodical personality",
+        "Communications show persistent focus on single grievance over many years",
+        "Careful avoidance of cameras suggests social awareness but self-isolation",
+        "Explicit mentions of 'being wronged' and compensation in communications",
+        "Devices placed to minimize casualties while maximizing attention indicates controlled anger",
+        "Long planning periods between incidents suggests ability to contain and channel emotions"
+      ]
+    },
+    "behavioral_characteristics": {
+      "crime_scene_behavior": "Highly organized preparation with meticulous attention to forensic countermeasures",
+      "violence_type": "Instrumental, controlled violence designed to create fear and draw attention rather than maximize casualties",
+      "victim_interaction": "Avoids direct interaction with victims; views public as means to pressure EGU rather than primary targets",
+      "post_offense_behavior": "Likely monitors media coverage and investigation progress; may revisit locations to observe response",
+      "risk_taking": "Calculated risks that balance visibility of attacks with personal safety; increasingly confident over time",
+      "trophy_taking": "Collects media coverage of incidents as validation; no physical trophies taken",
+      "reasoning": [
+        "No forensic evidence despite numerous incidents indicates exceptional care",
+        "Pattern of low casualties despite capability for more destructive devices",
+        "Device placement in public areas but timed/positioned to minimize direct casualties",
+        "Continued refinement of methods suggests learning from each incident",
+        "Increasingly sophisticated devices show growing confidence",
+        "Media communications suggest monitoring of public response"
+      ]
+    },
+    "geographic_behavior": {
+      "crime_scene_location": "Primarily targets EGU facilities and public locations with symbolic connection to electrical services",
+      "crime_scene_layout": "Devices placed in accessible, public areas designed to maximize visibility and media coverage",
+      "crime_scene_characteristics": "Selection of locations with known security camera blind spots or limited surveillance",
+      "reasoning": [
+        "7 of 18 recent devices specifically targeted EGU facilities",
+        "Public charging stations (4 incidents) directly relate to EGU services",
+        "Surveillance footage is limited despite numerous incidents in public spaces",
+        "Locations chosen for public impact rather than maximum damage potential"
+      ]
+    },
+    "skills_and_knowledge": {
+      "technical_skills": "High technical proficiency in mechanical assembly and moderate knowledge of explosives, improving over time",
+      "planning_ability": "Superior planning capability with long preparation phases and detailed execution",
+      "weapon_proficiency": "Functional knowledge of explosive materials with emphasis on reliability rather than maximum damage",
+      "knot_tying": "Not applicable - no use of restraints in this case",
+      "crime_scene_awareness": "Sophisticated awareness of forensic techniques; takes extraordinary precautions to avoid leaving evidence",
+      "reasoning": [
+        "Consistent bomb construction with precision tools suggests mechanical expertise",
+        "Evolution from simple fuses to electronic timing mechanisms shows learning",
+        "Homemade energetic materials indicate knowledge of basic chemistry",
+        "No DNA or fingerprints recovered despite numerous devices",
+        "Pattern shows careful timing between incidents and strategic placement",
+        "Awareness of camera locations indicates surveillance knowledge"
+      ]
+    },
+    "investigative_implications": {
+      "prior_offenses": "Likely has history of non-violent workplace conflicts or formal complaints prior to bombing campaign",
+      "escalation_risk": "Moderate risk of escalation if grievances remain unaddressed; pattern shows increasing technical sophistication but controlled targeting",
+      "documentation": "Maintains detailed records of incidents and media coverage; likely keeps journal documenting grievances",
+      "victim_selection": "Targets are symbolic rather than personal; primarily focused on EGU and related infrastructure",
+      "cooling_off_period": "Variable time between offenses with strategic timing; average 2-3 months between incidents in active phases",
+      "reasoning": [
+        "Communications reference formal complaints and appeals process with EGU",
+        "Device sophistication has increased while maintaining focus on specific targets",
+        "Consistent messaging across long timeframe suggests documentation",
+        "Target selection consistently relates to original grievance",
+        "Chronology shows strategic patterns rather than impulsive timing",
+        "5-year gap (2012-2017) suggests ability to suspend campaign when necessary"
+      ]
+    },
+    "key_identifiers": {
+      "occupation_type": "Former technical maintenance worker or electrician at Eastern Grid Utilities",
+      "appearance": "Middle-aged male, average build, possible right leg injury or mobility impairment",
+      "social_role": "Peripheral community role; likely viewed as quiet, keeps to himself, but not completely isolated",
+      "hobbies": "Technical hobbies involving mechanical assembly, electronics, and possibly chemistry",
+      "vehicle": "Older, nondescript but well-maintained vehicle; likely sedan or small truck capable of carrying tools",
+      "reasoning": [
+        "Communications explicitly reference workplace injury at EGU",
+        "Gait analysis from surveillance footage suggests right leg impairment",
+        "Technical aspects of devices indicate mechanical and electrical knowledge",
+        "Ability to move in public without drawing attention suggests normal appearance",
+        "Transportation needed to reach varied locations across the city",
+        "Precision of devices indicates meticulous personality likely extending to vehicle maintenance"
+      ]
+    },
+    "reasoning": [
+      "The subject has a specific grievance against Eastern Grid Utilities related to a workplace injury around 2008",
+      "Communications consistently reference compensation and recognition, suggesting denied worker's compensation claim",
+      "Technical sophistication of devices indicates background in mechanical or electrical trades",
+      "Placement of devices shows local knowledge and careful target selection",
+      "Avoidance of casualties while maximizing attention shows controlled, mission-oriented behavior",
+      "Timeline indicates patient, methodical personality with long-term focus on perceived injustice",
+      "Forensic countermeasures demonstrate awareness of investigative techniques",
+      "Signature elements (red fabric, consistent construction) show need for recognition and attribution"
+    ]
+  },
+  "validation_metrics": {
+    "key_behavioral_indicators": [
+      "Continued focus on EGU facilities and related infrastructure",
+      "Maintenance of signature elements like red fabric wrapping",
+      "Communications signed with 'F.C.' initials",
+      "Forensic awareness and countermeasures",
+      "Strategic device placement maximizing attention while minimizing casualties"
+    ],
+    "critical_evidence": [
+      "Communications referencing specific 2008 workplace injury",
+      "Consistent bomb-making methodology and materials",
+      "Distinctive red fabric wrapping material",
+      "Technical expertise in device construction",
+      "Pattern of targeting EGU facilities and related infrastructure",
+      "Possible right leg injury or mobility impairment observed in surveillance"
+    ],
+    "profile_accuracy_factors": [
+      "Match to EGU employment records from 2000-2010 period",
+      "Record of workplace injury claim around 2008",
+      "Technical skills matching bomb construction methods",
+      "Physical characteristics matching limited surveillance images",
+      "History of formal complaints or workers' compensation appeals",
+      "Evidence of chronic health condition consistent with claimed injury"
+    ]
+  },
+  "framework_classifications": {
+    "narrative_action_system": {
+      "primary_classification": "REVENGEFUL",
+      "confidence": 0.9,
+      "supporting_evidence": [
+        "Consistent targeting of organization perceived as responsible for personal injury",
+        "Controlled, methodical approach to bombings",
+        "Communications express clear grievance and justification",
+        "Devices designed for symbolic impact rather than maximum destruction",
+        "Pattern shows determination and long-term commitment to mission"
+      ],
+      "contradicting_evidence": [
+        "Occasional targeting of locations not directly connected to EGU",
+        "Five-year gap in activity (2012-2017) suggests possible interruption of mission"
+      ],
+      "reasoning": [
+        "The subject demonstrates classic revengeful mission behavior through their focused targeting of EGU and related infrastructure",
+        "Communications explicitly frame actions as justified response to perceived wrongdoing",
+        "Methodical execution and controlled violence are consistent with revengeful mission typology",
+        "Long-term commitment to cause despite limited results shows determination characteristic of this type"
+      ]
+    },
+    "sexual_behavioral_analysis": {
+      "primary_classification": null,
+      "confidence": null,
+      "supporting_evidence": null,
+      "contradicting_evidence": null,
+      "reasoning": null
+    },
+    "sexual_homicide_pathways_analysis": {
+      "primary_classification": null,
+      "confidence": null,
+      "supporting_evidence": null,
+      "contradicting_evidence": null,
+      "reasoning": null
+    },
+    "spatial_behavioral_analysis": {
+      "primary_classification": "COMMUTER",
+      "confidence": 0.85,
+      "supporting_evidence": [
+        "Targets spread throughout city rather than clustered in one area",
+        "Selection of locations based on symbolic connection to EGU rather than proximity",
+        "Use of various public Wi-Fi locations across the city",
+        "Strategic selection of locations for maximum impact regardless of geography",
+        "Evidence of transportation between locations (can't all be walkable)"
+      ],
+      "contradicting_evidence": [
+        "Without known residence, definitive commuter pattern is difficult to establish",
+        "Some clustering of incidents around EGU facilities could suggest local anchor point"
+      ],
+      "reasoning": [
+        "The wide geographic distribution of incidents suggests commuter pattern",
+        "Target selection appears driven by symbolic value rather than convenience or proximity",
+        "Use of multiple Wi-Fi locations across city for communications indicates mobility",
+        "Subject demonstrates willingness to travel to achieve specific targeting objectives",
+        "No evidence of clustering around a specific residential zone typical of marauder pattern"
+      ]
+    }
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "case_id": "9dd8bd29-8376-4deb-8de0-bc8be2cf04b3",
+  "offender_profile": {
+    "demographics": {
+      "age_range": "30-45",
+      "gender": "MALE",
+      "employment": "Likely unemployed, freelance or isolated technical labor role",
+      "relationship": "Single, unmarried",
+      "living_situation": "Lives alone in isolated dwelling or apartment",
+      "education": "Higher education; above-average intelligence, possible scientific or technological expertise",
+      "reasoning": [
+        "Technical sophistication and meticulous handmade nature indicate higher educational and intelligence level.",
+        "Historically, mail bombers targeting academics typically show higher education and tend to be single male loners.",
+        "Method of delivery and postmarks suggests subject not bound to structured work routine, possibly unemployed or freelance occupation."
+      ]
+    },
+    "psychological_characteristics": {
+      "personality_type": "Politically or ideologically driven loner; obsessive-compulsive traits",
+      "control_needs": "High need for control evident from meticulous planning and anonymous method",
+      "social_competence": "Socially poor, isolated; likely introverted with limited social relationships",
+      "stress_factors": "Feelings of societal alienation or grievances toward modern technology and academia",
+      "fantasy_elements": "Persistent, structured anger fantasies focused on social and institutional targets",
+      "anger_management": "Expresses long-term, cold, calculated acts rather than explosive impulsive anger",
+      "reasoning": [
+        "Display of compulsive, detailed execution suggests obsessive-compulsive traits.",
+        "Repeated institutional targeting indicates ideological or political motivations with structured fantasies behind violence.",
+        "Anonymous delivery and careful avoidance of contact indicate poor social relationships."
+      ]
+    },
+    "behavioral_characteristics": {
+      "crime_scene_behavior": "Highly organized, meticulous, methodical",
+      "violence_type": "Instrumental, carefully calculated violence rather than impulsive or gratuitous",
+      "victim_interaction": "Indirect, no personal interaction; impersonal expression of aggression via anonymous device",
+      "post_offense_behavior": "Likely carefully monitors news coverage, maintains vigilance to avoid detection",
+      "risk_taking": "Minimal, calculated risks; extreme caution to avoid identification",
+      "trophy_taking": "No trophies indicated or necessary given impersonal nature",
+      "reasoning": [
+        "Device construction and concealment demonstrate careful planning, strong organization.",
+        "Method of device delivery and activation indicates offender avoids personal confrontation.",
+        "Avoidance of personal evidence and forensic countermeasures indicate careful post-offense vigilance."
+      ]
+    },
+    "geographic_behavior": {
+      "crime_scene_location": "Victim's office at Northwood Research Institute, Cambridge, MA",
+      "crime_scene_layout": "Third-floor private office, contained blast pattern, carefully controlled device",
+      "crime_scene_characteristics": "Organized, impersonal, chosen for target's professional significance",
+      "reasoning": [
+        "Device detonated exactly at intended target source location, indicating controlled device.",
+        "Crime scene lacks chaotic violence, matches methodical nature of offender."
+      ]
+    },
+    "skills_and_knowledge": {
+      "technical_skills": "High technical proficiency, advanced craftsmanship",
+      "planning_ability": "Very high capacity for planning, evident from delivery method, component selection",
+      "weapon_proficiency": "High comfort level with explosive weapons and their manufacture",
+      "knot_tying": "Not applicable (no physical victim restraints)",
+      "crime_scene_awareness": "High forensic awareness, deliberate selection of common, untraceable materials, avoiding biological evidence",
+      "reasoning": [
+        "Recovered device shows advanced craftsmanship, awareness of explosive device construction.",
+        "Careful selection of common, untraceable materials indicates knowledge of forensic detection constraints."
+      ]
+    },
+    "investigative_implications": {
+      "prior_offenses": "Likely committed previous similar bombings; matches ongoing series",
+      "escalation_risk": "High risk of continued bombing incidents with careful escalation in sophistication",
+      "documentation": "Likely documents offenses privately or through media coverage collection",
+      "victim_selection": "Consistent selection of technological and academic professional targets",
+      "cooling_off_period": "Intervals between incidents typically span months to years, indicating planning and caution",
+      "reasoning": [
+        "Confirmed similar bombings indicate serial offender with careful exhibit of consistent targeting.",
+        "Interval indicates careful caution, non-impulsive pattern of behavior."
+      ]
+    },
+    "key_identifiers": {
+      "occupation_type": "Former academic, technician, or researcher; may have had past university affiliation",
+      "appearance": "Quiet, reserved, unremarkable physical appearance; deliberately stays inconspicuous",
+      "social_role": "Minimal or no community involvement or social visibility",
+      "hobbies": "Likely interested in anti-technology, anti-industrial philosophy, possibly survivalist or primitivist leanings",
+      "vehicle": "Older, inconspicuous vehicle. Possibly uses public transport or bicycle predominantly",
+      "reasoning": [
+        "Academic targeting and carefully constructed handmade devices indicate possible scientific/academic past.",
+        "Ideological grievance often accompanies isolationism, anti-technology attitudes, and life removed from modern comforts."
+      ]
+    },
+    "reasoning": [
+      "Meticulous planning, high intelligence, and impersonal nature all indicate ideological rather than emotional or criminal gains.",
+      "Consistency with historical offender profiles for similar mail-based bombings emphasizes concepts over persons."
+    ]
+  },
+  "validation_metrics": {
+    "key_behavioral_indicators": [
+      "Meticulous device construction",
+      "Ideological target victimology",
+      "Mail-based anonymous attacks"
+    ],
+    "critical_evidence": [
+      "Similarities with prior bombings incident reports",
+      "Handcrafted, anonymous packages",
+      "Intentional targeting of researchers in academia and technology"
+    ],
+    "profile_accuracy_factors": [
+      "Precision of craftsmanship and targeting",
+      "Consistency with historical ideological-based bombing campaigns"
+    ]
+  },
+  "framework_classifications": {
+    "narrative_action_system": {
+      "primary_classification": "PROFESSIONAL",
+      "confidence": 0.9,
+      "supporting_evidence": [
+        "Technical proficiency, controlled attacks, sophisticated concealment"
+      ],
+      "contradicting_evidence": [],
+      "reasoning": [
+        "Methodical nature, absence of impulsivity or chaos, demonstrate professional archetype strongest."
+      ]
+    },
+    "sexual_behavioral_analysis": {
+      "primary_classification": null,
+      "confidence": null,
+      "supporting_evidence": null,
+      "contradicting_evidence": null,
+      "reasoning": null
+    },
+    "sexual_homicide_pathways_analysis": {
+      "primary_classification": null,
+      "confidence": null,
+      "supporting_evidence": null,
+      "contradicting_evidence": null,
+      "reasoning": null
+    },
+    "spatial_behavioral_analysis": {
+      "primary_classification": "COMMUTER",
+      "confidence": 0.95,
+      "supporting_evidence": [
+        "Northern California mailings indicate the offender mails from locations distant from targets."
+      ],
+      "contradicting_evidence": [],
+      "reasoning": [
+        "Offender chooses geographically dispersed targets, indicating deliberate geographic separation to evade detection."
+      ]
+    }
+  }
+}

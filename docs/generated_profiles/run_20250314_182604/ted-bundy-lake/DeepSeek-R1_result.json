@@ -1,0 +1,182 @@
+{
+  "case_id": "3c719322-35d2-4bef-95ae-82aea62face6",
+  "offender_profile": {
+    "demographics": {
+      "age_range": "Late 20s to early 30s",
+      "gender": "MALE",
+      "employment": "Blue-collar occupation (e.g., delivery driver, park maintenance)",
+      "relationship": "Single or superficially partnered",
+      "living_situation": "Lives alone or with family in proximity to Pine Lake",
+      "education": "High school education with some technical training; average intelligence",
+      "reasoning": [
+        "Male biological evidence (hairs, bite marks)",
+        "Knowledge of remote park areas suggests local residency",
+        "Technical skill with restraints/vehicles aligns with blue-collar work"
+      ]
+    },
+    "psychological_characteristics": {
+      "personality_type": "Organized offender with antisocial traits",
+      "control_needs": "High need for dominance/control during attacks",
+      "social_competence": "Superficially charming but lacks deep relationships",
+      "stress_factors": "Perceived sexual inadequacy or rejection",
+      "fantasy_elements": "Organized sexual domination fantasies",
+      "anger_management": "Controlled anger expressed through ritualized violence",
+      "reasoning": [
+        "Body positioning/restraints indicate ritualism",
+        "Vehicle cleaning shows calculated risk management",
+        "Approaching victims publicly suggests confidence in social manipulation"
+      ]
+    },
+    "behavioral_characteristics": {
+      "crime_scene_behavior": "High organization: pre-selected location, restraints, body concealment",
+      "violence_type": "Controlled violence escalating to manual strangulation",
+      "victim_interaction": "Uses approach/ruse to gain victim compliance",
+      "post_offense_behavior": "Methodical evidence cleanup (vehicle wiping)",
+      "risk_taking": "Moderate risk tolerance in public approach",
+      "trophy_taking": "Takes personal trophies (locket, IDs)",
+      "reasoning": [
+        "Ligature marks show planned restraint use",
+        "Missing items suggest souvenir collection",
+        "Vehicle moved/cleaned demonstrates post-crime organization"
+      ]
+    },
+    "geographic_behavior": {
+      "crime_scene_location": "Remote wooded area with limited visibility",
+      "crime_scene_layout": "Body deliberately positioned/concealed",
+      "crime_scene_characteristics": "Secondary disposal site requiring local navigation",
+      "reasoning": [
+        "2.3-mile distance from parking lot indicates transportation capability",
+        "Unused fire road access shows environmental familiarity"
+      ]
+    },
+    "skills_and_knowledge": {
+      "technical_skills": "Proficient with vehicle operation/cleaning",
+      "planning_ability": "Intermediate planning (site selection, evidence removal)",
+      "weapon_proficiency": "Prefers manual force/ligatures over weapons",
+      "knot_tying": "Skilled with multi-limb restraints",
+      "crime_scene_awareness": "Basic forensic awareness (wipe prints)",
+      "reasoning": [
+        "Nylon cord knots suggest practiced skill",
+        "Tire impressions indicate vehicle expertise",
+        "Partial fingerprint removal shows anti-forensic knowledge"
+      ]
+    },
+    "investigative_implications": {
+      "prior_offenses": "Likely 3+ prior sexual assaults/murders",
+      "escalation_risk": "High escalation risk due to trophy reinforcement",
+      "documentation": "Keeps trophies/possibly journals",
+      "victim_selection": "Targets college females in recreational areas",
+      "cooling_off_period": "4-6 month cooling-off period",
+      "reasoning": [
+        "Similar MO in neighboring county cases",
+        "Increasing confidence in moving vehicles between crimes",
+        "Brown hair/age consistency across victims"
+      ]
+    },
+    "key_identifiers": {
+      "occupation_type": "Park-adjacent employment (maintenance, delivery)",
+      "appearance": "Average build; blends into crowds",
+      "social_role": "Peripheral community member",
+      "hobbies": "Outdoor activities (hunting, fishing)",
+      "vehicle": "Older model truck/van with beige carpeting",
+      "reasoning": [
+        "Beige carpet fibers found on victim",
+        "Fire road access requires rugged vehicle capability",
+        "Knowledge of park terrain suggests outdoor hobbies"
+      ]
+    },
+    "reasoning": [
+      "Manual strangulation requires physical control aligning with power assertion",
+      "Disposal site selection demonstrates geographic profiling consistency",
+      "Trophy retention satisfies psychological need for domination",
+      "Inter-county pattern matches commuter/marauder hybrid behavior"
+    ]
+  },
+  "validation_metrics": {
+    "key_behavioral_indicators": [
+      "Approaching victims under ruse of needing assistance",
+      "Use of multiple restraint points (neck, wrists, ankles)",
+      "Consistent focus on brown-haired college students"
+    ],
+    "critical_evidence": [
+      "Non-victim blood under fingernails (Type O)",
+      "Beige carpet fibers suggesting vehicle interior",
+      "Bite mark evidence demonstrating paraphilic behavior"
+    ],
+    "profile_accuracy_factors": [
+      "Spatial pattern matches marauder buffer zones",
+      "Escalation frequency in similar cases",
+      "Forensic countermeasures (steering wheel wiping)"
+    ]
+  },
+  "framework_classifications": {
+    "narrative_action_system": {
+      "primary_classification": "PROFESSIONAL",
+      "confidence": 0.7,
+      "supporting_evidence": [
+        "Organized disposal site",
+        "Evidence cleanup (vehicle)",
+        "Tool preparation (restraints)"
+      ],
+      "contradicting_evidence": [
+        "Personal trophy retention",
+        "Bite marks suggesting emotional component"
+      ],
+      "reasoning": [
+        "Combines methodological planning with psychological need fulfillment",
+        "Exceeds basic competency but retains personal gratification elements"
+      ]
+    },
+    "sexual_behavioral_analysis": {
+      "primary_classification": "POWER_ASSERTIVE",
+      "confidence": 0.65,
+      "supporting_evidence": [
+        "Pre-planned restraints",
+        "Dominance through manual strangulation",
+        "Clothing removal/sexual assault"
+      ],
+      "contradicting_evidence": [
+        "Lack of overt sexual positioning",
+        "No evidence of multiple assaults"
+      ],
+      "reasoning": [
+        "Murder served to maintain control rather than pure sexual gratification",
+        "Vehicle operation demonstrates practical target selection"
+      ]
+    },
+    "sexual_homicide_pathways_analysis": {
+      "primary_classification": "SADISTIC",
+      "confidence": 0.6,
+      "supporting_evidence": [
+        "Ritualistic body positioning",
+        "Trophy collection",
+        "Bite mark paraphilia"
+      ],
+      "contradicting_evidence": [
+        "No prolonged torture evidence",
+        "Limited postmortem interaction"
+      ],
+      "reasoning": [
+        "Crossed arms suggest symbolic ritual",
+        "Bite marks indicate eroticized aggression"
+      ]
+    },
+    "spatial_behavioral_analysis": {
+      "primary_classification": "MARAUDER",
+      "confidence": 0.7,
+      "supporting_evidence": [
+        "Buffer zone (body hidden 2.3mi from high-traffic area)",
+        "Localized environmental knowledge",
+        "Tire marks near little-known fire road"
+      ],
+      "contradicting_evidence": [
+        "Vehicle moved 12 miles suggests commuting",
+        "Multi-county pattern"
+      ],
+      "reasoning": [
+        "Primary anchor point near Pine Lake supported by disposal site selection",
+        "Inter-county crimes may represent extended comfort zone"
+      ]
+    }
+  }
+}

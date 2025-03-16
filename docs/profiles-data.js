@@ -266,6 +266,10 @@ function setupProfileViewer() {
     const testCase = this.value;
     const modelSelect = document.getElementById('profile-model');
     
+    // Enable/disable View Test Case button
+    const viewTestCaseBtn = document.getElementById('view-test-case');
+    viewTestCaseBtn.disabled = !testCase;
+    
     // Clear and repopulate model dropdown based on selected test case
     modelSelect.innerHTML = '<option value="">Select a model</option>';
     
@@ -331,6 +335,10 @@ function setupProfileViewer() {
       alert('Please select both a test case and a model.');
       return;
     }
+    
+    // Enable the View Test Case button if a test case is selected
+    const viewTestCaseBtn = document.getElementById('view-test-case');
+    viewTestCaseBtn.disabled = !testCase;
     
     // Load the primary profile
     loadProfile(testCase, model, document.querySelector('.primary-profile'));

@@ -63,6 +63,10 @@
                         <button id="load-profile" class="btn primary-btn">
                             <i class="fas fa-eye"></i> View Profile
                         </button>
+                        
+                        <button id="view-test-case" class="btn secondary-btn" disabled>
+                            <i class="fas fa-file-alt"></i> View Test Case
+                        </button>
                     </div>
                     
                     <div class="profile-comparison">
@@ -172,6 +176,26 @@
                 </div>
             </div>
             
+        </div>
+    </div>
+    
+    <!-- Test Case Modal -->
+    <div id="test-case-modal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 id="test-case-modal-title">Test Case</h3>
+                <span class="close-modal">&times;</span>
+            </div>
+            <div class="modal-body">
+                <div id="test-case-content" class="markdown-content">
+                    <div class="loading-spinner">
+                        <i class="fas fa-spinner fa-spin"></i> Loading test case...
+                    </div>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <button class="btn close-btn">Close</button>
+            </div>
         </div>
     </div>
     

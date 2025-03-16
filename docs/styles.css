@@ -273,15 +273,24 @@ input:checked + .slider:before {
 }
 
 .secondary-btn {
-  background-color: var(--background-color);
-  color: var(--text-color);
-  border: 1px solid var(--border-color);
+  background-color: var(--secondary-color);
+  color: white;
+  border-color: var(--secondary-color);
 }
 
 .secondary-btn:hover {
-  background-color: var(--border-color);
-  transform: translateY(-2px);
-  box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  background-color: #3182ce;
+  border-color: #3182ce;
+  transform: translateY(-1px);
+  box-shadow: 0 4px 6px rgba(50, 50, 93, 0.11), 0 1px 3px rgba(0, 0, 0, 0.08);
+}
+
+.secondary-btn:disabled {
+  background-color: #a0aec0;
+  border-color: #a0aec0;
+  cursor: not-allowed;
+  transform: none;
+  box-shadow: none;
 }
 
 /* Main layout */
@@ -739,6 +748,16 @@ footer {
     max-height: 450px;
     padding: 1.25rem;
   }
+
+  .modal-content {
+    width: 95%;
+    margin: 2% auto;
+    max-height: 90vh;
+  }
+  
+  .modal-header h3 {
+    font-size: 1.2rem;
+  }
 }
 
 @media (max-width: 576px) {
@@ -822,4 +841,187 @@ footer {
     width: 100%;
     justify-content: center;
   }
+
+  .modal-content {
+    width: 98%;
+    margin: 1% auto;
+  }
+  
+  .modal-body {
+    padding: 1rem;
+  }
+  
+  .modal-header, .modal-footer {
+    padding: 0.75rem 1rem;
+  }
+  
+  .markdown-content pre {
+    padding: 0.75rem;
+  }
+}
+
+/* Modal Styles */
+.modal {
+  display: none;
+  position: fixed;
+  z-index: 1000;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  overflow: auto;
+  background-color: rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(3px);
+  animation: fadeIn 0.3s ease-in-out;
+}
+
+.modal-content {
+  position: relative;
+  background-color: var(--card-color);
+  margin: 5% auto;
+  padding: 0;
+  border-radius: 8px;
+  box-shadow: var(--paper-shadow);
+  width: 80%;
+  max-width: 900px;
+  max-height: 85vh;
+  display: flex;
+  flex-direction: column;
+  animation: slideIn 0.3s ease-in-out;
+}
+
+.modal-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1.5rem;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.modal-header h3 {
+  margin: 0;
+  color: var(--primary-color);
+}
+
+.close-modal {
+  color: #aaa;
+  font-size: 1.5rem;
+  font-weight: bold;
+  cursor: pointer;
+  transition: color 0.2s;
+}
+
+.close-modal:hover {
+  color: var(--accent-color);
+}
+
+.modal-body {
+  padding: 1.5rem;
+  overflow-y: auto;
+  flex: 1;
+}
+
+.modal-footer {
+  padding: 1rem 1.5rem;
+  border-top: 1px solid var(--border-color);
+  display: flex;
+  justify-content: flex-end;
+}
+
+.close-btn {
+  background-color: var(--border-color);
+  color: var(--text-color);
+}
+
+.close-btn:hover {
+  background-color: #d0d7de;
+}
+
+.markdown-content {
+  line-height: 1.6;
+}
+
+.markdown-content h1,
+.markdown-content h2,
+.markdown-content h3 {
+  margin-top: 1.5rem;
+  margin-bottom: 1rem;
+  color: var(--primary-color);
+}
+
+.markdown-content p {
+  margin-bottom: 1rem;
+}
+
+.markdown-content ul,
+.markdown-content ol {
+  margin-bottom: 1rem;
+  padding-left: 2rem;
+}
+
+.markdown-content pre {
+  background-color: #f6f8fa;
+  border-radius: 6px;
+  padding: 1rem;
+  overflow-x: auto;
+  margin-bottom: 1rem;
+}
+
+.markdown-content code {
+  font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+  font-size: 0.9em;
+  background-color: rgba(175, 184, 193, 0.2);
+  padding: 0.2em 0.4em;
+  border-radius: 3px;
+}
+
+.markdown-content blockquote {
+  border-left: 4px solid var(--secondary-color);
+  padding-left: 1rem;
+  margin-left: 0;
+  color: #57606a;
+}
+
+.loading-spinner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 2rem;
+  color: var(--secondary-color);
+  font-size: 1.2rem;
+}
+
+.loading-spinner i {
+  margin-right: 0.5rem;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideIn {
+  from { transform: translateY(-50px); opacity: 0; }
+  to { transform: translateY(0); opacity: 1; }
+}
+
+/* Dark theme modal adjustments */
+.dark-theme .modal-content {
+  background-color: var(--primary-color);
+}
+
+.dark-theme .close-modal {
+  color: #ddd;
+}
+
+.dark-theme .markdown-content pre {
+  background-color: #2d3748;
+}
+
+.dark-theme .markdown-content code {
+  background-color: rgba(99, 110, 123, 0.4);
+}
+
+.dark-theme .markdown-content blockquote {
+  color: #a0aec0;
 }

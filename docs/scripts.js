@@ -8,6 +8,9 @@ document.addEventListener('DOMContentLoaded', function() {
   
   // Setup mobile tab controls
   setupMobileTabControls();
+  
+  // Setup test case modal
+  setupTestCaseModal();
 });
 
 // Theme toggle functionality
@@ -178,5 +181,104 @@ function setupMobileTabControls() {
   if (compareWithSelect.value === '') {
     comparisonTabBtn.disabled = true;
     comparisonTabBtn.style.opacity = '0.5';
+  }
+}
+
+// Setup the test case modal functionality
+function setupTestCaseModal() {
+  const viewTestCaseBtn = document.getElementById('view-test-case');
+  const modal = document.getElementById('test-case-modal');
+  const closeModal = document.querySelector('.close-modal');
+  const closeBtn = document.querySelector('.close-btn');
+  const modalTitle = document.getElementById('test-case-modal-title');
+  const modalContent = document.getElementById('test-case-content');
+  
+  // Enable the View Test Case button when a test case is selected
+  document.getElementById('profile-test-case').addEventListener('change', function() {
+    viewTestCaseBtn.disabled = !this.value;
+  });
+  
+  // Event listener for the View Test Case button
+  viewTestCaseBtn.addEventListener('click', function() {
+    const testCase = document.getElementById('profile-test-case').value;
+    if (!testCase) return;
+    
+    const testCaseName = document.getElementById('profile-test-case').options[
+      document.getElementById('profile-test-case').selectedIndex
+    ].text;
+    
+    modalTitle.textContent = `Test Case: ${testCaseName}`;
+    
+    // Show loading spinner
+    modalContent.innerHTML = `
+      <div class="loading-spinner">
+        <i class="fas fa-spinner fa-spin"></i> Loading test case...
+      </div>
+    `;
+    
+    // Display the modal
+    modal.style.display = 'block';
+    
+    // Fetch the test case content
+    fetchTestCaseContent(testCase)
+      .then(content => {
+        // Convert markdown to HTML and sanitize
+        const sanitizedHTML = DOMPurify.sanitize(marked.parse(content));
+        modalContent.innerHTML = sanitizedHTML;
+      })
+      .catch(error => {
+        modalContent.innerHTML = `
+          <div class="error-message">
+            <i class="fas fa-exclamation-triangle"></i>
+            <p>Error loading test case: ${error.message}</p>
+          </div>
+        `;
+      });
+  });
+  
+  // Close the modal when the X is clicked
+  closeModal.addEventListener('click', function() {
+    modal.style.display = 'none';
+  });
+  
+  // Close the modal when the Close button is clicked
+  closeBtn.addEventListener('click', function() {
+    modal.style.display = 'none';
+  });
+  
+  // Close the modal when clicking outside of it
+  window.addEventListener('click', function(event) {
+    if (event.target === modal) {
+      modal.style.display = 'none';
+    }
+  });
+  
+  // Close the modal with the Escape key
+  window.addEventListener('keydown', function(event) {
+    if (event.key === 'Escape' && modal.style.display === 'block') {
+      modal.style.display = 'none';
+    }
+  });
+}
+
+/**
+ * Fetches the content of a test case file
+ * @param {string} testCaseId - The ID of the test case
+ * @returns {Promise<string>} - Promise resolving to the markdown content
+ */
+async function fetchTestCaseContent(testCaseId) {
+  const testCaseFilePath = `test-cases/${testCaseId}.md`;
+  
+  try {
+    const response = await fetch(testCaseFilePath);
+    
+    if (!response.ok) {
+      throw new Error(`Failed to load test case (${response.status}: ${response.statusText})`);
+    }
+    
+    return await response.text();
+  } catch (error) {
+    console.error('Error fetching test case:', error);
+    throw error;
   }
 }

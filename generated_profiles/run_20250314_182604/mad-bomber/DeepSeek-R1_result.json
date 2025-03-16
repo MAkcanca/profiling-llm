@@ -1,0 +1,178 @@
+{
+  "case_id": "92508df898989cd-4935-bde0-2f00bea3b164",
+  "offender_profile": {
+    "demographics": {
+      "age_range": "45-55 years",
+      "gender": "MALE",
+      "employment": "Technical trades (electrical/plumbing) or former utility worker",
+      "relationship": "Single/divorced, isolated relationships",
+      "living_situation": "Lives alone in rental property within city limits",
+      "education": "Vocational training, above-average technical intelligence",
+      "reasoning": [
+        "References to 2008 workplace injury suggest current age 45+ if injured in 30s",
+        "Technical bomb construction requires trade skills",
+        "Isolation inferred from multi-year campaign without accomplices",
+        "Non-native English patterns in communications suggest foreign education"
+      ]
+    },
+    "psychological_characteristics": {
+      "personality_type": "Obsessive-compulsive with paranoid traits",
+      "control_needs": "High need for institutional recognition",
+      "social_competence": "Poor interpersonal skills, superficial contacts",
+      "stress_factors": "Unresolved workplace injury grievance",
+      "fantasy_elements": "Ritualized revenge fantasies sustained over 12+ years",
+      "anger_management": "Highly controlled anger channeled into symbolic violence",
+      "reasoning": [
+        "Sustained campaign indicates compulsive fixation",
+        "Communications emphasize institutional accountability over personal revenge",
+        "Device consistency shows ritualized behavior patterns",
+        "Avoidance of fatalities demonstrates controlled emotional expression"
+      ]
+    },
+    "behavioral_characteristics": {
+      "crime_scene_behavior": "Highly organized with iterative improvements",
+      "violence_type": "Symbolic/property-focused violence",
+      "victim_interaction": "No direct victim interaction (impersonal devices)",
+      "post_offense_behavior": "Media communications to claim responsibility",
+      "risk_taking": "Calculated risks accepting delayed detection",
+      "trophy_taking": "Red fabric wrappings as symbolic trophies",
+      "reasoning": [
+        "Evolution from fuse to electronic timers shows methodological refinement",
+        "Targeting infrastructure rather than individuals demonstrates symbolic focus",
+        "17 communications indicate need for recognition",
+        "Red fabric acts as consistent signature element"
+      ]
+    },
+    "geographic_behavior": {
+      "crime_scene_location": "Urban commercial/public spaces near EGU infrastructure",
+      "crime_scene_layout": "High-traffic areas with evacuation challenges",
+      "crime_scene_characteristics": "Controlled environments allowing covert placement",
+      "reasoning": [
+        "73% of targets associated with EGU facilities or adjacent public spaces",
+        "Transit hubs/cinemas provide crowd cover and media impact",
+        "Wooden box containment enables discreet placement"
+      ]
+    },
+    "skills_and_knowledge": {
+      "technical_skills": "Advanced improvised explosives fabrication",
+      "planning_ability": "Long-term strategic planning (12-year timeline)",
+      "weapon_proficiency": "Specialized bomb-making skills",
+      "knot_tying": "N/A (no restraint use)",
+      "crime_scene_awareness": "High forensic awareness (no DNA/fingerprints)",
+      "reasoning": [
+        "Homemade energetics require chemical handling skills",
+        "Five-year hiatus (2012-2017) indicates patient planning",
+        "Precision tool use evident in device components",
+        "Glove use/component cleaning defeats forensic analysis"
+      ]
+    },
+    "investigative_implications": {
+      "prior_offenses": "Prior non-violent crimes (harassment, trespass)",
+      "escalation_risk": "High risk of escalating payloads",
+      "documentation": "Detailed logs of devices/communications",
+      "victim_selection": "Institutional targets vs. random public",
+      "cooling_off_period": "Variable intervals (5-year hiatus, then increasing frequency)",
+      "reasoning": [
+        "Sophistication curve suggests prior experimentation",
+        "2017+ devices show increased destructive capacity",
+        "Encrypted emails (2019+) indicate digital documentation",
+        "72% of targets directly reference EGU infrastructure"
+      ]
+    },
+    "key_identifiers": {
+      "occupation_type": "Former EGU maintenance technician",
+      "appearance": "Average build, possible right leg limp",
+      "social_role": "Socially marginal with activist pretensions",
+      "hobbies": "Electronics, chemical experimentation",
+      "vehicle": "Older model sedan/public transit use",
+      "reasoning": [
+        "Workplace injury context matches EGU employment",
+        "Gait analysis from surveillance footage",
+        "'F.C.' initials suggest self-perceived advocacy role",
+        "Bomb components require technical hobbies"
+      ]
+    },
+    "reasoning": [
+      "Communications directly reference unresolved EGU worker's comp claim",
+      "Device evolution demonstrates technical progression consistent with vocational skills",
+      "Spatial pattern centers on EGU-related targets with Marauder characteristics",
+      "Minimal casualties indicate symbolic rather than homicidal intent",
+      "Non-native English patterns suggest immigrant background"
+    ]
+  },
+  "validation_metrics": {
+    "key_behavioral_indicators": [
+      "Progressive device sophistication",
+      "Consistent red fabric signature",
+      "Workplace injury references in communications",
+      "Avoidance of residential areas"
+    ],
+    "critical_evidence": [
+      "EGU-focused communications with 'F.C.' signature",
+      "Consistent explosive material sourcing",
+      "Surveillance footage showing gait abnormality",
+      "2008 injury timeline alignment"
+    ],
+    "profile_accuracy_factors": [
+      "Forensic avoidance demonstrates planning",
+      "Worker's comp records from 2005-2010",
+      "Linguistic patterns in notes",
+      "Geographic clustering of targets"
+    ]
+  },
+  "framework_classifications": {
+    "narrative_action_system": {
+      "primary_classification": "REVENGEFUL",
+      "confidence": 0.9,
+      "supporting_evidence": [
+        "Targeted EGU facilities with personal significance",
+        "Methodical device improvements over 12 years",
+        "Communications framing actions as justified mission"
+      ],
+      "contradicting_evidence": [
+        "No direct confrontation with EGU personnel"
+      ],
+      "reasoning": [
+        "Consistent mission focus matches NAS Revengeful criteria",
+        "Controlled execution despite emotional motivation"
+      ]
+    },
+    "sexual_behavioral_analysis": {
+      "primary_classification": null,
+      "confidence": null,
+      "supporting_evidence": null,
+      "contradicting_evidence": null,
+      "reasoning": null
+    },
+    "sexual_homicide_pathways_analysis": {
+      "primary_classification": "ANGRY",
+      "confidence": 0.7,
+      "supporting_evidence": [
+        "Retaliatory motivation against institution",
+        "Controlled expression of rage through devices"
+      ],
+      "contradicting_evidence": [
+        "Absence of direct interpersonal violence"
+      ],
+      "reasoning": [
+        "Anger pathway applies to institutional targeting pattern"
+      ]
+    },
+    "spatial_behavioral_analysis": {
+      "primary_classification": "MARAUDER",
+      "confidence": 0.85,
+      "supporting_evidence": [
+        "Crime clustering around EGU anchor points",
+        "Use of public transit hubs suggests local residency",
+        "Buffer zone implied by no devices in residential zones"
+      ],
+      "contradicting_evidence": [
+        "Some targets in peripheral commercial areas"
+      ],
+      "reasoning": [
+        "Consistent with Marauder's localized operation pattern",
+        "Devices placed within daily movement radius"
+      ]
+    }
+  }
+}

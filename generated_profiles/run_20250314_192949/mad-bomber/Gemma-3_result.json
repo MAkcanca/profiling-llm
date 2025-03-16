@@ -1,0 +1,189 @@
+{
+  "case_id": "92508df4-89cd-4935-bde0-2f00bea3b164",
+  "offender_profile": {
+    "demographics": {
+      "age_range": "45-65",
+      "gender": "MALE",
+      "employment": "Former Skilled Tradesman/Technician (possibly electrical, mechanical, or similar)",
+      "relationship": "Divorced or Widowed (potential source of resentment and social isolation)",
+      "living_situation": "Lives alone, possibly in a modest residence",
+      "education": "Average to above average intelligence, potentially some technical training or education but may not have completed a university degree.",
+      "reasoning": [
+        "Device construction indicates technical skills.",
+        "Communications suggest fluency in written English, even if grammar isn't perfect.",
+        "Grievance relates to employment, implying a work history.",
+        "Motivation suggests past life events impacted by loss"
+      ]
+    },
+    "psychological_characteristics": {
+      "personality_type": "Resentful, Obsessive, Rigid",
+      "control_needs": "Moderate - Seeks control through actions rather than direct domination of people.",
+      "social_competence": "Poor social skills, likely socially isolated. May have difficulty forming or maintaining relationships.",
+      "stress_factors": "Perceived injustice, financial hardship, loss of status or dignity.",
+      "fantasy_elements": "Detailed, repetitive fantasies of enacting revenge and being 'heard'.",
+      "anger_management": "Anger is repressed for long periods, then explosively released through actions; poor impulse control when triggered.",
+      "reasoning": [
+        "Communications highlight the theme of being wronged.",
+        "Persistence over years suggests obsessive thinking.",
+        "Limited attempts to interact directly with people indicate social isolation",
+        "Specific target (EGU) points to a long-held grievance.",
+        "Escalation suggests frustration with initial attempts to resolve issues.",
+        "Minimal casualties suggest control is secondary to making a statement."
+      ]
+    },
+    "behavioral_characteristics": {
+      "crime_scene_behavior": "Methodical, organized, and planned. Devices are consistently constructed.",
+      "violence_type": "Precise, targeted, minimizing casualties while maximizing symbolic impact.",
+      "victim_interaction": "No direct interaction with victims. The goal is to send a message, not to physically harm individuals.",
+      "post_offense_behavior": "Avoids detection. Deliberately attempts to evade surveillance. Returns to locations to continue the campaign.",
+      "risk_taking": "Moderate \u2013 escalating sophistication with devices but avoids direct confrontation.",
+      "trophy_taking": "May take small items as symbolic trophies, but primarily focuses on the act of making a statement; no clear evidence of trophy-taking yet.",
+      "reasoning": [
+        "Consistent device construction and materials indicate planning.",
+        "Target selection suggests a calculated approach.",
+        "Lack of forensic evidence suggests a careful offender.",
+        "Attempts to evade surveillance demonstrate awareness of being pursued.",
+        "Escalation of device sophistication indicates increasing confidence and willingness to take risks."
+      ]
+    },
+    "geographic_behavior": {
+      "crime_scene_location": "Urban areas; transportation hubs; EGU facilities; public gathering places.",
+      "crime_scene_layout": "Often utilizes public spaces with access to locker spaces, trash receptacles, or charging stations.",
+      "crime_scene_characteristics": "Strategic locations to maximize visibility and disruption",
+      "reasoning": [
+        "The targets suggest a desire to reach a wide audience and create disruption.",
+        "Use of public spaces indicates consideration of accessibility.",
+        "Location choices amplify the message of grievance."
+      ]
+    },
+    "skills_and_knowledge": {
+      "technical_skills": "Moderate to high, particularly in mechanical and electrical fields.",
+      "planning_ability": "High, demonstrated by the consistent construction and increasing sophistication of devices.",
+      "weapon_proficiency": "Comfortable with building and deploying explosive devices.",
+      "knot_tying": "Not applicable.",
+      "crime_scene_awareness": "Aware of forensic techniques and takes steps to avoid leaving evidence.",
+      "reasoning": [
+        "Device construction reveals technical expertise.",
+        "Evolution of devices suggests learning and adaptation.",
+        "Lack of forensic evidence indicates an understanding of investigative procedures."
+      ]
+    },
+    "investigative_implications": {
+      "prior_offenses": "Possible prior minor offenses related to property damage or vandalism, potentially directed at EGU.",
+      "escalation_risk": "High \u2013 escalation of device sophistication indicates increasing willingness to take risks and potentially cause greater harm.",
+      "documentation": "Documents grievances through communications to media.",
+      "victim_selection": "Former EGU employees with workplace injuries or denied compensation claims.",
+      "cooling_off_period": "Irregular - periods of activity followed by quiet periods, suggesting a reactive response to events or a need to replenish resources.",
+      "reasoning": [
+        "Offender's actions are clearly driven by a long-term grievance.",
+        "Escalation of devices suggests increasing boldness.",
+        "Communications serve as a record of the offender's motivations.",
+        "Focus on EGU suggests a specific group to investigate.",
+        "Pattern of activity suggests it will be difficult to estimate future resolution."
+      ]
+    },
+    "key_identifiers": {
+      "occupation_type": "Former EGU employee (skilled trades or technician).",
+      "appearance": "Middle-aged, average build, attempts to blend in (dark jacket, baseball cap), potentially with a slight physical impairment (gait analysis).",
+      "social_role": "Limited social connections, possibly a former union member or worker's advocacy group.",
+      "hobbies": "Mechanical repair, model building, electronics tinkering, reading historical accounts of injustice.",
+      "vehicle": "Reliable but unassuming vehicle, possibly used for transporting materials but may avoid driving in high-surveillance areas.",
+      "reasoning": [
+        "Grievance relates to employment.",
+        "Surveillance footage description provides limited physical characteristics.",
+        "Lack of social connections suggests a solitary lifestyle.",
+        "Technical skills suggest hands-on hobbies."
+      ]
+    },
+    "reasoning": [
+      "The offender is driven by a deep-seated resentment towards EGU, stemming from a perceived injustice related to a workplace injury.",
+      "This is a retaliatory act, not a financially motivated crime.",
+      "The offender possesses technical skills and is capable of constructing increasingly sophisticated explosive devices.",
+      "The offender is deliberate in their actions, prioritizing avoiding detection.",
+      "The offender may be escalating their actions if their demands are not met."
+    ]
+  },
+  "validation_metrics": {
+    "key_behavioral_indicators": [
+      "Consistent references to being \u2018wronged\u2019 by EGU.",
+      "Use of red fabric in device wrapping.",
+      "Focus on EGU facilities and public gathering places.",
+      "Escalation in device sophistication over time.",
+      "Pattern of avoiding surveillance cameras.",
+      "Communications to media outlets."
+    ],
+    "critical_evidence": [
+      "Device construction methodology.",
+      "Consistent typography in notes.",
+      "Powder and metal sourcing analysis.",
+      "Communications content and style.",
+      "Surveillance footage (limited)."
+    ],
+    "profile_accuracy_factors": [
+      "Limited forensic evidence.",
+      "Absence of clear motives beyond the grievance against EGU.",
+      "Limited information about the offender's personal life."
+    ]
+  },
+  "framework_classifications": {
+    "narrative_action_system": {
+      "primary_classification": "REVENGEFUL",
+      "confidence": 0.9,
+      "supporting_evidence": [
+        "Clear motivation of seeking retribution.",
+        "Target selection centered around a perceived wrongdoer.",
+        "Communications filled with grievances and demands.",
+        "The escalation and persistence of the attacks."
+      ],
+      "contradicting_evidence": [
+        "Limited evidence of fantasy or sexual compulsion."
+      ],
+      "reasoning": [
+        "The offender's actions are overwhelmingly driven by a desire to exact revenge for a perceived wrong."
+      ]
+    },
+    "sexual_behavioral_analysis": {
+      "primary_classification": "ANGER_RETALIATORY",
+      "confidence": 0.7,
+      "supporting_evidence": [
+        "Blitz like attacks",
+        "EGU issues a clear source of anger",
+        "Devices designed to have impact"
+      ],
+      "contradicting_evidence": [
+        "No sexual content"
+      ],
+      "reasoning": [
+        "A focus on expressing rage and anger through the deployment of explosive devices."
+      ]
+    },
+    "sexual_homicide_pathways_analysis": {
+      "primary_classification": "ANGRY",
+      "confidence": 0.85,
+      "supporting_evidence": [
+        "Clear expression of anger and frustration in communications.",
+        "Escalation of violence when objectives are not met.",
+        "Targets of opportunity relevant to identified grievance"
+      ],
+      "contradicting_evidence": [],
+      "reasoning": [
+        "The primary focus is expressing anger and seeking revenge, with the bombings serving as a means to that end."
+      ]
+    },
+    "spatial_behavioral_analysis": {
+      "primary_classification": "COMMUTER",
+      "confidence": 0.75,
+      "supporting_evidence": [
+        "Willingness to target locations across the city.",
+        "Efforts to avoid surveillance.",
+        "Expansion of targets beyond EGU facilities."
+      ],
+      "contradicting_evidence": [
+        "Focus on EGU facilities implies some familiarity with the city and its infrastructure."
+      ],
+      "reasoning": [
+        "The offender is willing to travel to commit crimes and actively avoids being detected."
+      ]
+    }
+  }
+}

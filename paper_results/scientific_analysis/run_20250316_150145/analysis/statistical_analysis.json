@@ -1,0 +1,1917 @@
+{
+  "avg_framework_confidence": {
+    "anova": {
+      "test": "one-way ANOVA",
+      "metric": "avg_framework_confidence",
+      "grouped_by": "model",
+      "f_statistic": 18.33791285189253,
+      "p_value": 2.5323053522712466e-27,
+      "significant": true,
+      "groups": [
+        "Claude-3.7-Sonnet",
+        "Claude-3.7-Sonnet-Thinking",
+        "DeepSeek-R1",
+        "GPT-4.5-Preview",
+        "GPT-4o",
+        "GPT-4o-mini",
+        "Gemini-2.0-Flash",
+        "Gemini-2.0-Flash-Thinking-Exp0121",
+        "Gemma-3",
+        "Llama-3.3-70B-Instruct",
+        "o3-mini",
+        "o3-mini-high"
+      ]
+    },
+    "effect_size": {
+      "metric": "avg_framework_confidence",
+      "comparisons": {
+        "o3-mini_vs_Gemma-3": {
+          "cohen_d": 0.5939045238100259,
+          "effect_size": "medium"
+        },
+        "o3-mini_vs_GPT-4.5-Preview": {
+          "cohen_d": 1.6907582254455824,
+          "effect_size": "large"
+        },
+        "o3-mini_vs_o3-mini-high": {
+          "cohen_d": 0.4197366908330923,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_GPT-4o": {
+          "cohen_d": 0.42788383600508284,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_GPT-4o-mini": {
+          "cohen_d": 0.7917930788837981,
+          "effect_size": "medium"
+        },
+        "o3-mini_vs_Claude-3.7-Sonnet": {
+          "cohen_d": 0.22792453973958415,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 0.49365938826407746,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.8345706470509072,
+          "effect_size": "large"
+        },
+        "o3-mini_vs_DeepSeek-R1": {
+          "cohen_d": 0.22326304461436164,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_Gemini-2.0-Flash": {
+          "cohen_d": 1.0593445724373325,
+          "effect_size": "large"
+        },
+        "o3-mini_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 1.1302745944856454,
+          "effect_size": "large"
+        },
+        "Gemma-3_vs_GPT-4.5-Preview": {
+          "cohen_d": 2.4125996216053194,
+          "effect_size": "large"
+        },
+        "Gemma-3_vs_o3-mini-high": {
+          "cohen_d": 1.1190537080828324,
+          "effect_size": "large"
+        },
+        "Gemma-3_vs_GPT-4o": {
+          "cohen_d": 1.1463310042132264,
+          "effect_size": "large"
+        },
+        "Gemma-3_vs_GPT-4o-mini": {
+          "cohen_d": 1.5283733257197814,
+          "effect_size": "large"
+        },
+        "Gemma-3_vs_Claude-3.7-Sonnet": {
+          "cohen_d": 0.8725493497933705,
+          "effect_size": "large"
+        },
+        "Gemma-3_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 1.1962884196871153,
+          "effect_size": "large"
+        },
+        "Gemma-3_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.25757843901126676,
+          "effect_size": "small"
+        },
+        "Gemma-3_vs_DeepSeek-R1": {
+          "cohen_d": 0.3522431448551255,
+          "effect_size": "small"
+        },
+        "Gemma-3_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.5837970383729344,
+          "effect_size": "medium"
+        },
+        "Gemma-3_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.4625754393655894,
+          "effect_size": "small"
+        },
+        "GPT-4.5-Preview_vs_o3-mini-high": {
+          "cohen_d": 1.640647567136787,
+          "effect_size": "large"
+        },
+        "GPT-4.5-Preview_vs_GPT-4o": {
+          "cohen_d": 1.7296686036296762,
+          "effect_size": "large"
+        },
+        "GPT-4.5-Preview_vs_GPT-4o-mini": {
+          "cohen_d": 1.3175832783463557,
+          "effect_size": "large"
+        },
+        "GPT-4.5-Preview_vs_Claude-3.7-Sonnet": {
+          "cohen_d": 1.6292726273838283,
+          "effect_size": "large"
+        },
+        "GPT-4.5-Preview_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 1.5576208489206542,
+          "effect_size": "large"
+        },
+        "GPT-4.5-Preview_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 2.621936985193885,
+          "effect_size": "large"
+        },
+        "GPT-4.5-Preview_vs_DeepSeek-R1": {
+          "cohen_d": 1.882435040542712,
+          "effect_size": "large"
+        },
+        "GPT-4.5-Preview_vs_Gemini-2.0-Flash": {
+          "cohen_d": 2.440144164471809,
+          "effect_size": "large"
+        },
+        "GPT-4.5-Preview_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 3.5031863775200716,
+          "effect_size": "large"
+        },
+        "o3-mini-high_vs_GPT-4o": {
+          "cohen_d": 0.004346468808826696,
+          "effect_size": "small"
+        },
+        "o3-mini-high_vs_GPT-4o-mini": {
+          "cohen_d": 0.462880206222007,
+          "effect_size": "small"
+        },
+        "o3-mini-high_vs_Claude-3.7-Sonnet": {
+          "cohen_d": 0.19400902448379512,
+          "effect_size": "small"
+        },
+        "o3-mini-high_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 0.09214279948901027,
+          "effect_size": "small"
+        },
+        "o3-mini-high_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 1.3756052312323048,
+          "effect_size": "large"
+        },
+        "o3-mini-high_vs_DeepSeek-R1": {
+          "cohen_d": 0.6618645281840372,
+          "effect_size": "medium"
+        },
+        "o3-mini-high_vs_Gemini-2.0-Flash": {
+          "cohen_d": 1.4838151660263235,
+          "effect_size": "large"
+        },
+        "o3-mini-high_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 1.9023870708409838,
+          "effect_size": "large"
+        },
+        "GPT-4o_vs_GPT-4o-mini": {
+          "cohen_d": 0.49332678229293364,
+          "effect_size": "small"
+        },
+        "GPT-4o_vs_Claude-3.7-Sonnet": {
+          "cohen_d": 0.19701689795215185,
+          "effect_size": "small"
+        },
+        "GPT-4o_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 0.10082307010666733,
+          "effect_size": "small"
+        },
+        "GPT-4o_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 1.4070550527852945,
+          "effect_size": "large"
+        },
+        "GPT-4o_vs_DeepSeek-R1": {
+          "cohen_d": 0.6752311560583193,
+          "effect_size": "medium"
+        },
+        "GPT-4o_vs_Gemini-2.0-Flash": {
+          "cohen_d": 1.5037825233686866,
+          "effect_size": "large"
+        },
+        "GPT-4o_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 1.9728781822879085,
+          "effect_size": "large"
+        },
+        "GPT-4o-mini_vs_Claude-3.7-Sonnet": {
+          "cohen_d": 0.6066184208809471,
+          "effect_size": "medium"
+        },
+        "GPT-4o-mini_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 0.366429128972495,
+          "effect_size": "small"
+        },
+        "GPT-4o-mini_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 1.7775872133181454,
+          "effect_size": "large"
+        },
+        "GPT-4o-mini_vs_DeepSeek-R1": {
+          "cohen_d": 1.0274123964053614,
+          "effect_size": "large"
+        },
+        "GPT-4o-mini_vs_Gemini-2.0-Flash": {
+          "cohen_d": 1.7830555131912973,
+          "effect_size": "large"
+        },
+        "GPT-4o-mini_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 2.4745200970043495,
+          "effect_size": "large"
+        },
+        "Claude-3.7-Sonnet_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 0.2761989277945756,
+          "effect_size": "small"
+        },
+        "Claude-3.7-Sonnet_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 1.121670912202267,
+          "effect_size": "large"
+        },
+        "Claude-3.7-Sonnet_vs_DeepSeek-R1": {
+          "cohen_d": 0.46069784460275237,
+          "effect_size": "small"
+        },
+        "Claude-3.7-Sonnet_vs_Gemini-2.0-Flash": {
+          "cohen_d": 1.2916468568082697,
+          "effect_size": "large"
+        },
+        "Claude-3.7-Sonnet_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 1.5191636388732008,
+          "effect_size": "large"
+        },
+        "Claude-3.7-Sonnet-Thinking_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 1.450732189250525,
+          "effect_size": "large"
+        },
+        "Claude-3.7-Sonnet-Thinking_vs_DeepSeek-R1": {
+          "cohen_d": 0.733607576815767,
+          "effect_size": "medium"
+        },
+        "Claude-3.7-Sonnet-Thinking_vs_Gemini-2.0-Flash": {
+          "cohen_d": 1.5416119837022668,
+          "effect_size": "large"
+        },
+        "Claude-3.7-Sonnet-Thinking_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 2.0006296234023253,
+          "effect_size": "large"
+        },
+        "Llama-3.3-70B-Instruct_vs_DeepSeek-R1": {
+          "cohen_d": 0.5928316010206404,
+          "effect_size": "medium"
+        },
+        "Llama-3.3-70B-Instruct_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.3646068780088576,
+          "effect_size": "small"
+        },
+        "Llama-3.3-70B-Instruct_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.15867397705859837,
+          "effect_size": "small"
+        },
+        "DeepSeek-R1_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.8572021413504334,
+          "effect_size": "large"
+        },
+        "DeepSeek-R1_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.8375465985239258,
+          "effect_size": "large"
+        },
+        "Gemini-2.0-Flash_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.273223863672496,
+          "effect_size": "small"
+        }
+      }
+    },
+    "confidence_intervals": {
+      "metric": "avg_framework_confidence",
+      "confidence_level": 0.95,
+      "intervals": {
+        "Claude-3.7-Sonnet": {
+          "mean": 0.8208333333333334,
+          "lower_ci": 0.7986750939695804,
+          "upper_ci": 0.8429915726970865,
+          "ci_width": 0.0443164787275061,
+          "sample_size": 24
+        },
+        "Claude-3.7-Sonnet-Thinking": {
+          "mean": 0.8338541666666667,
+          "lower_ci": 0.816488461499129,
+          "upper_ci": 0.8512198718342043,
+          "ci_width": 0.03473141033507532,
+          "sample_size": 24
+        },
+        "DeepSeek-R1": {
+          "mean": 0.7931597222222222,
+          "lower_ci": 0.7649504023250218,
+          "upper_ci": 0.8213690421194226,
+          "ci_width": 0.05641863979440087,
+          "sample_size": 24
+        },
+        "GPT-4.5-Preview": {
+          "mean": 0.895,
+          "lower_ci": 0.8792525867037433,
+          "upper_ci": 0.9107474132962567,
+          "ci_width": 0.03149482659251346,
+          "sample_size": 24
+        },
+        "GPT-4o": {
+          "mean": 0.829861111111111,
+          "lower_ci": 0.813805382519876,
+          "upper_ci": 0.8459168397023461,
+          "ci_width": 0.032111457182470104,
+          "sample_size": 24
+        },
+        "GPT-4o-mini": {
+          "mean": 0.8477430555555555,
+          "lower_ci": 0.8332253516074589,
+          "upper_ci": 0.8622607595036521,
+          "ci_width": 0.02903540789619319,
+          "sample_size": 24
+        },
+        "Gemini-2.0-Flash": {
+          "mean": 0.7244791666666667,
+          "lower_ci": 0.68583327878841,
+          "upper_ci": 0.7631250545449233,
+          "ci_width": 0.07729177575651325,
+          "sample_size": 24
+        },
+        "Gemini-2.0-Flash-Thinking-Exp0121": {
+          "mean": 0.7444444444444445,
+          "lower_ci": 0.7241791619843695,
+          "upper_ci": 0.7647097269045194,
+          "ci_width": 0.04053056492014995,
+          "sample_size": 24
+        },
+        "Gemma-3": {
+          "mean": 0.7703124999999998,
+          "lower_ci": 0.7437694624060436,
+          "upper_ci": 0.7968555375939561,
+          "ci_width": 0.05308607518791253,
+          "sample_size": 24
+        },
+        "Llama-3.3-70B-Instruct": {
+          "mean": 0.7536458333333332,
+          "lower_ci": 0.7255652784790172,
+          "upper_ci": 0.7817263881876493,
+          "ci_width": 0.056161109708632084,
+          "sample_size": 24
+        },
+        "o3-mini": {
+          "mean": 0.807638888888889,
+          "lower_ci": 0.7811041980792446,
+          "upper_ci": 0.8341735796985335,
+          "ci_width": 0.05306938161928887,
+          "sample_size": 24
+        },
+        "o3-mini-high": {
+          "mean": 0.8300347222222223,
+          "lower_ci": 0.8123947524693217,
+          "upper_ci": 0.8476746919751229,
+          "ci_width": 0.03527993950580122,
+          "sample_size": 24
+        }
+      }
+    }
+  },
+  "framework_accuracy_narrative_action_system": {
+    "anova": {
+      "test": "one-way ANOVA",
+      "metric": "framework_accuracy_narrative_action_system",
+      "grouped_by": "model",
+      "f_statistic": 1.8954720055872427,
+      "p_value": 0.039845977642355944,
+      "significant": true,
+      "groups": [
+        "Claude-3.7-Sonnet",
+        "Claude-3.7-Sonnet-Thinking",
+        "DeepSeek-R1",
+        "GPT-4.5-Preview",
+        "GPT-4o",
+        "GPT-4o-mini",
+        "Gemini-2.0-Flash",
+        "Gemini-2.0-Flash-Thinking-Exp0121",
+        "Gemma-3",
+        "Llama-3.3-70B-Instruct",
+        "o3-mini",
+        "o3-mini-high"
+      ]
+    },
+    "effect_size": {
+      "metric": "framework_accuracy_narrative_action_system",
+      "comparisons": {
+        "o3-mini_vs_Gemma-3": {
+          "cohen_d": 0.5131849360863531,
+          "effect_size": "medium"
+        },
+        "o3-mini_vs_GPT-4.5-Preview": {
+          "cohen_d": 0.6949385818516137,
+          "effect_size": "medium"
+        },
+        "o3-mini_vs_o3-mini-high": {
+          "cohen_d": 0.08808963659576292,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_GPT-4o": {
+          "cohen_d": 0.2580742462980694,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_GPT-4o-mini": {
+          "cohen_d": 0.42684030845585214,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_Claude-3.7-Sonnet": {
+          "cohen_d": 0.08808963659576292,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 0.1737346454629035,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.0,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_DeepSeek-R1": {
+          "cohen_d": 0.1737346454629035,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.09188833164185553,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.792806729361865,
+          "effect_size": "medium"
+        },
+        "Gemma-3_vs_GPT-4.5-Preview": {
+          "cohen_d": 0.16606606411269004,
+          "effect_size": "small"
+        },
+        "Gemma-3_vs_o3-mini-high": {
+          "cohen_d": 0.42049288714873806,
+          "effect_size": "small"
+        },
+        "Gemma-3_vs_GPT-4o": {
+          "cohen_d": 0.24688876767532447,
+          "effect_size": "small"
+        },
+        "Gemma-3_vs_GPT-4o-mini": {
+          "cohen_d": 0.08172075053818935,
+          "effect_size": "small"
+        },
+        "Gemma-3_vs_Claude-3.7-Sonnet": {
+          "cohen_d": 0.42049288714873806,
+          "effect_size": "small"
+        },
+        "Gemma-3_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 0.3321321282253802,
+          "effect_size": "small"
+        },
+        "Gemma-3_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.5131849360863531,
+          "effect_size": "medium"
+        },
+        "Gemma-3_vs_DeepSeek-R1": {
+          "cohen_d": 0.3321321282253802,
+          "effect_size": "small"
+        },
+        "Gemma-3_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.6116943572731299,
+          "effect_size": "medium"
+        },
+        "Gemma-3_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.25229573228924285,
+          "effect_size": "small"
+        },
+        "GPT-4.5-Preview_vs_o3-mini-high": {
+          "cohen_d": 0.5975764318381929,
+          "effect_size": "medium"
+        },
+        "GPT-4.5-Preview_vs_GPT-4o": {
+          "cohen_d": 0.417423554968361,
+          "effect_size": "small"
+        },
+        "GPT-4.5-Preview_vs_GPT-4o-mini": {
+          "cohen_d": 0.24865228128703606,
+          "effect_size": "small"
+        },
+        "GPT-4.5-Preview_vs_Claude-3.7-Sonnet": {
+          "cohen_d": 0.5975764318381929,
+          "effect_size": "medium"
+        },
+        "GPT-4.5-Preview_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 0.5055250296034367,
+          "effect_size": "medium"
+        },
+        "GPT-4.5-Preview_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.6949385818516137,
+          "effect_size": "medium"
+        },
+        "GPT-4.5-Preview_vs_DeepSeek-R1": {
+          "cohen_d": 0.5055250296034367,
+          "effect_size": "medium"
+        },
+        "GPT-4.5-Preview_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.7993052538854533,
+          "effect_size": "medium"
+        },
+        "GPT-4.5-Preview_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.08536806169117045,
+          "effect_size": "small"
+        },
+        "o3-mini-high_vs_GPT-4o": {
+          "cohen_d": 0.16913593696825432,
+          "effect_size": "small"
+        },
+        "o3-mini-high_vs_GPT-4o-mini": {
+          "cohen_d": 0.33577536842242556,
+          "effect_size": "small"
+        },
+        "o3-mini-high_vs_Claude-3.7-Sonnet": {
+          "cohen_d": 0.0,
+          "effect_size": "small"
+        },
+        "o3-mini-high_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 0.08536806169117034,
+          "effect_size": "small"
+        },
+        "o3-mini-high_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.08808963659576292,
+          "effect_size": "small"
+        },
+        "o3-mini-high_vs_DeepSeek-R1": {
+          "cohen_d": 0.08536806169117034,
+          "effect_size": "small"
+        },
+        "o3-mini-high_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.18023838577343818,
+          "effect_size": "small"
+        },
+        "o3-mini-high_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.6922186552431728,
+          "effect_size": "medium"
+        },
+        "GPT-4o_vs_GPT-4o-mini": {
+          "cohen_d": 0.16430248070044248,
+          "effect_size": "small"
+        },
+        "GPT-4o_vs_Claude-3.7-Sonnet": {
+          "cohen_d": 0.16913593696825432,
+          "effect_size": "small"
+        },
+        "GPT-4o_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 0.0834847109936721,
+          "effect_size": "small"
+        },
+        "GPT-4o_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.2580742462980694,
+          "effect_size": "small"
+        },
+        "GPT-4o_vs_DeepSeek-R1": {
+          "cohen_d": 0.0834847109936721,
+          "effect_size": "small"
+        },
+        "GPT-4o_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.35164742851113606,
+          "effect_size": "small"
+        },
+        "GPT-4o_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.5074078109047635,
+          "effect_size": "medium"
+        },
+        "GPT-4o-mini_vs_Claude-3.7-Sonnet": {
+          "cohen_d": 0.33577536842242556,
+          "effect_size": "small"
+        },
+        "GPT-4o-mini_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 0.24865228128703606,
+          "effect_size": "small"
+        },
+        "GPT-4o-mini_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.42684030845585214,
+          "effect_size": "small"
+        },
+        "GPT-4o-mini_vs_DeepSeek-R1": {
+          "cohen_d": 0.24865228128703606,
+          "effect_size": "small"
+        },
+        "GPT-4o-mini_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.5232681184722836,
+          "effect_size": "medium"
+        },
+        "GPT-4o-mini_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.33577536842242567,
+          "effect_size": "small"
+        },
+        "Claude-3.7-Sonnet_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 0.08536806169117034,
+          "effect_size": "small"
+        },
+        "Claude-3.7-Sonnet_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.08808963659576292,
+          "effect_size": "small"
+        },
+        "Claude-3.7-Sonnet_vs_DeepSeek-R1": {
+          "cohen_d": 0.08536806169117034,
+          "effect_size": "small"
+        },
+        "Claude-3.7-Sonnet_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.18023838577343818,
+          "effect_size": "small"
+        },
+        "Claude-3.7-Sonnet_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.6922186552431728,
+          "effect_size": "medium"
+        },
+        "Claude-3.7-Sonnet-Thinking_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.1737346454629035,
+          "effect_size": "small"
+        },
+        "Claude-3.7-Sonnet-Thinking_vs_DeepSeek-R1": {
+          "cohen_d": 0.0,
+          "effect_size": "small"
+        },
+        "Claude-3.7-Sonnet-Thinking_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.2664350846284844,
+          "effect_size": "small"
+        },
+        "Claude-3.7-Sonnet-Thinking_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.597576431838193,
+          "effect_size": "medium"
+        },
+        "Llama-3.3-70B-Instruct_vs_DeepSeek-R1": {
+          "cohen_d": 0.1737346454629035,
+          "effect_size": "small"
+        },
+        "Llama-3.3-70B-Instruct_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.09188833164185553,
+          "effect_size": "small"
+        },
+        "Llama-3.3-70B-Instruct_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.792806729361865,
+          "effect_size": "medium"
+        },
+        "DeepSeek-R1_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.2664350846284844,
+          "effect_size": "small"
+        },
+        "DeepSeek-R1_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.597576431838193,
+          "effect_size": "medium"
+        },
+        "Gemini-2.0-Flash_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.9011919288671905,
+          "effect_size": "large"
+        }
+      }
+    },
+    "confidence_intervals": {
+      "metric": "framework_accuracy_narrative_action_system",
+      "confidence_level": 0.95,
+      "intervals": {
+        "Claude-3.7-Sonnet": {
+          "mean": 0.6666666666666666,
+          "lower_ci": 0.4633287168700676,
+          "upper_ci": 0.8700046164632657,
+          "ci_width": 0.40667589959319805,
+          "sample_size": 24
+        },
+        "Claude-3.7-Sonnet-Thinking": {
+          "mean": 0.625,
+          "lower_ci": 0.4161760339366557,
+          "upper_ci": 0.8338239660633443,
+          "ci_width": 0.4176479321266886,
+          "sample_size": 24
+        },
+        "DeepSeek-R1": {
+          "mean": 0.625,
+          "lower_ci": 0.4161760339366557,
+          "upper_ci": 0.8338239660633443,
+          "ci_width": 0.4176479321266886,
+          "sample_size": 24
+        },
+        "GPT-4.5-Preview": {
+          "mean": 0.375,
+          "lower_ci": 0.16617603393665573,
+          "upper_ci": 0.5838239660633443,
+          "ci_width": 0.4176479321266886,
+          "sample_size": 24
+        },
+        "GPT-4o": {
+          "mean": 0.5833333333333334,
+          "lower_ci": 0.37067741524307457,
+          "upper_ci": 0.7959892514235922,
+          "ci_width": 0.42531183618051766,
+          "sample_size": 24
+        },
+        "GPT-4o-mini": {
+          "mean": 0.5,
+          "lower_ci": 0.2843275352393826,
+          "upper_ci": 0.7156724647606174,
+          "ci_width": 0.4313449295212348,
+          "sample_size": 24
+        },
+        "Gemini-2.0-Flash": {
+          "mean": 0.75,
+          "lower_ci": 0.5632221666205013,
+          "upper_ci": 0.9367778333794987,
+          "ci_width": 0.37355566675899743,
+          "sample_size": 24
+        },
+        "Gemini-2.0-Flash-Thinking-Exp0121": {
+          "mean": 0.3333333333333333,
+          "lower_ci": 0.1299953835367343,
+          "upper_ci": 0.5366712831299323,
+          "ci_width": 0.406675899593198,
+          "sample_size": 24
+        },
+        "Gemma-3": {
+          "mean": 0.4583333333333333,
+          "lower_ci": 0.24341103594043245,
+          "upper_ci": 0.6732556307262342,
+          "ci_width": 0.4298445947858017,
+          "sample_size": 24
+        },
+        "Llama-3.3-70B-Instruct": {
+          "mean": 0.7083333333333334,
+          "lower_ci": 0.5122742642393758,
+          "upper_ci": 0.9043924024272909,
+          "ci_width": 0.3921181381879151,
+          "sample_size": 24
+        },
+        "o3-mini": {
+          "mean": 0.7083333333333334,
+          "lower_ci": 0.5122742642393758,
+          "upper_ci": 0.9043924024272909,
+          "ci_width": 0.3921181381879151,
+          "sample_size": 24
+        },
+        "o3-mini-high": {
+          "mean": 0.6666666666666666,
+          "lower_ci": 0.4633287168700676,
+          "upper_ci": 0.8700046164632657,
+          "ci_width": 0.40667589959319805,
+          "sample_size": 24
+        }
+      }
+    }
+  },
+  "framework_accuracy_spatial_behavioral_analysis": {
+    "anova": {
+      "test": "one-way ANOVA",
+      "metric": "framework_accuracy_spatial_behavioral_analysis",
+      "grouped_by": "model",
+      "f_statistic": 1.5460132983181536,
+      "p_value": 0.11488170898800626,
+      "significant": false,
+      "groups": [
+        "Claude-3.7-Sonnet",
+        "Claude-3.7-Sonnet-Thinking",
+        "DeepSeek-R1",
+        "GPT-4.5-Preview",
+        "GPT-4o",
+        "GPT-4o-mini",
+        "Gemini-2.0-Flash",
+        "Gemini-2.0-Flash-Thinking-Exp0121",
+        "Gemma-3",
+        "Llama-3.3-70B-Instruct",
+        "o3-mini",
+        "o3-mini-high"
+      ]
+    },
+    "effect_size": {
+      "metric": "framework_accuracy_spatial_behavioral_analysis",
+      "comparisons": {
+        "o3-mini_vs_Gemma-3": {
+          "cohen_d": 0.2580742462980694,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_GPT-4.5-Preview": {
+          "cohen_d": 0.0,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_o3-mini-high": {
+          "cohen_d": 0.16430248070044248,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_GPT-4o": {
+          "cohen_d": 0.33094381626464875,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_GPT-4o-mini": {
+          "cohen_d": 0.35164742851113606,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_Claude-3.7-Sonnet": {
+          "cohen_d": 0.16430248070044248,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 0.24688876767532447,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.24688876767532447,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_DeepSeek-R1": {
+          "cohen_d": 0.417423554968361,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.24688876767532447,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.5074078109047635,
+          "effect_size": "medium"
+        },
+        "Gemma-3_vs_GPT-4.5-Preview": {
+          "cohen_d": 0.2580742462980694,
+          "effect_size": "small"
+        },
+        "Gemma-3_vs_o3-mini-high": {
+          "cohen_d": 0.42684030845585214,
+          "effect_size": "small"
+        },
+        "Gemma-3_vs_GPT-4o": {
+          "cohen_d": 0.6021732413621621,
+          "effect_size": "medium"
+        },
+        "Gemma-3_vs_GPT-4o-mini": {
+          "cohen_d": 0.09188833164185553,
+          "effect_size": "small"
+        },
+        "Gemma-3_vs_Claude-3.7-Sonnet": {
+          "cohen_d": 0.42684030845585214,
+          "effect_size": "small"
+        },
+        "Gemma-3_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 0.5131849360863531,
+          "effect_size": "medium"
+        },
+        "Gemma-3_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.5131849360863531,
+          "effect_size": "medium"
+        },
+        "Gemma-3_vs_DeepSeek-R1": {
+          "cohen_d": 0.6949385818516137,
+          "effect_size": "medium"
+        },
+        "Gemma-3_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.5131849360863531,
+          "effect_size": "medium"
+        },
+        "Gemma-3_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.792806729361865,
+          "effect_size": "medium"
+        },
+        "GPT-4.5-Preview_vs_o3-mini-high": {
+          "cohen_d": 0.16430248070044248,
+          "effect_size": "small"
+        },
+        "GPT-4.5-Preview_vs_GPT-4o": {
+          "cohen_d": 0.33094381626464875,
+          "effect_size": "small"
+        },
+        "GPT-4.5-Preview_vs_GPT-4o-mini": {
+          "cohen_d": 0.35164742851113606,
+          "effect_size": "small"
+        },
+        "GPT-4.5-Preview_vs_Claude-3.7-Sonnet": {
+          "cohen_d": 0.16430248070044248,
+          "effect_size": "small"
+        },
+        "GPT-4.5-Preview_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 0.24688876767532447,
+          "effect_size": "small"
+        },
+        "GPT-4.5-Preview_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.24688876767532447,
+          "effect_size": "small"
+        },
+        "GPT-4.5-Preview_vs_DeepSeek-R1": {
+          "cohen_d": 0.417423554968361,
+          "effect_size": "small"
+        },
+        "GPT-4.5-Preview_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.24688876767532447,
+          "effect_size": "small"
+        },
+        "GPT-4.5-Preview_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.5074078109047635,
+          "effect_size": "medium"
+        },
+        "o3-mini-high_vs_GPT-4o": {
+          "cohen_d": 0.16430248070044237,
+          "effect_size": "small"
+        },
+        "o3-mini-high_vs_GPT-4o-mini": {
+          "cohen_d": 0.5232681184722836,
+          "effect_size": "medium"
+        },
+        "o3-mini-high_vs_Claude-3.7-Sonnet": {
+          "cohen_d": 0.0,
+          "effect_size": "small"
+        },
+        "o3-mini-high_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 0.08172075053818935,
+          "effect_size": "small"
+        },
+        "o3-mini-high_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.08172075053818935,
+          "effect_size": "small"
+        },
+        "o3-mini-high_vs_DeepSeek-R1": {
+          "cohen_d": 0.24865228128703606,
+          "effect_size": "small"
+        },
+        "o3-mini-high_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.08172075053818935,
+          "effect_size": "small"
+        },
+        "o3-mini-high_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.33577536842242567,
+          "effect_size": "small"
+        },
+        "GPT-4o_vs_GPT-4o-mini": {
+          "cohen_d": 0.7032948570222723,
+          "effect_size": "medium"
+        },
+        "GPT-4o_vs_Claude-3.7-Sonnet": {
+          "cohen_d": 0.16430248070044237,
+          "effect_size": "small"
+        },
+        "GPT-4o_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 0.08229625589177471,
+          "effect_size": "small"
+        },
+        "GPT-4o_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.08229625589177471,
+          "effect_size": "small"
+        },
+        "GPT-4o_vs_DeepSeek-R1": {
+          "cohen_d": 0.08348471099367223,
+          "effect_size": "small"
+        },
+        "GPT-4o_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.08229625589177471,
+          "effect_size": "small"
+        },
+        "GPT-4o_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.16913593696825457,
+          "effect_size": "small"
+        },
+        "GPT-4o-mini_vs_Claude-3.7-Sonnet": {
+          "cohen_d": 0.5232681184722836,
+          "effect_size": "medium"
+        },
+        "GPT-4o-mini_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 0.6116943572731299,
+          "effect_size": "medium"
+        },
+        "GPT-4o-mini_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.6116943572731299,
+          "effect_size": "medium"
+        },
+        "GPT-4o-mini_vs_DeepSeek-R1": {
+          "cohen_d": 0.7993052538854533,
+          "effect_size": "medium"
+        },
+        "GPT-4o-mini_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.6116943572731299,
+          "effect_size": "medium"
+        },
+        "GPT-4o-mini_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.9011919288671905,
+          "effect_size": "large"
+        },
+        "Claude-3.7-Sonnet_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 0.08172075053818935,
+          "effect_size": "small"
+        },
+        "Claude-3.7-Sonnet_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.08172075053818935,
+          "effect_size": "small"
+        },
+        "Claude-3.7-Sonnet_vs_DeepSeek-R1": {
+          "cohen_d": 0.24865228128703606,
+          "effect_size": "small"
+        },
+        "Claude-3.7-Sonnet_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.08172075053818935,
+          "effect_size": "small"
+        },
+        "Claude-3.7-Sonnet_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.33577536842242567,
+          "effect_size": "small"
+        },
+        "Claude-3.7-Sonnet-Thinking_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.0,
+          "effect_size": "small"
+        },
+        "Claude-3.7-Sonnet-Thinking_vs_DeepSeek-R1": {
+          "cohen_d": 0.16606606411269004,
+          "effect_size": "small"
+        },
+        "Claude-3.7-Sonnet-Thinking_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.0,
+          "effect_size": "small"
+        },
+        "Claude-3.7-Sonnet-Thinking_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.25229573228924285,
+          "effect_size": "small"
+        },
+        "Llama-3.3-70B-Instruct_vs_DeepSeek-R1": {
+          "cohen_d": 0.16606606411269004,
+          "effect_size": "small"
+        },
+        "Llama-3.3-70B-Instruct_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.0,
+          "effect_size": "small"
+        },
+        "Llama-3.3-70B-Instruct_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.25229573228924285,
+          "effect_size": "small"
+        },
+        "DeepSeek-R1_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.16606606411269004,
+          "effect_size": "small"
+        },
+        "DeepSeek-R1_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.08536806169117045,
+          "effect_size": "small"
+        },
+        "Gemini-2.0-Flash_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.25229573228924285,
+          "effect_size": "small"
+        }
+      }
+    },
+    "confidence_intervals": {
+      "metric": "framework_accuracy_spatial_behavioral_analysis",
+      "confidence_level": 0.95,
+      "intervals": {
+        "Claude-3.7-Sonnet": {
+          "mean": 0.5,
+          "lower_ci": 0.2843275352393826,
+          "upper_ci": 0.7156724647606174,
+          "ci_width": 0.4313449295212348,
+          "sample_size": 24
+        },
+        "Claude-3.7-Sonnet-Thinking": {
+          "mean": 0.4583333333333333,
+          "lower_ci": 0.24341103594043245,
+          "upper_ci": 0.6732556307262342,
+          "ci_width": 0.4298445947858017,
+          "sample_size": 24
+        },
+        "DeepSeek-R1": {
+          "mean": 0.375,
+          "lower_ci": 0.16617603393665573,
+          "upper_ci": 0.5838239660633443,
+          "ci_width": 0.4176479321266886,
+          "sample_size": 24
+        },
+        "GPT-4.5-Preview": {
+          "mean": 0.5833333333333334,
+          "lower_ci": 0.37067741524307457,
+          "upper_ci": 0.7959892514235922,
+          "ci_width": 0.42531183618051766,
+          "sample_size": 24
+        },
+        "GPT-4o": {
+          "mean": 0.4166666666666667,
+          "lower_ci": 0.2040107485764079,
+          "upper_ci": 0.6293225847569255,
+          "ci_width": 0.4253118361805176,
+          "sample_size": 24
+        },
+        "GPT-4o-mini": {
+          "mean": 0.75,
+          "lower_ci": 0.5632221666205013,
+          "upper_ci": 0.9367778333794987,
+          "ci_width": 0.37355566675899743,
+          "sample_size": 24
+        },
+        "Gemini-2.0-Flash": {
+          "mean": 0.4583333333333333,
+          "lower_ci": 0.24341103594043245,
+          "upper_ci": 0.6732556307262342,
+          "ci_width": 0.4298445947858017,
+          "sample_size": 24
+        },
+        "Gemini-2.0-Flash-Thinking-Exp0121": {
+          "mean": 0.3333333333333333,
+          "lower_ci": 0.1299953835367343,
+          "upper_ci": 0.5366712831299323,
+          "ci_width": 0.406675899593198,
+          "sample_size": 24
+        },
+        "Gemma-3": {
+          "mean": 0.7083333333333334,
+          "lower_ci": 0.5122742642393758,
+          "upper_ci": 0.9043924024272909,
+          "ci_width": 0.3921181381879151,
+          "sample_size": 24
+        },
+        "Llama-3.3-70B-Instruct": {
+          "mean": 0.4583333333333333,
+          "lower_ci": 0.24341103594043245,
+          "upper_ci": 0.6732556307262342,
+          "ci_width": 0.4298445947858017,
+          "sample_size": 24
+        },
+        "o3-mini": {
+          "mean": 0.5833333333333334,
+          "lower_ci": 0.37067741524307457,
+          "upper_ci": 0.7959892514235922,
+          "ci_width": 0.42531183618051766,
+          "sample_size": 24
+        },
+        "o3-mini-high": {
+          "mean": 0.5,
+          "lower_ci": 0.2843275352393826,
+          "upper_ci": 0.7156724647606174,
+          "ci_width": 0.4313449295212348,
+          "sample_size": 24
+        }
+      }
+    }
+  },
+  "framework_accuracy_sexual_behavioral_analysis": {
+    "anova": {
+      "test": "one-way ANOVA",
+      "metric": "framework_accuracy_sexual_behavioral_analysis",
+      "grouped_by": "model",
+      "f_statistic": 2.1163194444444438,
+      "p_value": 0.029061580465735457,
+      "significant": true,
+      "groups": [
+        "Claude-3.7-Sonnet",
+        "Claude-3.7-Sonnet-Thinking",
+        "DeepSeek-R1",
+        "GPT-4.5-Preview",
+        "GPT-4o",
+        "GPT-4o-mini",
+        "Gemini-2.0-Flash",
+        "Gemini-2.0-Flash-Thinking-Exp0121",
+        "Llama-3.3-70B-Instruct",
+        "o3-mini"
+      ]
+    },
+    "effect_size": {
+      "metric": "framework_accuracy_sexual_behavioral_analysis",
+      "comparisons": {
+        "o3-mini_vs_Gemma-3": {
+          "cohen_d": 0.2886751345948128,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_GPT-4.5-Preview": {
+          "cohen_d": 0.5097911392420602,
+          "effect_size": "medium"
+        },
+        "o3-mini_vs_o3-mini-high": {
+          "cohen_d": 0.2886751345948128,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_GPT-4o": {
+          "cohen_d": 0.40923798474156786,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_GPT-4o-mini": {
+          "cohen_d": 0.16913593696825446,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_Claude-3.7-Sonnet": {
+          "cohen_d": 0.7886473736161805,
+          "effect_size": "medium"
+        },
+        "o3-mini_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 0.7886473736161805,
+          "effect_size": "medium"
+        },
+        "o3-mini_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.16913593696825446,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_DeepSeek-R1": {
+          "cohen_d": 0.697076389614328,
+          "effect_size": "medium"
+        },
+        "o3-mini_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.16913593696825446,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.29857542903210477,
+          "effect_size": "small"
+        },
+        "Gemma-3_vs_GPT-4.5-Preview": {
+          "cohen_d": 0.7102013551889921,
+          "effect_size": "medium"
+        },
+        "Gemma-3_vs_o3-mini-high": {
+          "cohen_d": 0.0,
+          "effect_size": "none (constant values)"
+        },
+        "Gemma-3_vs_GPT-4o": {
+          "cohen_d": 0.6191391873668902,
+          "effect_size": "medium"
+        },
+        "Gemma-3_vs_GPT-4o-mini": {
+          "cohen_d": 0.41742355496836087,
+          "effect_size": "small"
+        },
+        "Gemma-3_vs_Claude-3.7-Sonnet": {
+          "cohen_d": 0.9789450103725607,
+          "effect_size": "large"
+        },
+        "Gemma-3_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 0.9789450103725607,
+          "effect_size": "large"
+        },
+        "Gemma-3_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.41742355496836087,
+          "effect_size": "small"
+        },
+        "Gemma-3_vs_DeepSeek-R1": {
+          "cohen_d": 0.8883781212268288,
+          "effect_size": "large"
+        },
+        "Gemma-3_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.41742355496836087,
+          "effect_size": "small"
+        },
+        "Gemma-3_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.5232681184722836,
+          "effect_size": "medium"
+        },
+        "GPT-4.5-Preview_vs_o3-mini-high": {
+          "cohen_d": 0.7102013551889921,
+          "effect_size": "medium"
+        },
+        "GPT-4.5-Preview_vs_GPT-4o": {
+          "cohen_d": 0.10465362369445676,
+          "effect_size": "small"
+        },
+        "GPT-4.5-Preview_vs_GPT-4o-mini": {
+          "cohen_d": 0.35227932017712943,
+          "effect_size": "small"
+        },
+        "GPT-4.5-Preview_vs_Claude-3.7-Sonnet": {
+          "cohen_d": 0.2781263383602604,
+          "effect_size": "small"
+        },
+        "GPT-4.5-Preview_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 0.2781263383602604,
+          "effect_size": "small"
+        },
+        "GPT-4.5-Preview_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.35227932017712943,
+          "effect_size": "small"
+        },
+        "GPT-4.5-Preview_vs_DeepSeek-R1": {
+          "cohen_d": 0.18927637245926807,
+          "effect_size": "small"
+        },
+        "GPT-4.5-Preview_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.35227932017712943,
+          "effect_size": "small"
+        },
+        "GPT-4.5-Preview_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.2202798373684139,
+          "effect_size": "small"
+        },
+        "o3-mini-high_vs_GPT-4o": {
+          "cohen_d": 0.6191391873668902,
+          "effect_size": "medium"
+        },
+        "o3-mini-high_vs_GPT-4o-mini": {
+          "cohen_d": 0.41742355496836087,
+          "effect_size": "small"
+        },
+        "o3-mini-high_vs_Claude-3.7-Sonnet": {
+          "cohen_d": 0.9789450103725607,
+          "effect_size": "large"
+        },
+        "o3-mini-high_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 0.9789450103725607,
+          "effect_size": "large"
+        },
+        "o3-mini-high_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.41742355496836087,
+          "effect_size": "small"
+        },
+        "o3-mini-high_vs_DeepSeek-R1": {
+          "cohen_d": 0.8883781212268288,
+          "effect_size": "large"
+        },
+        "o3-mini-high_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.41742355496836087,
+          "effect_size": "small"
+        },
+        "o3-mini-high_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.5232681184722836,
+          "effect_size": "medium"
+        },
+        "GPT-4o_vs_GPT-4o-mini": {
+          "cohen_d": 0.24865228128703606,
+          "effect_size": "small"
+        },
+        "GPT-4o_vs_Claude-3.7-Sonnet": {
+          "cohen_d": 0.3839738238941522,
+          "effect_size": "small"
+        },
+        "GPT-4o_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 0.3839738238941522,
+          "effect_size": "small"
+        },
+        "GPT-4o_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.24865228128703606,
+          "effect_size": "small"
+        },
+        "GPT-4o_vs_DeepSeek-R1": {
+          "cohen_d": 0.2944204766748182,
+          "effect_size": "small"
+        },
+        "GPT-4o_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.24865228128703606,
+          "effect_size": "small"
+        },
+        "GPT-4o_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.11577246392499123,
+          "effect_size": "small"
+        },
+        "GPT-4o-mini_vs_Claude-3.7-Sonnet": {
+          "cohen_d": 0.6333741316928521,
+          "effect_size": "medium"
+        },
+        "GPT-4o-mini_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 0.6333741316928521,
+          "effect_size": "medium"
+        },
+        "GPT-4o-mini_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.0,
+          "effect_size": "small"
+        },
+        "GPT-4o-mini_vs_DeepSeek-R1": {
+          "cohen_d": 0.5421874953958264,
+          "effect_size": "medium"
+        },
+        "GPT-4o-mini_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.0,
+          "effect_size": "small"
+        },
+        "GPT-4o-mini_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.13383860648433915,
+          "effect_size": "small"
+        },
+        "Claude-3.7-Sonnet_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 0.0,
+          "effect_size": "small"
+        },
+        "Claude-3.7-Sonnet_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.6333741316928521,
+          "effect_size": "medium"
+        },
+        "Claude-3.7-Sonnet_vs_DeepSeek-R1": {
+          "cohen_d": 0.08808963659576269,
+          "effect_size": "small"
+        },
+        "Claude-3.7-Sonnet_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.6333741316928521,
+          "effect_size": "medium"
+        },
+        "Claude-3.7-Sonnet_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.5008718402436296,
+          "effect_size": "medium"
+        },
+        "Claude-3.7-Sonnet-Thinking_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.6333741316928521,
+          "effect_size": "medium"
+        },
+        "Claude-3.7-Sonnet-Thinking_vs_DeepSeek-R1": {
+          "cohen_d": 0.08808963659576269,
+          "effect_size": "small"
+        },
+        "Claude-3.7-Sonnet-Thinking_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.6333741316928521,
+          "effect_size": "medium"
+        },
+        "Claude-3.7-Sonnet-Thinking_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.5008718402436296,
+          "effect_size": "medium"
+        },
+        "Llama-3.3-70B-Instruct_vs_DeepSeek-R1": {
+          "cohen_d": 0.5421874953958264,
+          "effect_size": "medium"
+        },
+        "Llama-3.3-70B-Instruct_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.0,
+          "effect_size": "small"
+        },
+        "Llama-3.3-70B-Instruct_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.13383860648433915,
+          "effect_size": "small"
+        },
+        "DeepSeek-R1_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.5421874953958264,
+          "effect_size": "medium"
+        },
+        "DeepSeek-R1_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.4104852841432547,
+          "effect_size": "small"
+        },
+        "Gemini-2.0-Flash_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.13383860648433915,
+          "effect_size": "small"
+        }
+      }
+    },
+    "confidence_intervals": {
+      "metric": "framework_accuracy_sexual_behavioral_analysis",
+      "confidence_level": 0.95,
+      "intervals": {
+        "Claude-3.7-Sonnet": {
+          "mean": 0.3333333333333333,
+          "lower_ci": 0.1299953835367343,
+          "upper_ci": 0.5366712831299323,
+          "ci_width": 0.406675899593198,
+          "sample_size": 24
+        },
+        "Claude-3.7-Sonnet-Thinking": {
+          "mean": 0.3333333333333333,
+          "lower_ci": 0.1299953835367343,
+          "upper_ci": 0.5366712831299323,
+          "ci_width": 0.406675899593198,
+          "sample_size": 24
+        },
+        "DeepSeek-R1": {
+          "mean": 0.2916666666666667,
+          "lower_ci": 0.09560759757270912,
+          "upper_ci": 0.4877257357606243,
+          "ci_width": 0.3921181381879152,
+          "sample_size": 24
+        },
+        "GPT-4.5-Preview": {
+          "mean": 0.20833333333333334,
+          "lower_ci": 0.03315707001168369,
+          "upper_ci": 0.38350959665498296,
+          "ci_width": 0.3503525266432993,
+          "sample_size": 24
+        },
+        "GPT-4o": {
+          "mean": 0.16666666666666666,
+          "lower_ci": 0.005913902640110519,
+          "upper_ci": 0.32741943069322277,
+          "ci_width": 0.3215055280531123,
+          "sample_size": 24
+        },
+        "GPT-4o-mini": {
+          "mean": 0.08333333333333333,
+          "lower_ci": -0.03588410720368583,
+          "upper_ci": 0.20255077387035247,
+          "ci_width": 0.23843488107403832,
+          "sample_size": 24
+        },
+        "Gemini-2.0-Flash": {
+          "mean": 0.08333333333333333,
+          "lower_ci": -0.03588410720368583,
+          "upper_ci": 0.20255077387035247,
+          "ci_width": 0.23843488107403832,
+          "sample_size": 24
+        },
+        "Gemini-2.0-Flash-Thinking-Exp0121": {
+          "mean": 0.125,
+          "lower_ci": -0.017653926600233766,
+          "upper_ci": 0.2676539266002338,
+          "ci_width": 0.2853078532004676,
+          "sample_size": 24
+        },
+        "Gemma-3": {
+          "mean": 0.0,
+          "lower_ci": 0.0,
+          "upper_ci": 0.0,
+          "ci_width": 0.0,
+          "sample_size": 24,
+          "note": "All values are identical, confidence interval is a point"
+        },
+        "Llama-3.3-70B-Instruct": {
+          "mean": 0.08333333333333333,
+          "lower_ci": -0.03588410720368583,
+          "upper_ci": 0.20255077387035247,
+          "ci_width": 0.23843488107403832,
+          "sample_size": 24
+        },
+        "o3-mini": {
+          "mean": 0.041666666666666664,
+          "lower_ci": -0.04452740043412672,
+          "upper_ci": 0.12786073376746004,
+          "ci_width": 0.17238813420158677,
+          "sample_size": 24
+        },
+        "o3-mini-high": {
+          "mean": 0.0,
+          "lower_ci": 0.0,
+          "upper_ci": 0.0,
+          "ci_width": 0.0,
+          "sample_size": 24,
+          "note": "All values are identical, confidence interval is a point"
+        }
+      }
+    }
+  },
+  "framework_accuracy_sexual_homicide_pathways_analysis": {
+    "anova": {
+      "test": "one-way ANOVA",
+      "metric": "framework_accuracy_sexual_homicide_pathways_analysis",
+      "grouped_by": "model",
+      "f_statistic": 0.42166459358606884,
+      "p_value": 0.9459058533141949,
+      "significant": false,
+      "groups": [
+        "Claude-3.7-Sonnet",
+        "Claude-3.7-Sonnet-Thinking",
+        "DeepSeek-R1",
+        "GPT-4.5-Preview",
+        "GPT-4o",
+        "GPT-4o-mini",
+        "Gemini-2.0-Flash",
+        "Gemini-2.0-Flash-Thinking-Exp0121",
+        "Gemma-3",
+        "Llama-3.3-70B-Instruct",
+        "o3-mini",
+        "o3-mini-high"
+      ]
+    },
+    "effect_size": {
+      "metric": "framework_accuracy_sexual_homicide_pathways_analysis",
+      "comparisons": {
+        "o3-mini_vs_Gemma-3": {
+          "cohen_d": 0.16430248070044237,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_GPT-4.5-Preview": {
+          "cohen_d": 0.16430248070044237,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_o3-mini-high": {
+          "cohen_d": 0.0,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_GPT-4o": {
+          "cohen_d": 0.08172075053818935,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_GPT-4o-mini": {
+          "cohen_d": 0.24865228128703606,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_Claude-3.7-Sonnet": {
+          "cohen_d": 0.0,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 0.0,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.0,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_DeepSeek-R1": {
+          "cohen_d": 0.0,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.426840308455852,
+          "effect_size": "small"
+        },
+        "o3-mini_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.16430248070044237,
+          "effect_size": "small"
+        },
+        "Gemma-3_vs_GPT-4.5-Preview": {
+          "cohen_d": 0.0,
+          "effect_size": "small"
+        },
+        "Gemma-3_vs_o3-mini-high": {
+          "cohen_d": 0.16430248070044237,
+          "effect_size": "small"
+        },
+        "Gemma-3_vs_GPT-4o": {
+          "cohen_d": 0.08229625589177471,
+          "effect_size": "small"
+        },
+        "Gemma-3_vs_GPT-4o-mini": {
+          "cohen_d": 0.08348471099367223,
+          "effect_size": "small"
+        },
+        "Gemma-3_vs_Claude-3.7-Sonnet": {
+          "cohen_d": 0.16430248070044237,
+          "effect_size": "small"
+        },
+        "Gemma-3_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 0.16430248070044237,
+          "effect_size": "small"
+        },
+        "Gemma-3_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.16430248070044237,
+          "effect_size": "small"
+        },
+        "Gemma-3_vs_DeepSeek-R1": {
+          "cohen_d": 0.16430248070044237,
+          "effect_size": "small"
+        },
+        "Gemma-3_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.25807424629806947,
+          "effect_size": "small"
+        },
+        "Gemma-3_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.0,
+          "effect_size": "small"
+        },
+        "GPT-4.5-Preview_vs_o3-mini-high": {
+          "cohen_d": 0.16430248070044237,
+          "effect_size": "small"
+        },
+        "GPT-4.5-Preview_vs_GPT-4o": {
+          "cohen_d": 0.08229625589177471,
+          "effect_size": "small"
+        },
+        "GPT-4.5-Preview_vs_GPT-4o-mini": {
+          "cohen_d": 0.08348471099367223,
+          "effect_size": "small"
+        },
+        "GPT-4.5-Preview_vs_Claude-3.7-Sonnet": {
+          "cohen_d": 0.16430248070044237,
+          "effect_size": "small"
+        },
+        "GPT-4.5-Preview_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 0.16430248070044237,
+          "effect_size": "small"
+        },
+        "GPT-4.5-Preview_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.16430248070044237,
+          "effect_size": "small"
+        },
+        "GPT-4.5-Preview_vs_DeepSeek-R1": {
+          "cohen_d": 0.16430248070044237,
+          "effect_size": "small"
+        },
+        "GPT-4.5-Preview_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.25807424629806947,
+          "effect_size": "small"
+        },
+        "GPT-4.5-Preview_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.0,
+          "effect_size": "small"
+        },
+        "o3-mini-high_vs_GPT-4o": {
+          "cohen_d": 0.08172075053818935,
+          "effect_size": "small"
+        },
+        "o3-mini-high_vs_GPT-4o-mini": {
+          "cohen_d": 0.24865228128703606,
+          "effect_size": "small"
+        },
+        "o3-mini-high_vs_Claude-3.7-Sonnet": {
+          "cohen_d": 0.0,
+          "effect_size": "small"
+        },
+        "o3-mini-high_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 0.0,
+          "effect_size": "small"
+        },
+        "o3-mini-high_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.0,
+          "effect_size": "small"
+        },
+        "o3-mini-high_vs_DeepSeek-R1": {
+          "cohen_d": 0.0,
+          "effect_size": "small"
+        },
+        "o3-mini-high_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.426840308455852,
+          "effect_size": "small"
+        },
+        "o3-mini-high_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.16430248070044237,
+          "effect_size": "small"
+        },
+        "GPT-4o_vs_GPT-4o-mini": {
+          "cohen_d": 0.16606606411269004,
+          "effect_size": "small"
+        },
+        "GPT-4o_vs_Claude-3.7-Sonnet": {
+          "cohen_d": 0.08172075053818935,
+          "effect_size": "small"
+        },
+        "GPT-4o_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 0.08172075053818935,
+          "effect_size": "small"
+        },
+        "GPT-4o_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.08172075053818935,
+          "effect_size": "small"
+        },
+        "GPT-4o_vs_DeepSeek-R1": {
+          "cohen_d": 0.08172075053818935,
+          "effect_size": "small"
+        },
+        "GPT-4o_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.34212329072423525,
+          "effect_size": "small"
+        },
+        "GPT-4o_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.08229625589177471,
+          "effect_size": "small"
+        },
+        "GPT-4o-mini_vs_Claude-3.7-Sonnet": {
+          "cohen_d": 0.24865228128703606,
+          "effect_size": "small"
+        },
+        "GPT-4o-mini_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 0.24865228128703606,
+          "effect_size": "small"
+        },
+        "GPT-4o-mini_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.24865228128703606,
+          "effect_size": "small"
+        },
+        "GPT-4o-mini_vs_DeepSeek-R1": {
+          "cohen_d": 0.24865228128703606,
+          "effect_size": "small"
+        },
+        "GPT-4o-mini_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.17373464546290335,
+          "effect_size": "small"
+        },
+        "GPT-4o-mini_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.08348471099367223,
+          "effect_size": "small"
+        },
+        "Claude-3.7-Sonnet_vs_Claude-3.7-Sonnet-Thinking": {
+          "cohen_d": 0.0,
+          "effect_size": "small"
+        },
+        "Claude-3.7-Sonnet_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.0,
+          "effect_size": "small"
+        },
+        "Claude-3.7-Sonnet_vs_DeepSeek-R1": {
+          "cohen_d": 0.0,
+          "effect_size": "small"
+        },
+        "Claude-3.7-Sonnet_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.426840308455852,
+          "effect_size": "small"
+        },
+        "Claude-3.7-Sonnet_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.16430248070044237,
+          "effect_size": "small"
+        },
+        "Claude-3.7-Sonnet-Thinking_vs_Llama-3.3-70B-Instruct": {
+          "cohen_d": 0.0,
+          "effect_size": "small"
+        },
+        "Claude-3.7-Sonnet-Thinking_vs_DeepSeek-R1": {
+          "cohen_d": 0.0,
+          "effect_size": "small"
+        },
+        "Claude-3.7-Sonnet-Thinking_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.426840308455852,
+          "effect_size": "small"
+        },
+        "Claude-3.7-Sonnet-Thinking_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.16430248070044237,
+          "effect_size": "small"
+        },
+        "Llama-3.3-70B-Instruct_vs_DeepSeek-R1": {
+          "cohen_d": 0.0,
+          "effect_size": "small"
+        },
+        "Llama-3.3-70B-Instruct_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.426840308455852,
+          "effect_size": "small"
+        },
+        "Llama-3.3-70B-Instruct_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.16430248070044237,
+          "effect_size": "small"
+        },
+        "DeepSeek-R1_vs_Gemini-2.0-Flash": {
+          "cohen_d": 0.426840308455852,
+          "effect_size": "small"
+        },
+        "DeepSeek-R1_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.16430248070044237,
+          "effect_size": "small"
+        },
+        "Gemini-2.0-Flash_vs_Gemini-2.0-Flash-Thinking-Exp0121": {
+          "cohen_d": 0.25807424629806947,
+          "effect_size": "small"
+        }
+      }
+    },
+    "confidence_intervals": {
+      "metric": "framework_accuracy_sexual_homicide_pathways_analysis",
+      "confidence_level": 0.95,
+      "intervals": {
+        "Claude-3.7-Sonnet": {
+          "mean": 0.5,
+          "lower_ci": 0.2843275352393826,
+          "upper_ci": 0.7156724647606174,
+          "ci_width": 0.4313449295212348,
+          "sample_size": 24
+        },
+        "Claude-3.7-Sonnet-Thinking": {
+          "mean": 0.5,
+          "lower_ci": 0.2843275352393826,
+          "upper_ci": 0.7156724647606174,
+          "ci_width": 0.4313449295212348,
+          "sample_size": 24
+        },
+        "DeepSeek-R1": {
+          "mean": 0.5,
+          "lower_ci": 0.2843275352393826,
+          "upper_ci": 0.7156724647606174,
+          "ci_width": 0.4313449295212348,
+          "sample_size": 24
+        },
+        "GPT-4.5-Preview": {
+          "mean": 0.4166666666666667,
+          "lower_ci": 0.2040107485764079,
+          "upper_ci": 0.6293225847569255,
+          "ci_width": 0.4253118361805176,
+          "sample_size": 24
+        },
+        "GPT-4o": {
+          "mean": 0.4583333333333333,
+          "lower_ci": 0.24341103594043245,
+          "upper_ci": 0.6732556307262342,
+          "ci_width": 0.4298445947858017,
+          "sample_size": 24
+        },
+        "GPT-4o-mini": {
+          "mean": 0.375,
+          "lower_ci": 0.16617603393665573,
+          "upper_ci": 0.5838239660633443,
+          "ci_width": 0.4176479321266886,
+          "sample_size": 24
+        },
+        "Gemini-2.0-Flash": {
+          "mean": 0.2916666666666667,
+          "lower_ci": 0.09560759757270912,
+          "upper_ci": 0.4877257357606243,
+          "ci_width": 0.3921181381879152,
+          "sample_size": 24
+        },
+        "Gemini-2.0-Flash-Thinking-Exp0121": {
+          "mean": 0.4166666666666667,
+          "lower_ci": 0.2040107485764079,
+          "upper_ci": 0.6293225847569255,
+          "ci_width": 0.4253118361805176,
+          "sample_size": 24
+        },
+        "Gemma-3": {
+          "mean": 0.4166666666666667,
+          "lower_ci": 0.2040107485764079,
+          "upper_ci": 0.6293225847569255,
+          "ci_width": 0.4253118361805176,
+          "sample_size": 24
+        },
+        "Llama-3.3-70B-Instruct": {
+          "mean": 0.5,
+          "lower_ci": 0.2843275352393826,
+          "upper_ci": 0.7156724647606174,
+          "ci_width": 0.4313449295212348,
+          "sample_size": 24
+        },
+        "o3-mini": {
+          "mean": 0.5,
+          "lower_ci": 0.2843275352393826,
+          "upper_ci": 0.7156724647606174,
+          "ci_width": 0.4313449295212348,
+          "sample_size": 24
+        },
+        "o3-mini-high": {
+          "mean": 0.5,
+          "lower_ci": 0.2843275352393826,
+          "upper_ci": 0.7156724647606174,
+          "ci_width": 0.4313449295212348,
+          "sample_size": 24
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "case_id": "92508df4-89cd-4935-bde0-2f00bea3b164",
+  "offender_profile": {
+    "demographics": {
+      "age_range": "40-60",
+      "gender": "MALE",
+      "employment": "Former Technical Employee",
+      "relationship": "Single or Divorced",
+      "living_situation": "Living Alone",
+      "education": "Technically Educated, High Intelligence",
+      "reasoning": [
+        "Advanced bomb-making skills suggest technical education.",
+        "Grievances align with employment in technical fields.",
+        "The calculated nature of attacks indicates high intelligence.",
+        "Public Wi-Fi suggests living alone."
+      ]
+    },
+    "psychological_characteristics": {
+      "personality_type": "Narcissistic, Resentful",
+      "control_needs": "High need for control, demonstrated by meticulous planning.",
+      "social_competence": "Limited social skills, possible isolation.",
+      "stress_factors": "Past employment grievances and unresolved wrongs.",
+      "fantasy_elements": "Controlled violence, consistent with calculated message.",
+      "anger_management": "Anger is methodically channeled into bombings.",
+      "reasoning": [
+        "Methodical device placement shows need for control.",
+        "Communications indicate desire for recognition and power.",
+        "Isolation inferred from lack of direct victim interactions."
+      ]
+    },
+    "behavioral_characteristics": {
+      "crime_scene_behavior": "Highly organized, methodical.",
+      "violence_type": "Controlled violence; not aimed at causing fatalities.",
+      "victim_interaction": "No direct contact with victims; indirect threat.",
+      "post_offense_behavior": "Communicates with media for recognition post-offense.",
+      "risk_taking": "Calculated risk, balancing fear and publicity.",
+      "trophy_taking": "Uses red fabric as a signature, not a trophy.",
+      "reasoning": [
+        "Consistent device construction indicates planning.",
+        "Minimal injuries highlight intention behind attacks.",
+        "Signatures like red fabric suggest a personal mark."
+      ]
+    },
+    "geographic_behavior": {
+      "crime_scene_location": "Urban public facilities and company locations.",
+      "crime_scene_layout": "Public communal areas with broad access.",
+      "crime_scene_characteristics": "Accessible areas targeted for message delivery.",
+      "reasoning": [
+        "Crime scenes overlap with places frequented by the public.",
+        "Device placement in public targets indicates a broad message intent."
+      ]
+    },
+    "skills_and_knowledge": {
+      "technical_skills": "High technical proficiency in bomb-making.",
+      "planning_ability": "Strong organizational skills evident in planning.",
+      "weapon_proficiency": "Skilled in assembling complex devices.",
+      "knot_tying": "No indication of restraint use.",
+      "crime_scene_awareness": "Significant awareness of forensic measures.",
+      "reasoning": [
+        "Devices show intricate construction and electronic integration.",
+        "Forensic caution suggests knowledge of investigative methods."
+      ]
+    },
+    "investigative_implications": {
+      "prior_offenses": "Likely history of employment grievances.",
+      "escalation_risk": "High potential due to ongoing grievances.",
+      "documentation": "Consistent documentation via media communications.",
+      "victim_selection": "Grievance-driven targeting against EGU.",
+      "cooling_off_period": "Periods of inactivity reflect tactical reassessment.",
+      "reasoning": [
+        "History of unresolved grievances with EGU.",
+        "Pattern of non-violence points to strategic targeting."
+      ]
+    },
+    "key_identifiers": {
+      "occupation_type": "Former Engineer or Technician",
+      "appearance": "Middle-aged, possibly impaired gait.",
+      "social_role": "Isolated role, limited community engagement.",
+      "hobbies": "Technical hobbies, possible interest in explosives.",
+      "vehicle": "No specific vehicle but uses public Wi-Fi indicating minimal reliance.",
+      "reasoning": [
+        "Predominant technical proficiency aligns with engineering roles.",
+        "Impaired gait suggests possible injury linked to grievances."
+      ]
+    },
+    "reasoning": [
+      "Profile focuses on calculated grievance-driven actions.",
+      "Focus on skill and method indicates deep-seated grievances.",
+      "Targeting patterns align with messages aiming at public discourse."
+    ]
+  },
+  "validation_metrics": {
+    "key_behavioral_indicators": [
+      "Methodical construction and consistent signature use.",
+      "Explosive sophistication aligning with technical background.",
+      "Usage of media communications."
+    ],
+    "critical_evidence": [
+      "Consistent grievance-focused communications.",
+      "Pattern of device improvement correlating with technical expertise.",
+      "No direct victim harm, focusing instead on recognition."
+    ],
+    "profile_accuracy_factors": [
+      "Pattern matching to communication and victimology evidence.",
+      "Methodical plotting and forensic awareness support profile."
+    ]
+  },
+  "framework_classifications": {
+    "narrative_action_system": {
+      "primary_classification": "REVENGEFUL",
+      "confidence": 0.9,
+      "supporting_evidence": [
+        "Targeted grievance against EGU.",
+        "Controlled and methodical violence.",
+        "Evidence of a mission-oriented approach."
+      ],
+      "contradicting_evidence": [
+        "Non-personal targeting does not match typical personal revenge."
+      ],
+      "reasoning": [
+        "The offender's communication emphasizes revenge.",
+        "Professional-grade device construction matches the calculated approach."
+      ]
+    },
+    "sexual_behavioral_analysis": {
+      "primary_classification": null,
+      "confidence": null,
+      "supporting_evidence": null,
+      "contradicting_evidence": null,
+      "reasoning": null
+    },
+    "sexual_homicide_pathways_analysis": {
+      "primary_classification": null,
+      "confidence": null,
+      "supporting_evidence": null,
+      "contradicting_evidence": null,
+      "reasoning": null
+    },
+    "spatial_behavioral_analysis": {
+      "primary_classification": "MARAUDER",
+      "confidence": 0.8,
+      "supporting_evidence": [
+        "Crimes centered around high familiarity urban locations.",
+        "Use of local public Wi-Fi supports familiar zone activities."
+      ],
+      "contradicting_evidence": [
+        "Targets can be widely populated rather than distinctly proximate."
+      ],
+      "reasoning": [
+        "Pattern of crime is localized around familiar public and company zones."
+      ]
+    }
+  }
+}

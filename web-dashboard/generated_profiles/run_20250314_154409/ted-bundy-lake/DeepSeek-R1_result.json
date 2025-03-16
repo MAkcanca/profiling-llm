@@ -1,0 +1,182 @@
+{
+  "case_id": "3c719322-35d2-4bef-95ae-82aea62face6",
+  "offender_profile": {
+    "demographics": {
+      "age_range": "25-35 years",
+      "gender": "MALE",
+      "employment": "Mobile occupation (delivery driver, park employee)",
+      "relationship": "Single or divorced",
+      "living_situation": "Lives alone or with dependent (parent/partner)",
+      "education": "High school diploma/some college; above-average intelligence",
+      "reasoning": [
+        "Physical evidence (male-pattern hairs, bite mark strength) indicates male offender",
+        "Organized crime scene suggests maturity and experience",
+        "Vehicle mobility and park knowledge implies occupation requiring transportation",
+        "Lack of immediate witness recognition suggests non-local residence but regional familiarity"
+      ]
+    },
+    "psychological_characteristics": {
+      "personality_type": "Organized/antisocial traits with narcissistic tendencies",
+      "control_needs": "High need for control through sexual domination",
+      "social_competence": "Superficially charming but lacks deep relationships",
+      "stress_factors": "Perceived sexual inadequacy or academic rejection",
+      "fantasy_elements": "Detailed sexual fantasies involving restrained victims",
+      "anger_management": "Controlled rage expressed through ritualized violence",
+      "reasoning": [
+        "Body positioning and bite marks demonstrate ritualistic behavior",
+        "Multiple victims suggest compulsion to perfect fantasy scenario",
+        "Vehicle cleanup shows concern about evidence but not total forensic awareness"
+      ]
+    },
+    "behavioral_characteristics": {
+      "crime_scene_behavior": "High organization: pre-selected disposal site, restraints prepared",
+      "violence_type": "Mixed violence: controlled (ligatures) and impulsive (bite marks)",
+      "victim_interaction": "Domineering approach with initial feigned helpfulness",
+      "post_offense_behavior": "Methodical cleanup (vehicle wiping) but leaves strategic evidence (tire marks)",
+      "risk_taking": "Calculated risks: operates in crowded parks but uses isolation techniques",
+      "trophy_taking": "Takes symbolic items (locket/textbooks) and biological trophies (hair)",
+      "reasoning": [
+        "Multiple restraint points indicate premeditated control",
+        "Bite marks show spontaneous paraphilic behavior",
+        "Vehicle relocation demonstrates secondary crime scene planning"
+      ]
+    },
+    "geographic_behavior": {
+      "crime_scene_location": "Secondary disposal site in remote wooded area",
+      "crime_scene_layout": "Concealed location requiring terrain knowledge",
+      "crime_scene_characteristics": "Buffer zone between abduction and disposal sites",
+      "reasoning": [
+        "2.3 mile distance from parking lot shows transportation capability",
+        "Fire road access indicates familiarity with park infrastructure",
+        "Body concealment method suggests prior experience with area"
+      ]
+    },
+    "skills_and_knowledge": {
+      "technical_skills": "Intermediate technical skill (knot-tying, vehicle operation)",
+      "planning_ability": "Detailed pre-planning of abduction/disposal sites",
+      "weapon_proficiency": "Prefers manual weapons (ligature, blunt object)",
+      "knot_tying": "Competent with simple restraints (nylon cord)",
+      "crime_scene_awareness": "Basic forensic awareness (wipes prints) but overlooks trace evidence",
+      "reasoning": [
+        "Effective restraint application prevents victim escape",
+        "Steering wheel cleaning shows knowledge of fingerprint evidence",
+        "Unidentified fibers/hairs demonstrate incomplete cleanup"
+      ]
+    },
+    "investigative_implications": {
+      "prior_offenses": "Prior sexual offenses/peeping tom history likely",
+      "escalation_risk": "High escalation risk with shortening cooling-off periods",
+      "documentation": "Likely keeps trophies/photo documentation",
+      "victim_selection": "Targets solitary college females in recreational settings",
+      "cooling_off_period": "4-6 month intervals between offenses",
+      "reasoning": [
+        "18-month pattern across counties shows developing confidence",
+        "Similar victimology indicates specific selection criteria",
+        "Increasing body concealment sophistication suggests learning"
+      ]
+    },
+    "key_identifiers": {
+      "occupation_type": "Service industry/outdoor-related work",
+      "appearance": "Average appearance; possibly fit from outdoor activity",
+      "social_role": "Peripheral community member, not socially prominent",
+      "hobbies": "Outdoor activities (hunting/fishing), true crime literature",
+      "vehicle": "Owns late-60s/early-70s sedan with beige carpet",
+      "reasoning": [
+        "Carpet fibers suggest specific vehicle interior",
+        "Park knowledge implies outdoor enthusiast",
+        "Maintains sufficient mobility for regional attacks"
+      ]
+    },
+    "reasoning": [
+      "Ligature marks and body positioning indicate controlled offender",
+      "Geographic dispersion of similar cases suggests mobile offender",
+      "Bite marks and sexual assault demonstrate paraphilic motivation",
+      "Vehicle relocation pattern shows deliberate misdirection attempt"
+    ]
+  },
+  "validation_metrics": {
+    "key_behavioral_indicators": [
+      "Consistent victim type selection",
+      "Use of multiple restraint methods",
+      "Secondary crime scene creation",
+      "Symbolic body positioning"
+    ],
+    "critical_evidence": [
+      "Non-victim blood under nails (Type O)",
+      "Male-pattern hairs on victim",
+      "Distinctive bite mark evidence",
+      "Beige carpet fibers"
+    ],
+    "profile_accuracy_factors": [
+      "Similar MO across multiple jurisdictions",
+      "Increasing confidence in victim approach",
+      "Forensic countermeasure progression"
+    ]
+  },
+  "framework_classifications": {
+    "narrative_action_system": {
+      "primary_classification": "PROFESSIONAL",
+      "confidence": 0.7,
+      "supporting_evidence": [
+        "Organized disposal site preparation",
+        "Vehicle evidence cleanup",
+        "Apparent risk assessment"
+      ],
+      "contradicting_evidence": [
+        "Bite marks suggest emotional component",
+        "Possible personal victim selection"
+      ],
+      "reasoning": [
+        "Combination of planning (restraints) and controlled execution aligns with NAS Professional indicators"
+      ]
+    },
+    "sexual_behavioral_analysis": {
+      "primary_classification": "ANGER_EXCITATION",
+      "confidence": 0.65,
+      "supporting_evidence": [
+        "Sexual assault evidence",
+        "Ritualistic body positioning",
+        "Bite marks as paraphilic element"
+      ],
+      "contradicting_evidence": [
+        "No evidence of prolonged torture",
+        "Limited post-mortem interaction"
+      ],
+      "reasoning": [
+        "Combination of sexual violence and ritualism suggests sadistic motivation"
+      ]
+    },
+    "sexual_homicide_pathways_analysis": {
+      "primary_classification": "SADISTIC",
+      "confidence": 0.6,
+      "supporting_evidence": [
+        "Fantasy-driven victim selection",
+        "Sexualized violence patterns",
+        "Trophy collection behavior"
+      ],
+      "contradicting_evidence": [
+        "No evidence of victim captivity",
+        "Limited torture duration"
+      ],
+      "reasoning": [
+        "Methodical approach aligns with Pathway 1 indicators despite some contradictions"
+      ]
+    },
+    "spatial_behavioral_analysis": {
+      "primary_classification": "MARAUDER",
+      "confidence": 0.7,
+      "supporting_evidence": [
+        "Localized park terrain knowledge",
+        "Buffer zone between abduction/disposal sites",
+        "Foot-accessible disposal location"
+      ],
+      "contradicting_evidence": [
+        "Vehicle moved 12 miles from crime scene",
+        "Regional similar cases pattern"
+      ],
+      "reasoning": [
+        "Primary crime scene knowledge outweighs commuting evidence"
+      ]
+    }
+  }
+}

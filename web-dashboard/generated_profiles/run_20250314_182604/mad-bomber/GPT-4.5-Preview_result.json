@@ -1,0 +1,141 @@
+{
+  "case_id": "92508df4-89cd-4935-bde0-2f00bea3b164",
+  "offender_profile": {
+    "demographics": {
+      "age_range": "40-55 years",
+      "gender": "MALE",
+      "employment": "Former industrial/technical employee at Eastern Grid Utilities",
+      "relationship": "Single or divorced",
+      "living_situation": "Living alone, isolated arrangement",
+      "education": "Average to above-average intelligence, possibly foreign educated or non-native English speaker",
+      "reasoning": [
+        "Historical employment grievances",
+        "Communications analysis",
+        "Surveillance images"
+      ]
+    },
+    "psychological_characteristics": {
+      "personality_type": "Obsessive and grievance-driven",
+      "control_needs": "High need for indirect control/power",
+      "social_competence": "Poor social skills, isolated",
+      "stress_factors": "Workplace injury/compensation denial",
+      "fantasy_elements": "Intense, long-term grievance and vindication fantasies",
+      "anger_management": "Carefully controlled anger through indirect violence",
+      "reasoning": [
+        "Communications content",
+        "Long-term fixation",
+        "Device targeting pattern"
+      ]
+    },
+    "behavioral_characteristics": {
+      "crime_scene_behavior": "Highly organized, methodical",
+      "violence_type": "Gradual escalation, intentionally controlled",
+      "victim_interaction": "Indirect, no personal interaction",
+      "post_offense_behavior": "Careful risk avoidance and forensic precaution",
+      "risk_taking": "Controlled moderate risk",
+      "trophy_taking": "No known trophies",
+      "reasoning": [
+        "Explosive devices development and placement behaviors",
+        "Avoidance of direct interaction or capture"
+      ]
+    },
+    "geographic_behavior": {
+      "crime_scene_location": "Various EGU locations and public venues within one metropolitan city",
+      "crime_scene_layout": "Strategically chosen public locations for visibility",
+      "crime_scene_characteristics": "Consistent, deliberate spatial choices",
+      "reasoning": [
+        "Incident chronologies",
+        "Repeated targeting of high-visibility locations"
+      ]
+    },
+    "skills_and_knowledge": {
+      "technical_skills": "High level of technical proficiency",
+      "planning_ability": "Extensive planning capacity shown",
+      "weapon_proficiency": "High proficiency with explosives",
+      "knot_tying": "Not Applicable",
+      "crime_scene_awareness": "Extremely forensic-aware",
+      "reasoning": [
+        "Device sophistication",
+        "Forensic avoidance"
+      ]
+    },
+    "investigative_implications": {
+      "prior_offenses": "No known previous violent crime",
+      "escalation_risk": "Moderate but increasing risk of lethality in future",
+      "documentation": "Likely keeps records due to fixation",
+      "victim_selection": "Specific historical grievance: EGU employees and community awareness",
+      "cooling_off_period": "Initially long intervals, shortening greatly with increased escalation",
+      "reasoning": [
+        "Behavioral evolution",
+        "Device proliferation"
+      ]
+    },
+    "key_identifiers": {
+      "occupation_type": "Industrial worker or technician",
+      "appearance": "Middle-aged male, right-leg impaired",
+      "social_role": "Limited community involvement",
+      "hobbies": "Mechanical/electrical interests, likely hobbyist",
+      "vehicle": "Older, commonplace vehicle for discretion",
+      "reasoning": [
+        "Employment history",
+        "Surveillance gait analysis"
+      ]
+    },
+    "reasoning": [
+      "Logical synthesis of evidence across various dimensions."
+    ]
+  },
+  "validation_metrics": {
+    "key_behavioral_indicators": [
+      "Increasing device sophistication",
+      "Consistent communication style"
+    ],
+    "critical_evidence": [
+      "EGU employment-related grievances",
+      "Surveillance gait evidence"
+    ],
+    "profile_accuracy_factors": [
+      "Detailed behavioral and forensic evidence",
+      "Corroborative communications and documented grievance"
+    ]
+  },
+  "framework_classifications": {
+    "narrative_action_system": {
+      "primary_classification": "REVENGEFUL",
+      "confidence": 0.95,
+      "supporting_evidence": [
+        "Targeted victim selection (EGU)",
+        "Justified vengeance themes"
+      ],
+      "contradicting_evidence": [],
+      "reasoning": [
+        "Long-term targeted grievances"
+      ]
+    },
+    "sexual_behavioral_analysis": {
+      "primary_classification": null,
+      "confidence": null,
+      "supporting_evidence": null,
+      "contradicting_evidence": null,
+      "reasoning": null
+    },
+    "sexual_homicide_pathways_analysis": {
+      "primary_classification": null,
+      "confidence": null,
+      "supporting_evidence": null,
+      "contradicting_evidence": null,
+      "reasoning": null
+    },
+    "spatial_behavioral_analysis": {
+      "primary_classification": "MARAUDER",
+      "confidence": 0.9,
+      "supporting_evidence": [
+        "Localized targeting within city"
+      ],
+      "contradicting_evidence": [],
+      "reasoning": [
+        "High local area familiarity clearly evident"
+      ]
+    }
+  }
+}

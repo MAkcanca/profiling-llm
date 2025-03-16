@@ -1,0 +1,167 @@
+{
+  "case_id": "3c719322-35d2-4bef-95ae-82aea62face6",
+  "offender_profile": {
+    "demographics": {
+      "age_range": "25-35",
+      "gender": "MALE",
+      "employment": "Mobile occupation (e.g., delivery driver, park staff)",
+      "relationship": "Single or unstable relationships",
+      "living_situation": "Lives alone or with family in rented property",
+      "education": "Average to above-average intelligence; possibly some vocational training",
+      "reasoning": [
+        "Male pattern hairs and sexual assault suggest male offender",
+        "Multiple county crimes indicate mobile occupation",
+        "Beige carpet fibers suggest residence with standard furnishings"
+      ]
+    },
+    "psychological_characteristics": {
+      "personality_type": "Organized, psychopathic traits",
+      "control_needs": "High need for dominance and control",
+      "social_competence": "Superficially charming but lacks deep relationships",
+      "stress_factors": "Perceived rejection or inadequacy in interpersonal relationships",
+      "fantasy_elements": "Complex fantasies involving control and sexual violence",
+      "anger_management": "Cold, calculated anger expressed through ritualistic violence",
+      "reasoning": [
+        "Body posing and restraint use indicate control needs",
+        "Bite marks and trophies suggest fetishistic gratification"
+      ]
+    },
+    "behavioral_characteristics": {
+      "crime_scene_behavior": "Highly organized; pre-planned abduction and disposal",
+      "violence_type": "Controlled violence focusing on domination",
+      "victim_interaction": "Lures victims using non-threatening approach (e.g., requests for help)",
+      "post_offense_behavior": "Methodical cleanup (vehicle wiped) and trophy retention",
+      "risk_taking": "Moderate risk due to public interaction but minimizes forensic traces",
+      "trophy_taking": "Trophies: jewelry, personal items; souvenirs for re-living crimes",
+      "reasoning": [
+        "Cleaned vehicle and concealed body show post-crime organization",
+        "Missing necklace/purse indicate trophy collection"
+      ]
+    },
+    "geographic_behavior": {
+      "crime_scene_location": "Remote ravine requiring vehicular access",
+      "crime_scene_layout": "Disposal site selected for seclusion",
+      "crime_scene_characteristics": "Body concealed, staged to delay discovery",
+      "reasoning": [
+        "Tire marks near fire road imply vehicle use",
+        "Knowledge of hidden location suggests pre-crime surveillance"
+      ]
+    },
+    "skills_and_knowledge": {
+      "technical_skills": "Proficient with ligatures and vehicles",
+      "planning_ability": "High planning capability (multiple crimes, evasion)",
+      "weapon_proficiency": "Uses hands/manual force primarily",
+      "knot_tying": "Skilled in knot-tying (nylon cord restraints)",
+      "crime_scene_awareness": "Aware (wiped prints) but not expert (fibers left)",
+      "reasoning": [
+        "Restraint technique and body transport demonstrate practical skills",
+        "Partial forensic cleanup indicates basic awareness"
+      ]
+    },
+    "investigative_implications": {
+      "prior_offenses": "Prior sexual assaults or burglaries",
+      "escalation_risk": "High (3+ similar cases in 18 months)",
+      "documentation": "Likely keeps trophies/records",
+      "victim_selection": "Targets young women in recreational areas",
+      "cooling_off_period": "4\u20136 months between offenses",
+      "reasoning": [
+        "Escalation from\u5931\u8e2a to murder evident in case history",
+        "Geographic spread suggests increasing confidence"
+      ]
+    },
+    "key_identifiers": {
+      "occupation_type": "Transportation or outdoor-related job",
+      "appearance": "Average build, nondescript appearance",
+      "social_role": "Marginal social integration; possibly volunteers/attends public events",
+      "hobbies": "Outdoor activities, fishing/hunting",
+      "vehicle": "Older model sedan or van (consistent with tire marks)",
+      "reasoning": [
+        "Tire treads suggest passenger vehicle",
+        "Outdoor knowledge aligns with hunting/fishing hobbies"
+      ]
+    },
+    "reasoning": [
+      "Deliberate body positioning and ligatures indicate organized, fantasy-driven killer",
+      "Multiple jurisdictions and victim type consistency suggest ritualized MO",
+      "Vehicle cleanup and remote disposal reflect calculated risk management"
+    ]
+  },
+  "validation_metrics": {
+    "key_behavioral_indicators": [
+      "Body posed postmortem",
+      "Trophy retention",
+      "Use of con approach (Witness B)"
+    ],
+    "critical_evidence": [
+      "Beige carpet fibers (link to residence/vehicle)",
+      "Bite marks (forensic comparison)",
+      "Tire tread pattern (vehicle identification)"
+    ],
+    "profile_accuracy_factors": [
+      "Consistency with SHPA sadistic pathway",
+      "Spatial commuter pattern across counties",
+      "Forensic awareness level"
+    ]
+  },
+  "framework_classifications": {
+    "narrative_action_system": {
+      "primary_classification": "PROFESSIONAL",
+      "confidence": 0.9,
+      "supporting_evidence": [
+        "Controlled crime scene",
+        "Body transportation",
+        "Forensic precautions"
+      ],
+      "contradicting_evidence": [
+        "No direct evidence of professional criminal background"
+      ],
+      "reasoning": [
+        "Methodical execution aligns with NAS Professional archetype"
+      ]
+    },
+    "sexual_behavioral_analysis": {
+      "primary_classification": "ANGER_EXCITATION",
+      "confidence": 0.8,
+      "supporting_evidence": [
+        "Bite marks (ritualistic)",
+        "Nylon cord restraints",
+        "Sexual assault"
+      ],
+      "contradicting_evidence": [
+        "No evidence of prolonged torture"
+      ],
+      "reasoning": [
+        "Combination of sexual violence and structured planning fits Anger Excitation"
+      ]
+    },
+    "sexual_homicide_pathways_analysis": {
+      "primary_classification": "SADISTIC",
+      "confidence": 0.75,
+      "supporting_evidence": [
+        "Multiple victims with similar profiles",
+        "Body staging",
+        "Trophy collection"
+      ],
+      "contradicting_evidence": [
+        "Limited evidence of postmortem sexual acts"
+      ],
+      "reasoning": [
+        "Pattern reflects premeditated sadistic motivation"
+      ]
+    },
+    "spatial_behavioral_analysis": {
+      "primary_classification": "COMMUTER",
+      "confidence": 0.7,
+      "supporting_evidence": [
+        "Crime spans multiple counties",
+        "Vehicle used for body transport"
+      ],
+      "contradicting_evidence": [
+        "Proximity to park suggests some local knowledge"
+      ],
+      "reasoning": [
+        "Disposal site separation from residence fits commuter model"
+      ]
+    }
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "case_id": "9dd8bd29-8376-4deb-8de0-bc8be2cf04b3",
+  "offender_profile": {
+    "demographics": {
+      "age_range": "35-50",
+      "gender": "MALE",
+      "employment": "Technical/engineering field or unemployed with workshop access",
+      "relationship": "Likely single/unmarried",
+      "living_situation": "Lives alone in controlled environment with workshop space",
+      "education": "Advanced technical education or self-taught expertise in electronics/mechanics",
+      "reasoning": [
+        "Technical sophistication in device construction requires engineering knowledge",
+        "Sustained pattern (1985-1989) indicates mature planning capacity",
+        "Isolated living situation suggested by forensic countermeasures",
+        "Consistent academic/tech targeting suggests personal connection to field"
+      ]
+    },
+    "psychological_characteristics": {
+      "personality_type": "Obsessive-compulsive with paranoid tendencies",
+      "control_needs": "Extreme need for control through technological mastery",
+      "social_competence": "Superficially functional but lacks deep relationships",
+      "stress_factors": "Perceived professional/career failures in tech sector",
+      "fantasy_elements": "Elaborate revenge fantasies against academic institutions",
+      "anger_management": "Cold, calculated anger channeled into meticulous planning",
+      "reasoning": [
+        "Non-personalized attacks suggest ideological motivation",
+        "Device precision indicates emotional detachment during construction",
+        "5-year pattern demonstrates sustained grudge maintenance",
+        "Avoidance of collateral damage shows controlled focus"
+      ]
+    },
+    "behavioral_characteristics": {
+      "crime_scene_behavior": "Highly organized with forensic awareness",
+      "violence_type": "Targeted impersonal violence through delayed mechanism",
+      "victim_interaction": "No direct interaction - depersonalized through mail system",
+      "post_offense_behavior": "Likely monitors media coverage and law enforcement response",
+      "risk_taking": "Calculated risk through geographical dispersion of attacks",
+      "trophy_taking": "Possible collection of news clippings as trophies",
+      "reasoning": [
+        "Untraceable materials demonstrate pre-planning",
+        "Consistent device signature across incidents shows ritualistic behavior",
+        "Postal delivery creates psychological distance from violence",
+        "National pattern indicates confidence in evasion techniques"
+      ]
+    },
+    "geographic_behavior": {
+      "crime_scene_location": "Distributed locations with Northern California origin point",
+      "crime_scene_layout": "Controlled detonation environments (academic offices)",
+      "crime_scene_characteristics": "Non-confrontational attack methodology",
+      "reasoning": [
+        "Oakland postmark suggests West Coast operational base",
+        "Academic settings provide predictable victim routines",
+        "Mail system exploitation demonstrates spatial strategy"
+      ]
+    },
+    "skills_and_knowledge": {
+      "technical_skills": "Advanced explosive device engineering",
+      "planning_ability": "Long-term operational planning (4-year pattern)",
+      "weapon_proficiency": "Specialized in improvised explosive weapons",
+      "knot_tying": "N/A (no restraint use evident)",
+      "crime_scene_awareness": "Superior forensic avoidance practices",
+      "reasoning": [
+        "Spring-loaded trigger mechanism requires precise engineering",
+        "Consistent material selection shows supply chain management",
+        "Lack of biological evidence indicates disciplined protocols"
+      ]
+    },
+    "investigative_implications": {
+      "prior_offenses": "Possible history of non-lethal harassment/activism",
+      "escalation_risk": "High escalation risk with possible mass casualty attempt",
+      "documentation": "Likely documents attacks through media archives",
+      "victim_selection": "Targets symbolic representatives of academic technology",
+      "cooling_off_period": "6-18 month intervals between incidents",
+      "reasoning": [
+        "Progression from intercepted package to successful detonation",
+        "Geographic spread suggests confidence growth",
+        "Academic focus indicates specific grievance development"
+      ]
+    },
+    "key_identifiers": {
+      "occupation_type": "Electronics technician/engineering dropout",
+      "appearance": "Neat appearance blending with academic environments",
+      "social_role": "Loner with possible participation in anti-tech groups",
+      "hobbies": "Model building, radical politics, surveillance technology",
+      "vehicle": "Non-descript vehicle for material transportation",
+      "reasoning": [
+        "Device craftsmanship suggests workshop access",
+        "Academic institution access requires credible appearance",
+        "Cross-country pattern implies reliable transportation"
+      ]
+    },
+    "reasoning": [
+      "Device sophistication correlates with technical education/experience",
+      "Non-personalized victim selection pattern indicates symbolic targeting",
+      "Geographic dispersion through mail system demonstrates spatial strategy",
+      "Forensic countermeasures show prior law enforcement awareness",
+      "Consistent package construction reveals ritualistic behavior"
+    ]
+  },
+  "validation_metrics": {
+    "key_behavioral_indicators": [
+      "Progressive refinement of explosive devices",
+      "Consistent focus on academic technology targets",
+      "Use of postal system as attack vector",
+      "Geographic pattern with California origins"
+    ],
+    "critical_evidence": [
+      "Oakland, CA postmark on package",
+      "Hand-planed wood tool marks",
+      "Consistent shrapnel composition across cases",
+      "Lack of biological evidence"
+    ],
+    "profile_accuracy_factors": [
+      "Consistency in device construction methodology",
+      "Geographic clustering of mailing origins",
+      "Technical knowledge requirements",
+      "Victimology pattern maintenance"
+    ]
+  },
+  "framework_classifications": {
+    "narrative_action_system": {
+      "primary_classification": "REVENGEFUL",
+      "confidence": 0.9,
+      "supporting_evidence": [
+        "Targeted symbolic victims without personal connection",
+        "Methodical device construction showing mission focus",
+        "5-year sustained pattern indicating long-term agenda"
+      ],
+      "contradicting_evidence": [
+        "Lack of direct communication/explanation",
+        "Impersonal nature of mail attacks"
+      ],
+      "reasoning": [
+        "Attacks serve as symbolic punishment for perceived technological transgressions",
+        "Controlled violence demonstrates focused agenda rather than emotional outburst",
+        "Consistent methodology across years shows disciplined commitment"
+      ]
+    },
+    "sexual_behavioral_analysis": {
+      "primary_classification": null,
+      "confidence": null,
+      "supporting_evidence": null,
+      "contradicting_evidence": null,
+      "reasoning": null
+    },
+    "sexual_homicide_pathways_analysis": {
+      "primary_classification": null,
+      "confidence": null,
+      "supporting_evidence": null,
+      "contradicting_evidence": null,
+      "reasoning": null
+    },
+    "spatial_behavioral_analysis": {
+      "primary_classification": "COMMUTER",
+      "confidence": 0.85,
+      "supporting_evidence": [
+        "Northern California mailing origin consistent across incidents",
+        "Target locations distributed nationally",
+        "Use of postal system for geographic separation"
+      ],
+      "contradicting_evidence": [
+        "Lack of clear crime scene clustering",
+        "Multiple jurisdictions involved"
+      ],
+      "reasoning": [
+        "Mail system allows attacking distant targets while maintaining home base security",
+        "Package origins suggest stable operational headquarters",
+        "Consistent West Coast mailing pattern despite national targets"
+      ]
+    }
+  }
+}

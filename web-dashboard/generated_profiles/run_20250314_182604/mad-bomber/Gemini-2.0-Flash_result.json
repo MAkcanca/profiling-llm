@@ -1,0 +1,171 @@
+{
+  "case_id": "92508df4-89cd-4935-bde0-2f00bea3b164",
+  "offender_profile": {
+    "demographics": {
+      "age_range": "45-60",
+      "gender": "MALE",
+      "employment": "Former blue-collar worker at EGU",
+      "relationship": "Possibly single or divorced",
+      "living_situation": "Could be living alone, possibly in modest housing",
+      "education": "Likely high school education with some technical aptitude",
+      "reasoning": [
+        "Surveillance footage suggests a middle-aged individual.",
+        "Injury claim dates back to the early 2000s.",
+        "Communications use male pronouns.",
+        "Grievance is work-related at EGU.",
+        "Obsessive focus suggests social isolation.",
+        "Devices show increasing sophistication."
+      ]
+    },
+    "psychological_characteristics": {
+      "personality_type": "Resentful, grudge-holding, obsessive, potentially paranoid",
+      "control_needs": "Moderate. The bomber wants to be heard and have their demands met.",
+      "social_competence": "Poor. The bomber feels wronged and unable to resolve the issue through normal channels.",
+      "stress_factors": "Perceived injustice from EGU, financial difficulties due to injury, social isolation",
+      "fantasy_elements": "Revenge against EGU, being recognized for their suffering",
+      "anger_management": "Suppressed for a long time, now expressed through calculated acts of violence",
+      "reasoning": [
+        "Communications express resentment and a desire for revenge.",
+        "The bomber is attempting to exert control over EGU through threats and violence.",
+        "The bomber feels unable to resolve the situation through normal means.",
+        "The bomber's actions are driven by a perceived injustice and potential financial hardship.",
+        "Fantasies of revenge are evident in the communications.",
+        "The bomber's anger has been building for a long time."
+      ]
+    },
+    "behavioral_characteristics": {
+      "crime_scene_behavior": "Organized, meticulous in device construction",
+      "violence_type": "Instrumental, intended to cause disruption and fear rather than mass casualties",
+      "victim_interaction": "None, other than indirect communication through the media",
+      "post_offense_behavior": "Monitors media coverage, continues to communicate",
+      "risk_taking": "Calculated risk-taker. Avoids detection, minimizes casualties",
+      "trophy_taking": "Possibly keeps records of media coverage or device components",
+      "reasoning": [
+        "Devices show careful construction and assembly.",
+        "The bomber intends to cause disruption and fear rather than death.",
+        "The bomber communicates through the media.",
+        "The bomber avoids detection and minimizes casualties.",
+        "The bomber may be keeping records of the bombings."
+      ]
+    },
+    "geographic_behavior": {
+      "crime_scene_location": "Familiar with the city and EGU facilities",
+      "crime_scene_layout": "Targets public areas and EGU facilities for maximum impact",
+      "crime_scene_characteristics": "Urban environment",
+      "reasoning": [
+        "The bomber targets specific locations within the city.",
+        "The bomber targets public areas and EGU facilities.",
+        "The bombings occur in an urban environment."
+      ]
+    },
+    "skills_and_knowledge": {
+      "technical_skills": "Basic bomb-making skills, improving over time",
+      "planning_ability": "Capable of planning and executing attacks",
+      "weapon_proficiency": "Pipe bombs",
+      "knot_tying": "Not applicable",
+      "crime_scene_awareness": "Aware of avoiding fingerprints and DNA",
+      "reasoning": [
+        "The bomber's bomb-making skills have improved over time.",
+        "The bomber has planned and executed multiple bombings.",
+        "The bomber uses pipe bombs.",
+        "The bomber avoids leaving fingerprints and DNA."
+      ]
+    },
+    "investigative_implications": {
+      "prior_offenses": "Possibly minor offenses, but unlikely",
+      "escalation_risk": "High risk of escalation if demands are not met",
+      "documentation": "May keep a journal or record of events",
+      "victim_selection": "EGU and public spaces",
+      "cooling_off_period": "Variable, depending on perceived progress",
+      "reasoning": [
+        "The bomber's actions suggest a risk of escalation if demands are not met.",
+        "The bomber's timeline changes based on lack of progress.",
+        "The bomber is targeting EGU and the public."
+      ]
+    },
+    "key_identifiers": {
+      "occupation_type": "Former EGU employee",
+      "appearance": "Middle-aged, possibly with a limp",
+      "social_role": "Isolated",
+      "hobbies": "Likely follows news related to EGU",
+      "vehicle": "Unknown",
+      "reasoning": [
+        "Communications claim a workplace injury at EGU.",
+        "Surveillance footage shows a middle-aged individual, gait analysis suggests possible right leg injury or impairment",
+        "The bomber is obsessive and fixated on EGU.",
+        "The bomber is likely following news related to EGU."
+      ]
+    },
+    "reasoning": [
+      "The bomber is a middle-aged man who feels wronged by EGU.",
+      "He has been building bombs and targeting EGU and the public.",
+      "He is communicating with the media to express his grievances.",
+      "He is likely to escalate if his demands are not met."
+    ]
+  },
+  "validation_metrics": {
+    "key_behavioral_indicators": [
+      "Communications referencing EGU and a workplace injury.",
+      "Bomb-making activity.",
+      "Placing devices in public areas.",
+      "Signing communications with 'F.C.'"
+    ],
+    "critical_evidence": [
+      "Device components.",
+      "Communications.",
+      "Surveillance footage.",
+      "EGU employment records."
+    ],
+    "profile_accuracy_factors": [
+      "Confirmation of EGU employment.",
+      "Matching the 'F.C.' initials to a specific individual.",
+      "Locating the bomber's residence."
+    ]
+  },
+  "framework_classifications": {
+    "narrative_action_system": {
+      "primary_classification": "REVENGEFUL",
+      "confidence": 0.8,
+      "supporting_evidence": [
+        "Targeted victim selection with personal significance (EGU).",
+        "Methodical violence without signs of chaos.",
+        "Evidence of preparation and determination to complete action.",
+        "Crime scene shows signs of a justified mission or purpose.",
+        "Calm execution despite negative motivation."
+      ],
+      "contradicting_evidence": [],
+      "reasoning": [
+        "The bomber is seeking retribution from EGU.",
+        "The bomber's actions are driven by a perceived injustice."
+      ]
+    },
+    "sexual_behavioral_analysis": {
+      "primary_classification": null,
+      "confidence": null,
+      "supporting_evidence": null,
+      "contradicting_evidence": null,
+      "reasoning": null
+    },
+    "sexual_homicide_pathways_analysis": {
+      "primary_classification": null,
+      "confidence": null,
+      "supporting_evidence": null,
+      "contradicting_evidence": null,
+      "reasoning": null
+    },
+    "spatial_behavioral_analysis": {
+      "primary_classification": "COMMUTER",
+      "confidence": 0.6,
+      "supporting_evidence": [
+        "Clear spatial distinction between residence/work zones and offense locations",
+        "Willingness to cross jurisdictional boundaries to commit crimes",
+        "Evidence of targeted location selection based on specific environmental variables",
+        "Consistent travel patterns to crime scenes (particular routes or transportation methods)"
+      ],
+      "contradicting_evidence": [],
+      "reasoning": [
+        "Targets EGU facilities and public areas around the city rather than a clustered area."
+      ]
+    }
+  }
+}

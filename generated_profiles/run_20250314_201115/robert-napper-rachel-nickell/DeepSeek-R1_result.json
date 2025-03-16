@@ -1,0 +1,183 @@
+{
+  "case_id": "3b8ace87-d7f1-4d34-b0cd-9a62476d663c",
+  "offender_profile": {
+    "demographics": {
+      "age_range": "22-28 years",
+      "gender": "MALE",
+      "employment": "Unskilled laborer or unemployed",
+      "relationship": "Single or unstable relationships",
+      "living_situation": "Lives alone or with parents",
+      "education": "Secondary education, average intelligence",
+      "reasoning": [
+        "Mid-20s alignment with SHPA Anger Retaliatory offender characteristics",
+        "Employment status inferred from impulsive behavior and crime timing",
+        "Relationship conflicts suggested by sexualized violence patterns"
+      ]
+    },
+    "psychological_characteristics": {
+      "personality_type": "Antisocial traits with emotional dysregulation",
+      "control_needs": "Compensatory dominance needs",
+      "social_competence": "Superficial relationships, difficulty maintaining bonds",
+      "stress_factors": "Recent rejection/humiliation from female figure",
+      "fantasy_elements": "Brief violent fantasies without elaborate ritualism",
+      "anger_management": "Explosive outbursts with poor control",
+      "reasoning": [
+        "Overkill indicates poor emotional regulation",
+        "Sexual violence suggests compensatory masculinity",
+        "Witnesses describe nervous appearance signaling internal conflict"
+      ]
+    },
+    "behavioral_characteristics": {
+      "crime_scene_behavior": "Semi-organized with rapid escalation",
+      "violence_type": "Expressive violence with overkill",
+      "victim_interaction": "Dominance assertion through sexual violence",
+      "post_offense_behavior": "Rushed departure, minimal cleanup",
+      "risk_taking": "Moderate risk-taking in public space",
+      "trophy_taking": "Possibly took small trinket (none documented)",
+      "reasoning": [
+        "49 wounds demonstrate loss of control during attack",
+        "Child/dog left unharmed suggests momentary control",
+        "Seminal fluid indicates completed sexual act"
+      ]
+    },
+    "geographic_behavior": {
+      "crime_scene_location": "Public park with semi-secluded areas",
+      "crime_scene_layout": "Open space with natural screening",
+      "crime_scene_characteristics": "High-risk location with escape routes",
+      "reasoning": [
+        "Familiarity with park layout evidenced by site selection",
+        "Proximity to pathways allowed quick escape",
+        "Partial visibility increased risk tolerance"
+      ]
+    },
+    "skills_and_knowledge": {
+      "technical_skills": "Basic knife proficiency",
+      "planning_ability": "Limited pre-planning beyond target selection",
+      "weapon_proficiency": "Comfortable with blade weapons",
+      "knot_tying": "No evidence of restraint skills",
+      "crime_scene_awareness": "Minimal forensic awareness",
+      "reasoning": [
+        "Weapon not recovered suggests disposable attitude",
+        "Left biological evidence (seminal fluid, fingerprints)",
+        "Shoe impression indicates lack of terrain caution"
+      ]
+    },
+    "investigative_implications": {
+      "prior_offenses": "History of domestic violence/assault",
+      "escalation_risk": "High escalation risk with similar offenses",
+      "documentation": "Unlikely to document crimes",
+      "victim_selection": "Young mothers in domestic settings",
+      "cooling_off_period": "Weeks to months between offenses",
+      "reasoning": [
+        "Angry Pathway offenders typically have prior violence",
+        "Unconsummated rage likely to reoccur under stress",
+        "Victim template suggests focus on maternal figures"
+      ]
+    },
+    "key_identifiers": {
+      "occupation_type": "Manual labor or unemployed",
+      "appearance": "Average build, possibly disheveled appearance",
+      "social_role": "Social outsider, minimal community ties",
+      "hobbies": "Fitness activities (size 10-11 trainers)",
+      "vehicle": "No vehicle or old model",
+      "reasoning": [
+        "Witness descriptions match athletic clothing",
+        "Park access suggests pedestrian mobility",
+        "Social isolation aligns with offender characteristics"
+      ]
+    },
+    "reasoning": [
+      "Frenzied attack pattern matches Anger Retaliatory SHPA",
+      "Child/dog preservation indicates localized familiarity (Marauder)",
+      "Sexual violence without ritualism suggests angry rather than sadistic motive",
+      "Public location choice demonstrates risk tolerance"
+    ]
+  },
+  "validation_metrics": {
+    "key_behavioral_indicators": [
+      "Overkill with facial bruising",
+      "Sexual assault as punishment",
+      "Disorganized escape with witnesses present"
+    ],
+    "critical_evidence": [
+      "49 stab wounds showing loss of control",
+      "Seminal fluid indicating completed assault",
+      "Shoe impression suggesting local familiarity"
+    ],
+    "profile_accuracy_factors": [
+      "Consistency with Anger Pathway pre-crime characteristics",
+      "Witness accounts of nervous demeanor pre-crime",
+      "Lack of defensive wounds suggesting surprise attack"
+    ]
+  },
+  "framework_classifications": {
+    "narrative_action_system": {
+      "primary_classification": "TRAGIC_HERO",
+      "confidence": 0.65,
+      "supporting_evidence": [
+        "Perceived inevitability of attack",
+        "Lack of robbery motive",
+        "Child preservation shows residual morality"
+      ],
+      "contradicting_evidence": [
+        "Some evidence of target selection",
+        "Sexual component suggests proactive motive"
+      ],
+      "reasoning": [
+        "Combines elements of compelled action with personal justification",
+        "Violence pattern suggests 'no choice' narrative construction"
+      ]
+    },
+    "sexual_behavioral_analysis": {
+      "primary_classification": "ANGER_RETALIATORY",
+      "confidence": 0.7,
+      "supporting_evidence": [
+        "Facial battery present",
+        "Overkill pattern",
+        "Disorganized scene characteristics"
+      ],
+      "contradicting_evidence": [
+        "Completed sexual act suggests some control",
+        "Seminal fluid indicates possible planning"
+      ],
+      "reasoning": [
+        "Blitz-style attack matches witness timeline",
+        "Victim degradation through sexual violence aligns with retaliatory motives"
+      ]
+    },
+    "sexual_homicide_pathways_analysis": {
+      "primary_classification": "ANGRY",
+      "confidence": 0.75,
+      "supporting_evidence": [
+        "Excessive violence beyond functional needs",
+        "Sexual assault as anger expression",
+        "Probable triggering event"
+      ],
+      "contradicting_evidence": [
+        "Lack of clear prior victim conflict",
+        "Partial evidence of location planning"
+      ],
+      "reasoning": [
+        "Rage components dominate over sexual gratification",
+        "Impulsive elements outweigh sadistic planning"
+      ]
+    },
+    "spatial_behavioral_analysis": {
+      "primary_classification": "MARAUDER",
+      "confidence": 0.6,
+      "supporting_evidence": [
+        "Local environmental knowledge",
+        "Foot-based access suggested",
+        "Crime cluster near residential area"
+      ],
+      "contradicting_evidence": [
+        "No confirmed anchor point evidence",
+        "Possible park familiarity through prior visits"
+      ],
+      "reasoning": [
+        "Buffer zone theory compatible with urban park geography",
+        "Shoe impression suggests regular pedestrian access"
+      ]
+    }
+  }
+}

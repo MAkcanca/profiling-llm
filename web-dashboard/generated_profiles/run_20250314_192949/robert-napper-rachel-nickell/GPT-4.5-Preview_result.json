@@ -1,0 +1,145 @@
+{
+  "case_id": "3b8ace87-d7f1-4d34-b0cd-9a62476d663c",
+  "offender_profile": {
+    "demographics": {
+      "age_range": "Mid-20s to mid-30s",
+      "gender": "MALE",
+      "employment": "Flexible, semi-skilled or manual labor",
+      "relationship": "Single or limited dysfunctional relationships",
+      "living_situation": "Alone or with family members",
+      "education": "Average educational/intelligence level",
+      "reasoning": [
+        "Offense style, semen recovery, employment inferred by crime timeframe"
+      ]
+    },
+    "psychological_characteristics": {
+      "personality_type": "Impulsive aggressive offender",
+      "control_needs": "High",
+      "social_competence": "Poor",
+      "stress_factors": "Rejection, sexual inadequacy",
+      "fantasy_elements": "Aggressive, domination-centered",
+      "anger_management": "Explosive rage via excessive violence",
+      "reasoning": [
+        "Overkill, violent sexual assault, impulsivity inferred"
+      ]
+    },
+    "behavioral_characteristics": {
+      "crime_scene_behavior": "Low-moderate, disorganized",
+      "violence_type": "Frenzied, expressive violence",
+      "victim_interaction": "Sudden blitz, violent restraint",
+      "post_offense_behavior": "Immediate flight",
+      "risk_taking": "High risk, public park in morning",
+      "trophy_taking": "None evident",
+      "reasoning": [
+        "Park crime area, forensic evidence left"
+      ]
+    },
+    "geographic_behavior": {
+      "crime_scene_location": "Public park frequented by locals",
+      "crime_scene_layout": "Partially secluded spot near public path",
+      "crime_scene_characteristics": "Some seclusion, easily accessible, minimal concealment",
+      "reasoning": [
+        "Scene selection and description provided"
+      ]
+    },
+    "skills_and_knowledge": {
+      "technical_skills": "Moderate",
+      "planning_ability": "Limited planning",
+      "weapon_proficiency": "Moderately comfortable with knife",
+      "knot_tying": "Not applicable",
+      "crime_scene_awareness": "Limited forensic awareness",
+      "reasoning": [
+        "Fingerprint, semen left, impulsive style"
+      ]
+    },
+    "investigative_implications": {
+      "prior_offenses": "Likely prior violence or sexual offenses",
+      "escalation_risk": "High risk escalation potential",
+      "documentation": "Unlikely",
+      "victim_selection": "Female victim opportunistic",
+      "cooling_off_period": "Triggered, variable intervals",
+      "reasoning": [
+        "Violent impulsive features"
+      ]
+    },
+    "key_identifiers": {
+      "occupation_type": "Semi-employed or manual labor",
+      "appearance": "White Male, around 6ft, athletic build, disheveled",
+      "social_role": "Socially isolated",
+      "hobbies": "Outdoor activities",
+      "vehicle": "Older or poorly maintained vehicle if owns one",
+      "reasoning": [
+        "Witness reports and scene features"
+      ]
+    },
+    "reasoning": [
+      "Logical deductions made from provided forensic data and witness statements."
+    ]
+  },
+  "validation_metrics": {
+    "key_behavioral_indicators": [
+      "Impulsivity",
+      "anger-expressed violence"
+    ],
+    "critical_evidence": [
+      "Semen recovery",
+      "multiple stab wounds"
+    ],
+    "profile_accuracy_factors": [
+      "Witness descriptions",
+      "forensic items"
+    ]
+  },
+  "framework_classifications": {
+    "narrative_action_system": {
+      "primary_classification": "VICTIM",
+      "confidence": 0.8,
+      "supporting_evidence": [
+        "Chaotic, impulsive crime scene"
+      ],
+      "contradicting_evidence": [
+        "Some planning evident"
+      ],
+      "reasoning": [
+        "Overall impulsivity outweighs planning"
+      ]
+    },
+    "sexual_behavioral_analysis": {
+      "primary_classification": "ANGER_RETALIATORY",
+      "confidence": 0.9,
+      "supporting_evidence": [
+        "Excessive violence",
+        "facial battery",
+        "sexual assault as punishment"
+      ],
+      "contradicting_evidence": [],
+      "reasoning": [
+        "Behavior aligns closely with definitions/reports"
+      ]
+    },
+    "sexual_homicide_pathways_analysis": {
+      "primary_classification": "ANGRY",
+      "confidence": 0.9,
+      "supporting_evidence": [
+        "Excessive overkill and rage"
+      ],
+      "contradicting_evidence": [],
+      "reasoning": [
+        "Clear from violent expressivity"
+      ]
+    },
+    "spatial_behavioral_analysis": {
+      "primary_classification": "COMMUTER",
+      "confidence": 0.75,
+      "supporting_evidence": [
+        "Rapid fleeing, distancing from crime scene"
+      ],
+      "contradicting_evidence": [
+        "Crime location could reflect local knowledge"
+      ],
+      "reasoning": [
+        "Witness report indicates movement away"
+      ]
+    }
+  }
+}

@@ -1,0 +1,533 @@
+# Statistical Analysis Summary for Scientific Paper
+
+## Key Findings Summary
+This section provides a concise summary of the most important statistical findings.
+### Most Important Findings
+
+1. Significant difference between models for Accuracy: Narrative Action System (F = 1.895, p = 0.0398)
+2. Large effect sizes for Accuracy: Narrative Action System: Gemini-2.0-Flash_vs_Gemini-2.0-Flash-Thinking-Exp0121 (d = 0.901)
+3. Best model for Accuracy: Narrative Action System: Gemini-2.0-Flash (0.750)
+4. Large effect sizes for Accuracy: Spatial Behavioral Analysis: GPT-4o-mini_vs_Gemini-2.0-Flash-Thinking-Exp0121 (d = 0.901)
+5. Best model for Accuracy: Spatial Behavioral Analysis: GPT-4o-mini (0.750)
+6. Significant difference between models for Accuracy: Sexual Behavioral Analysis (F = 2.116, p = 0.0291)
+7. Large effect sizes for Accuracy: Sexual Behavioral Analysis: Gemma-3_vs_Claude-3.7-Sonnet (d = 0.979), Gemma-3_vs_Claude-3.7-Sonnet-Thinking (d = 0.979), Gemma-3_vs_DeepSeek-R1 (d = 0.888), o3-mini-high_vs_Claude-3.7-Sonnet (d = 0.979), o3-mini-high_vs_Claude-3.7-Sonnet-Thinking (d = 0.979), o3-mini-high_vs_DeepSeek-R1 (d = 0.888)
+8. Best model for Accuracy: Sexual Behavioral Analysis: Claude-3.7-Sonnet (0.333)
+9. Best model for Accuracy: Sexual Homicide Pathways Analysis: Claude-3.7-Sonnet (0.500)
+
+
+## Avg Framework Confidence
+- One-way ANOVA: F = 18.338, p = 0.0000 (significant)
+  - Compared models: Claude-3.7-Sonnet, Claude-3.7-Sonnet-Thinking, DeepSeek-R1, GPT-4.5-Preview, GPT-4o, GPT-4o-mini, Gemini-2.0-Flash, Gemini-2.0-Flash-Thinking-Exp0121, Gemma-3, Llama-3.3-70B-Instruct, o3-mini, o3-mini-high
+- Effect Sizes (Cohen's d):
+  - o3-mini_vs_Gemma-3: d = 0.594 (medium)
+  - o3-mini_vs_GPT-4.5-Preview: d = 1.691 (large)
+  - o3-mini_vs_o3-mini-high: d = 0.420 (small)
+  - o3-mini_vs_GPT-4o: d = 0.428 (small)
+  - o3-mini_vs_GPT-4o-mini: d = 0.792 (medium)
+  - o3-mini_vs_Claude-3.7-Sonnet: d = 0.228 (small)
+  - o3-mini_vs_Claude-3.7-Sonnet-Thinking: d = 0.494 (small)
+  - o3-mini_vs_Llama-3.3-70B-Instruct: d = 0.835 (large)
+  - o3-mini_vs_DeepSeek-R1: d = 0.223 (small)
+  - o3-mini_vs_Gemini-2.0-Flash: d = 1.059 (large)
+  - o3-mini_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 1.130 (large)
+  - Gemma-3_vs_GPT-4.5-Preview: d = 2.413 (large)
+  - Gemma-3_vs_o3-mini-high: d = 1.119 (large)
+  - Gemma-3_vs_GPT-4o: d = 1.146 (large)
+  - Gemma-3_vs_GPT-4o-mini: d = 1.528 (large)
+  - Gemma-3_vs_Claude-3.7-Sonnet: d = 0.873 (large)
+  - Gemma-3_vs_Claude-3.7-Sonnet-Thinking: d = 1.196 (large)
+  - Gemma-3_vs_Llama-3.3-70B-Instruct: d = 0.258 (small)
+  - Gemma-3_vs_DeepSeek-R1: d = 0.352 (small)
+  - Gemma-3_vs_Gemini-2.0-Flash: d = 0.584 (medium)
+  - Gemma-3_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.463 (small)
+  - GPT-4.5-Preview_vs_o3-mini-high: d = 1.641 (large)
+  - GPT-4.5-Preview_vs_GPT-4o: d = 1.730 (large)
+  - GPT-4.5-Preview_vs_GPT-4o-mini: d = 1.318 (large)
+  - GPT-4.5-Preview_vs_Claude-3.7-Sonnet: d = 1.629 (large)
+  - GPT-4.5-Preview_vs_Claude-3.7-Sonnet-Thinking: d = 1.558 (large)
+  - GPT-4.5-Preview_vs_Llama-3.3-70B-Instruct: d = 2.622 (large)
+  - GPT-4.5-Preview_vs_DeepSeek-R1: d = 1.882 (large)
+  - GPT-4.5-Preview_vs_Gemini-2.0-Flash: d = 2.440 (large)
+  - GPT-4.5-Preview_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 3.503 (large)
+  - o3-mini-high_vs_GPT-4o: d = 0.004 (small)
+  - o3-mini-high_vs_GPT-4o-mini: d = 0.463 (small)
+  - o3-mini-high_vs_Claude-3.7-Sonnet: d = 0.194 (small)
+  - o3-mini-high_vs_Claude-3.7-Sonnet-Thinking: d = 0.092 (small)
+  - o3-mini-high_vs_Llama-3.3-70B-Instruct: d = 1.376 (large)
+  - o3-mini-high_vs_DeepSeek-R1: d = 0.662 (medium)
+  - o3-mini-high_vs_Gemini-2.0-Flash: d = 1.484 (large)
+  - o3-mini-high_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 1.902 (large)
+  - GPT-4o_vs_GPT-4o-mini: d = 0.493 (small)
+  - GPT-4o_vs_Claude-3.7-Sonnet: d = 0.197 (small)
+  - GPT-4o_vs_Claude-3.7-Sonnet-Thinking: d = 0.101 (small)
+  - GPT-4o_vs_Llama-3.3-70B-Instruct: d = 1.407 (large)
+  - GPT-4o_vs_DeepSeek-R1: d = 0.675 (medium)
+  - GPT-4o_vs_Gemini-2.0-Flash: d = 1.504 (large)
+  - GPT-4o_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 1.973 (large)
+  - GPT-4o-mini_vs_Claude-3.7-Sonnet: d = 0.607 (medium)
+  - GPT-4o-mini_vs_Claude-3.7-Sonnet-Thinking: d = 0.366 (small)
+  - GPT-4o-mini_vs_Llama-3.3-70B-Instruct: d = 1.778 (large)
+  - GPT-4o-mini_vs_DeepSeek-R1: d = 1.027 (large)
+  - GPT-4o-mini_vs_Gemini-2.0-Flash: d = 1.783 (large)
+  - GPT-4o-mini_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 2.475 (large)
+  - Claude-3.7-Sonnet_vs_Claude-3.7-Sonnet-Thinking: d = 0.276 (small)
+  - Claude-3.7-Sonnet_vs_Llama-3.3-70B-Instruct: d = 1.122 (large)
+  - Claude-3.7-Sonnet_vs_DeepSeek-R1: d = 0.461 (small)
+  - Claude-3.7-Sonnet_vs_Gemini-2.0-Flash: d = 1.292 (large)
+  - Claude-3.7-Sonnet_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 1.519 (large)
+  - Claude-3.7-Sonnet-Thinking_vs_Llama-3.3-70B-Instruct: d = 1.451 (large)
+  - Claude-3.7-Sonnet-Thinking_vs_DeepSeek-R1: d = 0.734 (medium)
+  - Claude-3.7-Sonnet-Thinking_vs_Gemini-2.0-Flash: d = 1.542 (large)
+  - Claude-3.7-Sonnet-Thinking_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 2.001 (large)
+  - Llama-3.3-70B-Instruct_vs_DeepSeek-R1: d = 0.593 (medium)
+  - Llama-3.3-70B-Instruct_vs_Gemini-2.0-Flash: d = 0.365 (small)
+  - Llama-3.3-70B-Instruct_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.159 (small)
+  - DeepSeek-R1_vs_Gemini-2.0-Flash: d = 0.857 (large)
+  - DeepSeek-R1_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.838 (large)
+  - Gemini-2.0-Flash_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.273 (small)
+- 95% Confidence Intervals:
+  - Claude-3.7-Sonnet: 0.821 [0.799, 0.843]
+  - Claude-3.7-Sonnet-Thinking: 0.834 [0.816, 0.851]
+  - DeepSeek-R1: 0.793 [0.765, 0.821]
+  - GPT-4.5-Preview: 0.895 [0.879, 0.911]
+  - GPT-4o: 0.830 [0.814, 0.846]
+  - GPT-4o-mini: 0.848 [0.833, 0.862]
+  - Gemini-2.0-Flash: 0.724 [0.686, 0.763]
+  - Gemini-2.0-Flash-Thinking-Exp0121: 0.744 [0.724, 0.765]
+  - Gemma-3: 0.770 [0.744, 0.797]
+  - Llama-3.3-70B-Instruct: 0.754 [0.726, 0.782]
+  - o3-mini: 0.808 [0.781, 0.834]
+  - o3-mini-high: 0.830 [0.812, 0.848]
+
+## Accuracy: Narrative Action System
+*This is a key accuracy metric for evaluating model performance against gold standards.*
+
+- One-way ANOVA: F = 1.895, p = 0.0398 (significant)
+  - Compared models: Claude-3.7-Sonnet, Claude-3.7-Sonnet-Thinking, DeepSeek-R1, GPT-4.5-Preview, GPT-4o, GPT-4o-mini, Gemini-2.0-Flash, Gemini-2.0-Flash-Thinking-Exp0121, Gemma-3, Llama-3.3-70B-Instruct, o3-mini, o3-mini-high
+- Effect Sizes (Cohen's d):
+  - o3-mini_vs_Gemma-3: d = 0.513 (medium)
+  - o3-mini_vs_GPT-4.5-Preview: d = 0.695 (medium)
+  - o3-mini_vs_o3-mini-high: d = 0.088 (small)
+  - o3-mini_vs_GPT-4o: d = 0.258 (small)
+  - o3-mini_vs_GPT-4o-mini: d = 0.427 (small)
+  - o3-mini_vs_Claude-3.7-Sonnet: d = 0.088 (small)
+  - o3-mini_vs_Claude-3.7-Sonnet-Thinking: d = 0.174 (small)
+  - o3-mini_vs_Llama-3.3-70B-Instruct: d = 0.000 (small)
+  - o3-mini_vs_DeepSeek-R1: d = 0.174 (small)
+  - o3-mini_vs_Gemini-2.0-Flash: d = 0.092 (small)
+  - o3-mini_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.793 (medium)
+  - Gemma-3_vs_GPT-4.5-Preview: d = 0.166 (small)
+  - Gemma-3_vs_o3-mini-high: d = 0.420 (small)
+  - Gemma-3_vs_GPT-4o: d = 0.247 (small)
+  - Gemma-3_vs_GPT-4o-mini: d = 0.082 (small)
+  - Gemma-3_vs_Claude-3.7-Sonnet: d = 0.420 (small)
+  - Gemma-3_vs_Claude-3.7-Sonnet-Thinking: d = 0.332 (small)
+  - Gemma-3_vs_Llama-3.3-70B-Instruct: d = 0.513 (medium)
+  - Gemma-3_vs_DeepSeek-R1: d = 0.332 (small)
+  - Gemma-3_vs_Gemini-2.0-Flash: d = 0.612 (medium)
+  - Gemma-3_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.252 (small)
+  - GPT-4.5-Preview_vs_o3-mini-high: d = 0.598 (medium)
+  - GPT-4.5-Preview_vs_GPT-4o: d = 0.417 (small)
+  - GPT-4.5-Preview_vs_GPT-4o-mini: d = 0.249 (small)
+  - GPT-4.5-Preview_vs_Claude-3.7-Sonnet: d = 0.598 (medium)
+  - GPT-4.5-Preview_vs_Claude-3.7-Sonnet-Thinking: d = 0.506 (medium)
+  - GPT-4.5-Preview_vs_Llama-3.3-70B-Instruct: d = 0.695 (medium)
+  - GPT-4.5-Preview_vs_DeepSeek-R1: d = 0.506 (medium)
+  - GPT-4.5-Preview_vs_Gemini-2.0-Flash: d = 0.799 (medium)
+  - GPT-4.5-Preview_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.085 (small)
+  - o3-mini-high_vs_GPT-4o: d = 0.169 (small)
+  - o3-mini-high_vs_GPT-4o-mini: d = 0.336 (small)
+  - o3-mini-high_vs_Claude-3.7-Sonnet: d = 0.000 (small)
+  - o3-mini-high_vs_Claude-3.7-Sonnet-Thinking: d = 0.085 (small)
+  - o3-mini-high_vs_Llama-3.3-70B-Instruct: d = 0.088 (small)
+  - o3-mini-high_vs_DeepSeek-R1: d = 0.085 (small)
+  - o3-mini-high_vs_Gemini-2.0-Flash: d = 0.180 (small)
+  - o3-mini-high_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.692 (medium)
+  - GPT-4o_vs_GPT-4o-mini: d = 0.164 (small)
+  - GPT-4o_vs_Claude-3.7-Sonnet: d = 0.169 (small)
+  - GPT-4o_vs_Claude-3.7-Sonnet-Thinking: d = 0.083 (small)
+  - GPT-4o_vs_Llama-3.3-70B-Instruct: d = 0.258 (small)
+  - GPT-4o_vs_DeepSeek-R1: d = 0.083 (small)
+  - GPT-4o_vs_Gemini-2.0-Flash: d = 0.352 (small)
+  - GPT-4o_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.507 (medium)
+  - GPT-4o-mini_vs_Claude-3.7-Sonnet: d = 0.336 (small)
+  - GPT-4o-mini_vs_Claude-3.7-Sonnet-Thinking: d = 0.249 (small)
+  - GPT-4o-mini_vs_Llama-3.3-70B-Instruct: d = 0.427 (small)
+  - GPT-4o-mini_vs_DeepSeek-R1: d = 0.249 (small)
+  - GPT-4o-mini_vs_Gemini-2.0-Flash: d = 0.523 (medium)
+  - GPT-4o-mini_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.336 (small)
+  - Claude-3.7-Sonnet_vs_Claude-3.7-Sonnet-Thinking: d = 0.085 (small)
+  - Claude-3.7-Sonnet_vs_Llama-3.3-70B-Instruct: d = 0.088 (small)
+  - Claude-3.7-Sonnet_vs_DeepSeek-R1: d = 0.085 (small)
+  - Claude-3.7-Sonnet_vs_Gemini-2.0-Flash: d = 0.180 (small)
+  - Claude-3.7-Sonnet_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.692 (medium)
+  - Claude-3.7-Sonnet-Thinking_vs_Llama-3.3-70B-Instruct: d = 0.174 (small)
+  - Claude-3.7-Sonnet-Thinking_vs_DeepSeek-R1: d = 0.000 (small)
+  - Claude-3.7-Sonnet-Thinking_vs_Gemini-2.0-Flash: d = 0.266 (small)
+  - Claude-3.7-Sonnet-Thinking_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.598 (medium)
+  - Llama-3.3-70B-Instruct_vs_DeepSeek-R1: d = 0.174 (small)
+  - Llama-3.3-70B-Instruct_vs_Gemini-2.0-Flash: d = 0.092 (small)
+  - Llama-3.3-70B-Instruct_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.793 (medium)
+  - DeepSeek-R1_vs_Gemini-2.0-Flash: d = 0.266 (small)
+  - DeepSeek-R1_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.598 (medium)
+  - Gemini-2.0-Flash_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.901 (large)
+- 95% Confidence Intervals:
+  - Claude-3.7-Sonnet: 0.667 [0.463, 0.870]
+  - Claude-3.7-Sonnet-Thinking: 0.625 [0.416, 0.834]
+  - DeepSeek-R1: 0.625 [0.416, 0.834]
+  - GPT-4.5-Preview: 0.375 [0.166, 0.584]
+  - GPT-4o: 0.583 [0.371, 0.796]
+  - GPT-4o-mini: 0.500 [0.284, 0.716]
+  - Gemini-2.0-Flash: 0.750 [0.563, 0.937]
+  - Gemini-2.0-Flash-Thinking-Exp0121: 0.333 [0.130, 0.537]
+  - Gemma-3: 0.458 [0.243, 0.673]
+  - Llama-3.3-70B-Instruct: 0.708 [0.512, 0.904]
+  - o3-mini: 0.708 [0.512, 0.904]
+  - o3-mini-high: 0.667 [0.463, 0.870]
+
+## Accuracy: Spatial Behavioral Analysis
+*This is a key accuracy metric for evaluating model performance against gold standards.*
+
+- One-way ANOVA: F = 1.546, p = 0.1149 (not significant)
+  - Compared models: Claude-3.7-Sonnet, Claude-3.7-Sonnet-Thinking, DeepSeek-R1, GPT-4.5-Preview, GPT-4o, GPT-4o-mini, Gemini-2.0-Flash, Gemini-2.0-Flash-Thinking-Exp0121, Gemma-3, Llama-3.3-70B-Instruct, o3-mini, o3-mini-high
+- Effect Sizes (Cohen's d):
+  - o3-mini_vs_Gemma-3: d = 0.258 (small)
+  - o3-mini_vs_GPT-4.5-Preview: d = 0.000 (small)
+  - o3-mini_vs_o3-mini-high: d = 0.164 (small)
+  - o3-mini_vs_GPT-4o: d = 0.331 (small)
+  - o3-mini_vs_GPT-4o-mini: d = 0.352 (small)
+  - o3-mini_vs_Claude-3.7-Sonnet: d = 0.164 (small)
+  - o3-mini_vs_Claude-3.7-Sonnet-Thinking: d = 0.247 (small)
+  - o3-mini_vs_Llama-3.3-70B-Instruct: d = 0.247 (small)
+  - o3-mini_vs_DeepSeek-R1: d = 0.417 (small)
+  - o3-mini_vs_Gemini-2.0-Flash: d = 0.247 (small)
+  - o3-mini_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.507 (medium)
+  - Gemma-3_vs_GPT-4.5-Preview: d = 0.258 (small)
+  - Gemma-3_vs_o3-mini-high: d = 0.427 (small)
+  - Gemma-3_vs_GPT-4o: d = 0.602 (medium)
+  - Gemma-3_vs_GPT-4o-mini: d = 0.092 (small)
+  - Gemma-3_vs_Claude-3.7-Sonnet: d = 0.427 (small)
+  - Gemma-3_vs_Claude-3.7-Sonnet-Thinking: d = 0.513 (medium)
+  - Gemma-3_vs_Llama-3.3-70B-Instruct: d = 0.513 (medium)
+  - Gemma-3_vs_DeepSeek-R1: d = 0.695 (medium)
+  - Gemma-3_vs_Gemini-2.0-Flash: d = 0.513 (medium)
+  - Gemma-3_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.793 (medium)
+  - GPT-4.5-Preview_vs_o3-mini-high: d = 0.164 (small)
+  - GPT-4.5-Preview_vs_GPT-4o: d = 0.331 (small)
+  - GPT-4.5-Preview_vs_GPT-4o-mini: d = 0.352 (small)
+  - GPT-4.5-Preview_vs_Claude-3.7-Sonnet: d = 0.164 (small)
+  - GPT-4.5-Preview_vs_Claude-3.7-Sonnet-Thinking: d = 0.247 (small)
+  - GPT-4.5-Preview_vs_Llama-3.3-70B-Instruct: d = 0.247 (small)
+  - GPT-4.5-Preview_vs_DeepSeek-R1: d = 0.417 (small)
+  - GPT-4.5-Preview_vs_Gemini-2.0-Flash: d = 0.247 (small)
+  - GPT-4.5-Preview_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.507 (medium)
+  - o3-mini-high_vs_GPT-4o: d = 0.164 (small)
+  - o3-mini-high_vs_GPT-4o-mini: d = 0.523 (medium)
+  - o3-mini-high_vs_Claude-3.7-Sonnet: d = 0.000 (small)
+  - o3-mini-high_vs_Claude-3.7-Sonnet-Thinking: d = 0.082 (small)
+  - o3-mini-high_vs_Llama-3.3-70B-Instruct: d = 0.082 (small)
+  - o3-mini-high_vs_DeepSeek-R1: d = 0.249 (small)
+  - o3-mini-high_vs_Gemini-2.0-Flash: d = 0.082 (small)
+  - o3-mini-high_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.336 (small)
+  - GPT-4o_vs_GPT-4o-mini: d = 0.703 (medium)
+  - GPT-4o_vs_Claude-3.7-Sonnet: d = 0.164 (small)
+  - GPT-4o_vs_Claude-3.7-Sonnet-Thinking: d = 0.082 (small)
+  - GPT-4o_vs_Llama-3.3-70B-Instruct: d = 0.082 (small)
+  - GPT-4o_vs_DeepSeek-R1: d = 0.083 (small)
+  - GPT-4o_vs_Gemini-2.0-Flash: d = 0.082 (small)
+  - GPT-4o_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.169 (small)
+  - GPT-4o-mini_vs_Claude-3.7-Sonnet: d = 0.523 (medium)
+  - GPT-4o-mini_vs_Claude-3.7-Sonnet-Thinking: d = 0.612 (medium)
+  - GPT-4o-mini_vs_Llama-3.3-70B-Instruct: d = 0.612 (medium)
+  - GPT-4o-mini_vs_DeepSeek-R1: d = 0.799 (medium)
+  - GPT-4o-mini_vs_Gemini-2.0-Flash: d = 0.612 (medium)
+  - GPT-4o-mini_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.901 (large)
+  - Claude-3.7-Sonnet_vs_Claude-3.7-Sonnet-Thinking: d = 0.082 (small)
+  - Claude-3.7-Sonnet_vs_Llama-3.3-70B-Instruct: d = 0.082 (small)
+  - Claude-3.7-Sonnet_vs_DeepSeek-R1: d = 0.249 (small)
+  - Claude-3.7-Sonnet_vs_Gemini-2.0-Flash: d = 0.082 (small)
+  - Claude-3.7-Sonnet_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.336 (small)
+  - Claude-3.7-Sonnet-Thinking_vs_Llama-3.3-70B-Instruct: d = 0.000 (small)
+  - Claude-3.7-Sonnet-Thinking_vs_DeepSeek-R1: d = 0.166 (small)
+  - Claude-3.7-Sonnet-Thinking_vs_Gemini-2.0-Flash: d = 0.000 (small)
+  - Claude-3.7-Sonnet-Thinking_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.252 (small)
+  - Llama-3.3-70B-Instruct_vs_DeepSeek-R1: d = 0.166 (small)
+  - Llama-3.3-70B-Instruct_vs_Gemini-2.0-Flash: d = 0.000 (small)
+  - Llama-3.3-70B-Instruct_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.252 (small)
+  - DeepSeek-R1_vs_Gemini-2.0-Flash: d = 0.166 (small)
+  - DeepSeek-R1_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.085 (small)
+  - Gemini-2.0-Flash_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.252 (small)
+- 95% Confidence Intervals:
+  - Claude-3.7-Sonnet: 0.500 [0.284, 0.716]
+  - Claude-3.7-Sonnet-Thinking: 0.458 [0.243, 0.673]
+  - DeepSeek-R1: 0.375 [0.166, 0.584]
+  - GPT-4.5-Preview: 0.583 [0.371, 0.796]
+  - GPT-4o: 0.417 [0.204, 0.629]
+  - GPT-4o-mini: 0.750 [0.563, 0.937]
+  - Gemini-2.0-Flash: 0.458 [0.243, 0.673]
+  - Gemini-2.0-Flash-Thinking-Exp0121: 0.333 [0.130, 0.537]
+  - Gemma-3: 0.708 [0.512, 0.904]
+  - Llama-3.3-70B-Instruct: 0.458 [0.243, 0.673]
+  - o3-mini: 0.583 [0.371, 0.796]
+  - o3-mini-high: 0.500 [0.284, 0.716]
+
+## Accuracy: Sexual Behavioral Analysis
+*This is a key accuracy metric for evaluating model performance against gold standards.*
+
+- One-way ANOVA: F = 2.116, p = 0.0291 (significant)
+  - Compared models: Claude-3.7-Sonnet, Claude-3.7-Sonnet-Thinking, DeepSeek-R1, GPT-4.5-Preview, GPT-4o, GPT-4o-mini, Gemini-2.0-Flash, Gemini-2.0-Flash-Thinking-Exp0121, Llama-3.3-70B-Instruct, o3-mini
+- Effect Sizes (Cohen's d):
+  - o3-mini_vs_Gemma-3: d = 0.289 (small)
+  - o3-mini_vs_GPT-4.5-Preview: d = 0.510 (medium)
+  - o3-mini_vs_o3-mini-high: d = 0.289 (small)
+  - o3-mini_vs_GPT-4o: d = 0.409 (small)
+  - o3-mini_vs_GPT-4o-mini: d = 0.169 (small)
+  - o3-mini_vs_Claude-3.7-Sonnet: d = 0.789 (medium)
+  - o3-mini_vs_Claude-3.7-Sonnet-Thinking: d = 0.789 (medium)
+  - o3-mini_vs_Llama-3.3-70B-Instruct: d = 0.169 (small)
+  - o3-mini_vs_DeepSeek-R1: d = 0.697 (medium)
+  - o3-mini_vs_Gemini-2.0-Flash: d = 0.169 (small)
+  - o3-mini_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.299 (small)
+  - Gemma-3_vs_GPT-4.5-Preview: d = 0.710 (medium)
+  - Gemma-3_vs_o3-mini-high: d = 0.000 (none (constant values))
+  - Gemma-3_vs_GPT-4o: d = 0.619 (medium)
+  - Gemma-3_vs_GPT-4o-mini: d = 0.417 (small)
+  - Gemma-3_vs_Claude-3.7-Sonnet: d = 0.979 (large)
+  - Gemma-3_vs_Claude-3.7-Sonnet-Thinking: d = 0.979 (large)
+  - Gemma-3_vs_Llama-3.3-70B-Instruct: d = 0.417 (small)
+  - Gemma-3_vs_DeepSeek-R1: d = 0.888 (large)
+  - Gemma-3_vs_Gemini-2.0-Flash: d = 0.417 (small)
+  - Gemma-3_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.523 (medium)
+  - GPT-4.5-Preview_vs_o3-mini-high: d = 0.710 (medium)
+  - GPT-4.5-Preview_vs_GPT-4o: d = 0.105 (small)
+  - GPT-4.5-Preview_vs_GPT-4o-mini: d = 0.352 (small)
+  - GPT-4.5-Preview_vs_Claude-3.7-Sonnet: d = 0.278 (small)
+  - GPT-4.5-Preview_vs_Claude-3.7-Sonnet-Thinking: d = 0.278 (small)
+  - GPT-4.5-Preview_vs_Llama-3.3-70B-Instruct: d = 0.352 (small)
+  - GPT-4.5-Preview_vs_DeepSeek-R1: d = 0.189 (small)
+  - GPT-4.5-Preview_vs_Gemini-2.0-Flash: d = 0.352 (small)
+  - GPT-4.5-Preview_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.220 (small)
+  - o3-mini-high_vs_GPT-4o: d = 0.619 (medium)
+  - o3-mini-high_vs_GPT-4o-mini: d = 0.417 (small)
+  - o3-mini-high_vs_Claude-3.7-Sonnet: d = 0.979 (large)
+  - o3-mini-high_vs_Claude-3.7-Sonnet-Thinking: d = 0.979 (large)
+  - o3-mini-high_vs_Llama-3.3-70B-Instruct: d = 0.417 (small)
+  - o3-mini-high_vs_DeepSeek-R1: d = 0.888 (large)
+  - o3-mini-high_vs_Gemini-2.0-Flash: d = 0.417 (small)
+  - o3-mini-high_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.523 (medium)
+  - GPT-4o_vs_GPT-4o-mini: d = 0.249 (small)
+  - GPT-4o_vs_Claude-3.7-Sonnet: d = 0.384 (small)
+  - GPT-4o_vs_Claude-3.7-Sonnet-Thinking: d = 0.384 (small)
+  - GPT-4o_vs_Llama-3.3-70B-Instruct: d = 0.249 (small)
+  - GPT-4o_vs_DeepSeek-R1: d = 0.294 (small)
+  - GPT-4o_vs_Gemini-2.0-Flash: d = 0.249 (small)
+  - GPT-4o_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.116 (small)
+  - GPT-4o-mini_vs_Claude-3.7-Sonnet: d = 0.633 (medium)
+  - GPT-4o-mini_vs_Claude-3.7-Sonnet-Thinking: d = 0.633 (medium)
+  - GPT-4o-mini_vs_Llama-3.3-70B-Instruct: d = 0.000 (small)
+  - GPT-4o-mini_vs_DeepSeek-R1: d = 0.542 (medium)
+  - GPT-4o-mini_vs_Gemini-2.0-Flash: d = 0.000 (small)
+  - GPT-4o-mini_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.134 (small)
+  - Claude-3.7-Sonnet_vs_Claude-3.7-Sonnet-Thinking: d = 0.000 (small)
+  - Claude-3.7-Sonnet_vs_Llama-3.3-70B-Instruct: d = 0.633 (medium)
+  - Claude-3.7-Sonnet_vs_DeepSeek-R1: d = 0.088 (small)
+  - Claude-3.7-Sonnet_vs_Gemini-2.0-Flash: d = 0.633 (medium)
+  - Claude-3.7-Sonnet_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.501 (medium)
+  - Claude-3.7-Sonnet-Thinking_vs_Llama-3.3-70B-Instruct: d = 0.633 (medium)
+  - Claude-3.7-Sonnet-Thinking_vs_DeepSeek-R1: d = 0.088 (small)
+  - Claude-3.7-Sonnet-Thinking_vs_Gemini-2.0-Flash: d = 0.633 (medium)
+  - Claude-3.7-Sonnet-Thinking_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.501 (medium)
+  - Llama-3.3-70B-Instruct_vs_DeepSeek-R1: d = 0.542 (medium)
+  - Llama-3.3-70B-Instruct_vs_Gemini-2.0-Flash: d = 0.000 (small)
+  - Llama-3.3-70B-Instruct_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.134 (small)
+  - DeepSeek-R1_vs_Gemini-2.0-Flash: d = 0.542 (medium)
+  - DeepSeek-R1_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.410 (small)
+  - Gemini-2.0-Flash_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.134 (small)
+- 95% Confidence Intervals:
+  - Claude-3.7-Sonnet: 0.333 [0.130, 0.537]
+  - Claude-3.7-Sonnet-Thinking: 0.333 [0.130, 0.537]
+  - DeepSeek-R1: 0.292 [0.096, 0.488]
+  - GPT-4.5-Preview: 0.208 [0.033, 0.384]
+  - GPT-4o: 0.167 [0.006, 0.327]
+  - GPT-4o-mini: 0.083 [-0.036, 0.203]
+  - Gemini-2.0-Flash: 0.083 [-0.036, 0.203]
+  - Gemini-2.0-Flash-Thinking-Exp0121: 0.125 [-0.018, 0.268]
+  - Gemma-3: 0.000 [0.000, 0.000]
+  - Llama-3.3-70B-Instruct: 0.083 [-0.036, 0.203]
+  - o3-mini: 0.042 [-0.045, 0.128]
+  - o3-mini-high: 0.000 [0.000, 0.000]
+
+## Accuracy: Sexual Homicide Pathways Analysis
+*This is a key accuracy metric for evaluating model performance against gold standards.*
+
+- One-way ANOVA: F = 0.422, p = 0.9459 (not significant)
+  - Compared models: Claude-3.7-Sonnet, Claude-3.7-Sonnet-Thinking, DeepSeek-R1, GPT-4.5-Preview, GPT-4o, GPT-4o-mini, Gemini-2.0-Flash, Gemini-2.0-Flash-Thinking-Exp0121, Gemma-3, Llama-3.3-70B-Instruct, o3-mini, o3-mini-high
+- Effect Sizes (Cohen's d):
+  - o3-mini_vs_Gemma-3: d = 0.164 (small)
+  - o3-mini_vs_GPT-4.5-Preview: d = 0.164 (small)
+  - o3-mini_vs_o3-mini-high: d = 0.000 (small)
+  - o3-mini_vs_GPT-4o: d = 0.082 (small)
+  - o3-mini_vs_GPT-4o-mini: d = 0.249 (small)
+  - o3-mini_vs_Claude-3.7-Sonnet: d = 0.000 (small)
+  - o3-mini_vs_Claude-3.7-Sonnet-Thinking: d = 0.000 (small)
+  - o3-mini_vs_Llama-3.3-70B-Instruct: d = 0.000 (small)
+  - o3-mini_vs_DeepSeek-R1: d = 0.000 (small)
+  - o3-mini_vs_Gemini-2.0-Flash: d = 0.427 (small)
+  - o3-mini_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.164 (small)
+  - Gemma-3_vs_GPT-4.5-Preview: d = 0.000 (small)
+  - Gemma-3_vs_o3-mini-high: d = 0.164 (small)
+  - Gemma-3_vs_GPT-4o: d = 0.082 (small)
+  - Gemma-3_vs_GPT-4o-mini: d = 0.083 (small)
+  - Gemma-3_vs_Claude-3.7-Sonnet: d = 0.164 (small)
+  - Gemma-3_vs_Claude-3.7-Sonnet-Thinking: d = 0.164 (small)
+  - Gemma-3_vs_Llama-3.3-70B-Instruct: d = 0.164 (small)
+  - Gemma-3_vs_DeepSeek-R1: d = 0.164 (small)
+  - Gemma-3_vs_Gemini-2.0-Flash: d = 0.258 (small)
+  - Gemma-3_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.000 (small)
+  - GPT-4.5-Preview_vs_o3-mini-high: d = 0.164 (small)
+  - GPT-4.5-Preview_vs_GPT-4o: d = 0.082 (small)
+  - GPT-4.5-Preview_vs_GPT-4o-mini: d = 0.083 (small)
+  - GPT-4.5-Preview_vs_Claude-3.7-Sonnet: d = 0.164 (small)
+  - GPT-4.5-Preview_vs_Claude-3.7-Sonnet-Thinking: d = 0.164 (small)
+  - GPT-4.5-Preview_vs_Llama-3.3-70B-Instruct: d = 0.164 (small)
+  - GPT-4.5-Preview_vs_DeepSeek-R1: d = 0.164 (small)
+  - GPT-4.5-Preview_vs_Gemini-2.0-Flash: d = 0.258 (small)
+  - GPT-4.5-Preview_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.000 (small)
+  - o3-mini-high_vs_GPT-4o: d = 0.082 (small)
+  - o3-mini-high_vs_GPT-4o-mini: d = 0.249 (small)
+  - o3-mini-high_vs_Claude-3.7-Sonnet: d = 0.000 (small)
+  - o3-mini-high_vs_Claude-3.7-Sonnet-Thinking: d = 0.000 (small)
+  - o3-mini-high_vs_Llama-3.3-70B-Instruct: d = 0.000 (small)
+  - o3-mini-high_vs_DeepSeek-R1: d = 0.000 (small)
+  - o3-mini-high_vs_Gemini-2.0-Flash: d = 0.427 (small)
+  - o3-mini-high_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.164 (small)
+  - GPT-4o_vs_GPT-4o-mini: d = 0.166 (small)
+  - GPT-4o_vs_Claude-3.7-Sonnet: d = 0.082 (small)
+  - GPT-4o_vs_Claude-3.7-Sonnet-Thinking: d = 0.082 (small)
+  - GPT-4o_vs_Llama-3.3-70B-Instruct: d = 0.082 (small)
+  - GPT-4o_vs_DeepSeek-R1: d = 0.082 (small)
+  - GPT-4o_vs_Gemini-2.0-Flash: d = 0.342 (small)
+  - GPT-4o_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.082 (small)
+  - GPT-4o-mini_vs_Claude-3.7-Sonnet: d = 0.249 (small)
+  - GPT-4o-mini_vs_Claude-3.7-Sonnet-Thinking: d = 0.249 (small)
+  - GPT-4o-mini_vs_Llama-3.3-70B-Instruct: d = 0.249 (small)
+  - GPT-4o-mini_vs_DeepSeek-R1: d = 0.249 (small)
+  - GPT-4o-mini_vs_Gemini-2.0-Flash: d = 0.174 (small)
+  - GPT-4o-mini_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.083 (small)
+  - Claude-3.7-Sonnet_vs_Claude-3.7-Sonnet-Thinking: d = 0.000 (small)
+  - Claude-3.7-Sonnet_vs_Llama-3.3-70B-Instruct: d = 0.000 (small)
+  - Claude-3.7-Sonnet_vs_DeepSeek-R1: d = 0.000 (small)
+  - Claude-3.7-Sonnet_vs_Gemini-2.0-Flash: d = 0.427 (small)
+  - Claude-3.7-Sonnet_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.164 (small)
+  - Claude-3.7-Sonnet-Thinking_vs_Llama-3.3-70B-Instruct: d = 0.000 (small)
+  - Claude-3.7-Sonnet-Thinking_vs_DeepSeek-R1: d = 0.000 (small)
+  - Claude-3.7-Sonnet-Thinking_vs_Gemini-2.0-Flash: d = 0.427 (small)
+  - Claude-3.7-Sonnet-Thinking_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.164 (small)
+  - Llama-3.3-70B-Instruct_vs_DeepSeek-R1: d = 0.000 (small)
+  - Llama-3.3-70B-Instruct_vs_Gemini-2.0-Flash: d = 0.427 (small)
+  - Llama-3.3-70B-Instruct_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.164 (small)
+  - DeepSeek-R1_vs_Gemini-2.0-Flash: d = 0.427 (small)
+  - DeepSeek-R1_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.164 (small)
+  - Gemini-2.0-Flash_vs_Gemini-2.0-Flash-Thinking-Exp0121: d = 0.258 (small)
+- 95% Confidence Intervals:
+  - Claude-3.7-Sonnet: 0.500 [0.284, 0.716]
+  - Claude-3.7-Sonnet-Thinking: 0.500 [0.284, 0.716]
+  - DeepSeek-R1: 0.500 [0.284, 0.716]
+  - GPT-4.5-Preview: 0.417 [0.204, 0.629]
+  - GPT-4o: 0.458 [0.243, 0.673]
+  - GPT-4o-mini: 0.375 [0.166, 0.584]
+  - Gemini-2.0-Flash: 0.292 [0.096, 0.488]
+  - Gemini-2.0-Flash-Thinking-Exp0121: 0.417 [0.204, 0.629]
+  - Gemma-3: 0.417 [0.204, 0.629]
+  - Llama-3.3-70B-Instruct: 0.500 [0.284, 0.716]
+  - o3-mini: 0.500 [0.284, 0.716]
+  - o3-mini-high: 0.500 [0.284, 0.716]
+
+## Raw Data for Visualizations
+This section provides the raw data used in generating visualizations for the paper.
+
+### Data for Gold Standard Accuracy Plots
+```
+Framework                     | Model Name                         | Accuracy | Lower CI | Upper CI
+---------------------------------------------------------------------------------------------
+Narrative Action System        | Claude-3.7-Sonnet                   | 0.667   | 0.463   | 0.870
+Narrative Action System        | Claude-3.7-Sonnet-Thinking          | 0.625   | 0.416   | 0.834
+Narrative Action System        | DeepSeek-R1                         | 0.625   | 0.416   | 0.834
+Narrative Action System        | GPT-4.5-Preview                     | 0.375   | 0.166   | 0.584
+Narrative Action System        | GPT-4o                              | 0.583   | 0.371   | 0.796
+Narrative Action System        | GPT-4o-mini                         | 0.500   | 0.284   | 0.716
+Narrative Action System        | Gemini-2.0-Flash                    | 0.750   | 0.563   | 0.937
+Narrative Action System        | Gemini-2.0-Flash-Thinking-Exp0121   | 0.333   | 0.130   | 0.537
+Narrative Action System        | Gemma-3                             | 0.458   | 0.243   | 0.673
+Narrative Action System        | Llama-3.3-70B-Instruct              | 0.708   | 0.512   | 0.904
+Narrative Action System        | o3-mini                             | 0.708   | 0.512   | 0.904
+Narrative Action System        | o3-mini-high                        | 0.667   | 0.463   | 0.870
+Spatial Behavioral Analysis    | Claude-3.7-Sonnet                   | 0.500   | 0.284   | 0.716
+Spatial Behavioral Analysis    | Claude-3.7-Sonnet-Thinking          | 0.458   | 0.243   | 0.673
+Spatial Behavioral Analysis    | DeepSeek-R1                         | 0.375   | 0.166   | 0.584
+Spatial Behavioral Analysis    | GPT-4.5-Preview                     | 0.583   | 0.371   | 0.796
+Spatial Behavioral Analysis    | GPT-4o                              | 0.417   | 0.204   | 0.629
+Spatial Behavioral Analysis    | GPT-4o-mini                         | 0.750   | 0.563   | 0.937
+Spatial Behavioral Analysis    | Gemini-2.0-Flash                    | 0.458   | 0.243   | 0.673
+Spatial Behavioral Analysis    | Gemini-2.0-Flash-Thinking-Exp0121   | 0.333   | 0.130   | 0.537
+Spatial Behavioral Analysis    | Gemma-3                             | 0.708   | 0.512   | 0.904
+Spatial Behavioral Analysis    | Llama-3.3-70B-Instruct              | 0.458   | 0.243   | 0.673
+Spatial Behavioral Analysis    | o3-mini                             | 0.583   | 0.371   | 0.796
+Spatial Behavioral Analysis    | o3-mini-high                        | 0.500   | 0.284   | 0.716
+Sexual Behavioral Analysis     | Claude-3.7-Sonnet                   | 0.333   | 0.130   | 0.537
+Sexual Behavioral Analysis     | Claude-3.7-Sonnet-Thinking          | 0.333   | 0.130   | 0.537
+Sexual Behavioral Analysis     | DeepSeek-R1                         | 0.292   | 0.096   | 0.488
+Sexual Behavioral Analysis     | GPT-4.5-Preview                     | 0.208   | 0.033   | 0.384
+Sexual Behavioral Analysis     | GPT-4o                              | 0.167   | 0.006   | 0.327
+Sexual Behavioral Analysis     | GPT-4o-mini                         | 0.083   | -0.036   | 0.203
+Sexual Behavioral Analysis     | Gemini-2.0-Flash                    | 0.083   | -0.036   | 0.203
+Sexual Behavioral Analysis     | Gemini-2.0-Flash-Thinking-Exp0121   | 0.125   | -0.018   | 0.268
+Sexual Behavioral Analysis     | Gemma-3                             | 0.000   | 0.000   | 0.000
+Sexual Behavioral Analysis     | Llama-3.3-70B-Instruct              | 0.083   | -0.036   | 0.203
+Sexual Behavioral Analysis     | o3-mini                             | 0.042   | -0.045   | 0.128
+Sexual Behavioral Analysis     | o3-mini-high                        | 0.000   | 0.000   | 0.000
+Sexual Homicide Pathways Analysis | Claude-3.7-Sonnet                   | 0.500   | 0.284   | 0.716
+Sexual Homicide Pathways Analysis | Claude-3.7-Sonnet-Thinking          | 0.500   | 0.284   | 0.716
+Sexual Homicide Pathways Analysis | DeepSeek-R1                         | 0.500   | 0.284   | 0.716
+Sexual Homicide Pathways Analysis | GPT-4.5-Preview                     | 0.417   | 0.204   | 0.629
+Sexual Homicide Pathways Analysis | GPT-4o                              | 0.458   | 0.243   | 0.673
+Sexual Homicide Pathways Analysis | GPT-4o-mini                         | 0.375   | 0.166   | 0.584
+Sexual Homicide Pathways Analysis | Gemini-2.0-Flash                    | 0.292   | 0.096   | 0.488
+Sexual Homicide Pathways Analysis | Gemini-2.0-Flash-Thinking-Exp0121   | 0.417   | 0.204   | 0.629
+Sexual Homicide Pathways Analysis | Gemma-3                             | 0.417   | 0.204   | 0.629
+Sexual Homicide Pathways Analysis | Llama-3.3-70B-Instruct              | 0.500   | 0.284   | 0.716
+Sexual Homicide Pathways Analysis | o3-mini                             | 0.500   | 0.284   | 0.716
+Sexual Homicide Pathways Analysis | o3-mini-high                        | 0.500   | 0.284   | 0.716
+```
+
+### Data for Correlation Matrix
+The correlation matrix is constructed using the following metrics:
+- Framework Agreement
+- Semantic Similarity
+- Framework-specific Accuracy
+- Average Framework Confidence
+- Reasoning Count
+
+*Detailed correlation values are available in the statistical_analysis.json file.*
+
+### Data for Confidence Interval Plots
+Confidence interval plots use the same data as shown in the 95% Confidence Intervals sections above.
+The plots visualize the mean values with error bars representing the 95% confidence intervals.
+
+### Data for Detailed Prediction Analysis Heatmaps
+The detailed prediction analysis heatmaps visualize the following data:
+- Framework accuracy per test case
+- Model performance across different frameworks
+- Patterns of errors in model predictions
+
+*This visualization uses the individual case-level data which is too extensive to include here.*
+*Refer to the evaluation_results.json file for the complete case-by-case data.*
+
+## Recommendations for Paper
+Based on the statistical analysis, consider highlighting the following in your paper:
+
+1. **Explicit comparison to gold standards** - This is the most important aspect for evaluating model performance.
+2. **Statistical significance of model differences** - Emphasize where models show significant differences.
+3. **Effect sizes between models** - These show practical significance beyond statistical significance.
+4. **Confidence intervals** - These provide estimates of precision and help with reproducibility claims.
+5. **Inter-model agreement** - This demonstrates consistency across models when evaluating the same profiles.

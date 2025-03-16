@@ -1,0 +1,158 @@
+{
+  "case_id": "9dd8bd29-8376-4deb-8de0-bc8be2cf04b3",
+  "offender_profile": {
+    "demographics": {
+      "age_range": "30s-50s",
+      "gender": "MALE",
+      "employment": "Technical field",
+      "relationship": "Unknown, possibly solitary",
+      "living_situation": "Unknown, possibly lives alone",
+      "education": "High education, high intelligence",
+      "reasoning": [
+        "Complexity of device construction",
+        "Sophistication of attack planning",
+        "Lack of personal connection to victims"
+      ]
+    },
+    "psychological_characteristics": {
+      "personality_type": "Methodical, planned",
+      "control_needs": "High",
+      "social_competence": "Underdeveloped",
+      "stress_factors": "Revenge, grievance",
+      "fantasy_elements": "Focused on revenge or statement",
+      "anger_management": "Calculated, controlled",
+      "reasoning": [
+        "Target selection",
+        "Device construction",
+        "Lack of impulsive behavior"
+      ]
+    },
+    "behavioral_characteristics": {
+      "crime_scene_behavior": "Highly organized",
+      "violence_type": "Targeted, intended to inflict harm",
+      "victim_interaction": "Minimal, indirect",
+      "post_offense_behavior": "Monitors news and reactions",
+      "risk_taking": "Significant, but planned to avoid detection",
+      "trophy_taking": "None known",
+      "reasoning": [
+        "Crime scene analysis",
+        "Device construction",
+        "Offender's ability to evade detection"
+      ]
+    },
+    "geographic_behavior": {
+      "crime_scene_location": "Targeted institutions",
+      "crime_scene_layout": "Designed to maximize damage",
+      "crime_scene_characteristics": "Technological, academic",
+      "reasoning": [
+        "Selection of targets",
+        "Device construction",
+        "Geographic patterns"
+      ]
+    },
+    "skills_and_knowledge": {
+      "technical_skills": "High",
+      "planning_ability": "High",
+      "weapon_proficiency": "High, with explosives",
+      "knot_tying": "Unknown",
+      "crime_scene_awareness": "High awareness",
+      "reasoning": [
+        "Device construction",
+        "Planning and execution",
+        "Use of untraceable materials"
+      ]
+    },
+    "investigative_implications": {
+      "prior_offenses": "Likely",
+      "escalation_risk": "Present",
+      "documentation": "Unknown",
+      "victim_selection": "Academic, technological targets",
+      "cooling_off_period": "Variable, planned",
+      "reasoning": [
+        "History of similar incidents",
+        "Target selection",
+        "Offender's ability to evade detection"
+      ]
+    },
+    "key_identifiers": {
+      "occupation_type": "Technical field",
+      "appearance": "Unknown",
+      "social_role": "Unknown",
+      "hobbies": "Unknown, possibly technical hobbies",
+      "vehicle": "Unknown",
+      "reasoning": [
+        "Offender's skills and knowledge",
+        "Lack of personal information"
+      ]
+    },
+    "reasoning": [
+      "Complexity of device construction",
+      "Target selection",
+      "Offender's ability to evade detection"
+    ]
+  },
+  "validation_metrics": {
+    "key_behavioral_indicators": [
+      "Careful planning",
+      "Use of untraceable materials",
+      "Target selection"
+    ],
+    "critical_evidence": [
+      "Device construction",
+      "Lack of fingerprints or DNA",
+      "Postal routing"
+    ],
+    "profile_accuracy_factors": [
+      "Offender's intelligence and technical proficiency",
+      "Ability to evade detection"
+    ]
+  },
+  "framework_classifications": {
+    "narrative_action_system": {
+      "primary_classification": "REVENGEFUL",
+      "confidence": 0.8,
+      "supporting_evidence": [
+        "Targeted nature of attacks",
+        "Lack of personal connections to victims"
+      ],
+      "contradicting_evidence": [
+        "Limited information on offender's personal life"
+      ],
+      "reasoning": [
+        "Analysis of crime scenes",
+        "Device construction",
+        "Target selection"
+      ]
+    },
+    "sexual_behavioral_analysis": {
+      "primary_classification": null,
+      "confidence": null,
+      "supporting_evidence": null,
+      "contradicting_evidence": null,
+      "reasoning": null
+    },
+    "sexual_homicide_pathways_analysis": {
+      "primary_classification": null,
+      "confidence": null,
+      "supporting_evidence": null,
+      "contradicting_evidence": null,
+      "reasoning": null
+    },
+    "spatial_behavioral_analysis": {
+      "primary_classification": "COMMUTER",
+      "confidence": 0.9,
+      "supporting_evidence": [
+        "Targeted institutions",
+        "Geographic patterns"
+      ],
+      "contradicting_evidence": [
+        "Limited information on offender's personal life"
+      ],
+      "reasoning": [
+        "Analysis of crime scenes",
+        "Device construction",
+        "Target selection"
+      ]
+    }
+  }
+}

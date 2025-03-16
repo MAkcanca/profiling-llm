@@ -1,0 +1,513 @@
+{
+  "timestamp": "20250314_154409",
+  "metadata": [
+    {
+      "test_case": "mad-bomber",
+      "model": "o3-mini",
+      "processing_time": 33.78353810310364,
+      "result_file": "generated_profiles\\run_20250314_154409\\mad-bomber\\o3-mini_result.json",
+      "timestamp": "2025-03-14T15:44:43.187874"
+    },
+    {
+      "test_case": "mad-bomber",
+      "model": "Gemma-3",
+      "processing_time": 100.74212670326233,
+      "result_file": "generated_profiles\\run_20250314_154409\\mad-bomber\\Gemma-3_result.json",
+      "timestamp": "2025-03-14T15:44:43.187874"
+    },
+    {
+      "test_case": "unabomber",
+      "model": "Gemma-3",
+      "processing_time": 99.2721848487854,
+      "result_file": "generated_profiles\\run_20250314_154409\\unabomber\\Gemma-3_result.json",
+      "timestamp": "2025-03-15T00:33:23.261545"
+    },
+    {
+      "test_case": "robert-napper-rachel-nickell",
+      "model": "Gemma-3",
+      "processing_time": 114.21460390090942,
+      "result_file": "generated_profiles\\run_20250314_154409\\robert-napper-rachel-nickell\\Gemma-3_result.json",
+      "timestamp": "2025-03-15T00:33:38.204964"
+    },
+    {
+      "test_case": "ted-bundy-lake",
+      "model": "Gemma-3",
+      "processing_time": 116.88355565071106,
+      "result_file": "generated_profiles\\run_20250314_154409\\ted-bundy-lake\\Gemma-3_result.json",
+      "timestamp": "2025-03-15T00:33:40.872916"
+    },
+    {
+      "test_case": "ted-bundy-lake",
+      "model": "o3-mini",
+      "processing_time": 49.374470710754395,
+      "result_file": "generated_profiles\\run_20250314_154409\\ted-bundy-lake\\o3-mini_result.json",
+      "timestamp": "2025-03-14T15:44:58.784326"
+    },
+    {
+      "test_case": "mad-bomber",
+      "model": "GPT-4.5-Preview",
+      "processing_time": 250.53020215034485,
+      "result_file": "generated_profiles\\run_20250314_154409\\mad-bomber\\GPT-4.5-Preview_result.json",
+      "timestamp": "2025-03-14T15:48:19.933538"
+    },
+    {
+      "test_case": "ted-bundy-lake",
+      "model": "GPT-4.5-Preview",
+      "processing_time": 254.99066376686096,
+      "result_file": "generated_profiles\\run_20250314_154409\\ted-bundy-lake\\GPT-4.5-Preview_result.json",
+      "timestamp": "2025-03-14T15:48:24.395020"
+    },
+    {
+      "test_case": "mad-bomber",
+      "model": "o3-mini-high",
+      "processing_time": 68.55878806114197,
+      "result_file": "generated_profiles\\run_20250314_154409\\mad-bomber\\o3-mini-high_result.json",
+      "timestamp": "2025-03-14T15:49:28.494394"
+    },
+    {
+      "test_case": "ted-bundy-lake",
+      "model": "GPT-4o",
+      "processing_time": 68.141286611557,
+      "result_file": "generated_profiles\\run_20250314_154409\\ted-bundy-lake\\GPT-4o_result.json",
+      "timestamp": "2025-03-14T15:49:32.538195"
+    },
+    {
+      "test_case": "mad-bomber",
+      "model": "GPT-4o",
+      "processing_time": 79.33310341835022,
+      "result_file": "generated_profiles\\run_20250314_154409\\mad-bomber\\GPT-4o_result.json",
+      "timestamp": "2025-03-14T15:49:39.268721"
+    },
+    {
+      "test_case": "ted-bundy-lake",
+      "model": "o3-mini-high",
+      "processing_time": 82.95593190193176,
+      "result_file": "generated_profiles\\run_20250314_154409\\ted-bundy-lake\\o3-mini-high_result.json",
+      "timestamp": "2025-03-14T15:49:47.351953"
+    },
+    {
+      "test_case": "mad-bomber",
+      "model": "GPT-4o-mini",
+      "processing_time": 28.57807183265686,
+      "result_file": "generated_profiles\\run_20250314_154409\\mad-bomber\\GPT-4o-mini_result.json",
+      "timestamp": "2025-03-14T15:50:07.847793"
+    },
+    {
+      "test_case": "mad-bomber",
+      "model": "Claude-3.7-Sonnet",
+      "processing_time": 69.62587380409241,
+      "result_file": "generated_profiles\\run_20250314_154409\\mad-bomber\\Claude-3.7-Sonnet_result.json",
+      "timestamp": "2025-03-14T15:51:17.474670"
+    },
+    {
+      "test_case": "ted-bundy-lake",
+      "model": "GPT-4o-mini",
+      "processing_time": 101.08362221717834,
+      "result_file": "generated_profiles\\run_20250314_154409\\ted-bundy-lake\\GPT-4o-mini_result.json",
+      "timestamp": "2025-03-14T15:51:28.437574",
+      "retries": 1
+    },
+    {
+      "test_case": "mad-bomber",
+      "model": "Claude-3.7-Sonnet-Thinking",
+      "processing_time": 98.68084740638733,
+      "result_file": "generated_profiles\\run_20250314_154409\\mad-bomber\\Claude-3.7-Sonnet-Thinking_result.json",
+      "timestamp": "2025-03-14T15:51:46.530639"
+    },
+    {
+      "test_case": "ted-bundy-lake",
+      "model": "Claude-3.7-Sonnet",
+      "processing_time": 74.3100163936615,
+      "result_file": "generated_profiles\\run_20250314_154409\\ted-bundy-lake\\Claude-3.7-Sonnet_result.json",
+      "timestamp": "2025-03-14T15:52:42.749621"
+    },
+    {
+      "test_case": "ted-bundy-lake",
+      "model": "Claude-3.7-Sonnet-Thinking",
+      "processing_time": 107.19915556907654,
+      "result_file": "generated_profiles\\run_20250314_154409\\ted-bundy-lake\\Claude-3.7-Sonnet-Thinking_result.json",
+      "timestamp": "2025-03-14T15:53:15.637730"
+    },
+    {
+      "test_case": "ted-bundy-lake",
+      "model": "Llama-3.3-70B-Instruct",
+      "processing_time": 63.8114857673645,
+      "result_file": "generated_profiles\\run_20250314_154409\\ted-bundy-lake\\Llama-3.3-70B-Instruct_result.json",
+      "timestamp": "2025-03-14T15:54:19.460952"
+    },
+    {
+      "test_case": "mad-bomber",
+      "model": "Llama-3.3-70B-Instruct",
+      "processing_time": 215.73410177230835,
+      "result_file": "generated_profiles\\run_20250314_154409\\mad-bomber\\Llama-3.3-70B-Instruct_result.json",
+      "timestamp": "2025-03-14T15:55:22.265811"
+    },
+    {
+      "test_case": "ted-bundy-lake",
+      "model": "DeepSeek-R1",
+      "processing_time": 123.05339241027832,
+      "result_file": "generated_profiles\\run_20250314_154409\\ted-bundy-lake\\DeepSeek-R1_result.json",
+      "timestamp": "2025-03-14T15:56:22.516850"
+    },
+    {
+      "test_case": "mad-bomber",
+      "model": "DeepSeek-R1",
+      "processing_time": 74.60891199111938,
+      "result_file": "generated_profiles\\run_20250314_154409\\mad-bomber\\DeepSeek-R1_result.json",
+      "timestamp": "2025-03-14T15:56:36.875724"
+    },
+    {
+      "test_case": "ted-bundy-lake",
+      "model": "Gemini-2.0-Flash",
+      "processing_time": 19.115033864974976,
+      "result_file": "generated_profiles\\run_20250314_154409\\ted-bundy-lake\\Gemini-2.0-Flash_result.json",
+      "timestamp": "2025-03-14T15:56:41.632913"
+    },
+    {
+      "test_case": "ted-bundy-lake",
+      "model": "Gemini-2.0-Flash-Thinking-Exp0121",
+      "processing_time": 31.447455406188965,
+      "result_file": "generated_profiles\\run_20250314_154409\\ted-bundy-lake\\Gemini-2.0-Flash-Thinking-Exp0121_result.json",
+      "timestamp": "2025-03-14T15:56:53.966305"
+    },
+    {
+      "test_case": "mad-bomber",
+      "model": "Gemini-2.0-Flash",
+      "processing_time": 18.073978185653687,
+      "result_file": "generated_profiles\\run_20250314_154409\\mad-bomber\\Gemini-2.0-Flash_result.json",
+      "timestamp": "2025-03-14T15:56:54.950701"
+    },
+    {
+      "test_case": "mad-bomber",
+      "model": "Gemini-2.0-Flash-Thinking-Exp0121",
+      "processing_time": 35.90650248527527,
+      "result_file": "generated_profiles\\run_20250314_154409\\mad-bomber\\Gemini-2.0-Flash-Thinking-Exp0121_result.json",
+      "timestamp": "2025-03-14T15:57:12.783226"
+    },
+    {
+      "test_case": "unabomber",
+      "model": "o3-mini",
+      "processing_time": 40.723788261413574,
+      "result_file": "generated_profiles\\run_20250314_154409\\unabomber\\o3-mini_result.json",
+      "timestamp": "2025-03-14T15:57:53.509629"
+    },
+    {
+      "test_case": "robert-napper-rachel-nickell",
+      "model": "o3-mini",
+      "processing_time": 48.5586154460907,
+      "result_file": "generated_profiles\\run_20250314_154409\\robert-napper-rachel-nickell\\o3-mini_result.json",
+      "timestamp": "2025-03-14T15:58:01.348459"
+    },
+    {
+      "test_case": "robert-napper-rachel-nickell",
+      "model": "GPT-4.5-Preview",
+      "processing_time": 232.6748321056366,
+      "result_file": "generated_profiles\\run_20250314_154409\\robert-napper-rachel-nickell\\GPT-4.5-Preview_result.json",
+      "timestamp": "2025-03-14T16:01:05.460672"
+    },
+    {
+      "test_case": "unabomber",
+      "model": "GPT-4.5-Preview",
+      "processing_time": 238.34259247779846,
+      "result_file": "generated_profiles\\run_20250314_154409\\unabomber\\GPT-4.5-Preview_result.json",
+      "timestamp": "2025-03-14T16:01:11.128433"
+    },
+    {
+      "test_case": "robert-napper-rachel-nickell",
+      "model": "GPT-4o",
+      "processing_time": 71.44019150733948,
+      "result_file": "generated_profiles\\run_20250314_154409\\robert-napper-rachel-nickell\\GPT-4o_result.json",
+      "timestamp": "2025-03-14T16:02:16.902178"
+    },
+    {
+      "test_case": "unabomber",
+      "model": "GPT-4o",
+      "processing_time": 71.66119766235352,
+      "result_file": "generated_profiles\\run_20250314_154409\\unabomber\\GPT-4o_result.json",
+      "timestamp": "2025-03-14T16:02:22.792630"
+    },
+    {
+      "test_case": "unabomber",
+      "model": "o3-mini-high",
+      "processing_time": 84.18755960464478,
+      "result_file": "generated_profiles\\run_20250314_154409\\unabomber\\o3-mini-high_result.json",
+      "timestamp": "2025-03-14T16:02:35.316993"
+    },
+    {
+      "test_case": "robert-napper-rachel-nickell",
+      "model": "o3-mini-high",
+      "processing_time": 102.22978854179382,
+      "result_file": "generated_profiles\\run_20250314_154409\\robert-napper-rachel-nickell\\o3-mini-high_result.json",
+      "timestamp": "2025-03-14T16:02:47.695469"
+    },
+    {
+      "test_case": "unabomber",
+      "model": "GPT-4o-mini",
+      "processing_time": 30.200526237487793,
+      "result_file": "generated_profiles\\run_20250314_154409\\unabomber\\GPT-4o-mini_result.json",
+      "timestamp": "2025-03-14T16:03:05.518304"
+    },
+    {
+      "test_case": "robert-napper-rachel-nickell",
+      "model": "GPT-4o-mini",
+      "processing_time": 43.81757616996765,
+      "result_file": "generated_profiles\\run_20250314_154409\\robert-napper-rachel-nickell\\GPT-4o-mini_result.json",
+      "timestamp": "2025-03-14T16:03:31.514048"
+    },
+    {
+      "test_case": "unabomber",
+      "model": "Claude-3.7-Sonnet",
+      "processing_time": 67.57167601585388,
+      "result_file": "generated_profiles\\run_20250314_154409\\unabomber\\Claude-3.7-Sonnet_result.json",
+      "timestamp": "2025-03-14T16:04:13.090911"
+    },
+    {
+      "test_case": "unabomber",
+      "model": "Claude-3.7-Sonnet-Thinking",
+      "processing_time": 90.26316213607788,
+      "result_file": "generated_profiles\\run_20250314_154409\\unabomber\\Claude-3.7-Sonnet-Thinking_result.json",
+      "timestamp": "2025-03-14T16:04:35.782552"
+    },
+    {
+      "test_case": "robert-napper-rachel-nickell",
+      "model": "Claude-3.7-Sonnet",
+      "processing_time": 67.36343050003052,
+      "result_file": "generated_profiles\\run_20250314_154409\\robert-napper-rachel-nickell\\Claude-3.7-Sonnet_result.json",
+      "timestamp": "2025-03-14T16:04:38.877478"
+    },
+    {
+      "test_case": "robert-napper-rachel-nickell",
+      "model": "Claude-3.7-Sonnet-Thinking",
+      "processing_time": 99.62109422683716,
+      "result_file": "generated_profiles\\run_20250314_154409\\robert-napper-rachel-nickell\\Claude-3.7-Sonnet-Thinking_result.json",
+      "timestamp": "2025-03-14T16:05:11.136143"
+    },
+    {
+      "test_case": "robert-napper-rachel-nickell",
+      "model": "Llama-3.3-70B-Instruct",
+      "processing_time": 167.02810740470886,
+      "result_file": "generated_profiles\\run_20250314_154409\\robert-napper-rachel-nickell\\Llama-3.3-70B-Instruct_result.json",
+      "timestamp": "2025-03-14T16:07:58.165250"
+    },
+    {
+      "test_case": "robert-napper-rachel-nickell",
+      "model": "DeepSeek-R1",
+      "processing_time": 58.469093799591064,
+      "result_file": "generated_profiles\\run_20250314_154409\\robert-napper-rachel-nickell\\DeepSeek-R1_result.json",
+      "timestamp": "2025-03-14T16:08:56.635343"
+    },
+    {
+      "test_case": "robert-napper-rachel-nickell",
+      "model": "Gemini-2.0-Flash",
+      "processing_time": 17.527010202407837,
+      "result_file": "generated_profiles\\run_20250314_154409\\robert-napper-rachel-nickell\\Gemini-2.0-Flash_result.json",
+      "timestamp": "2025-03-14T16:09:14.164352"
+    },
+    {
+      "test_case": "robert-napper-rachel-nickell",
+      "model": "Gemini-2.0-Flash-Thinking-Exp0121",
+      "processing_time": 27.14453887939453,
+      "result_file": "generated_profiles\\run_20250314_154409\\robert-napper-rachel-nickell\\Gemini-2.0-Flash-Thinking-Exp0121_result.json",
+      "timestamp": "2025-03-14T16:09:23.780884"
+    },
+    {
+      "test_case": "unabomber",
+      "model": "Llama-3.3-70B-Instruct",
+      "processing_time": 394.46346831321716,
+      "result_file": "generated_profiles\\run_20250314_154409\\unabomber\\Llama-3.3-70B-Instruct_result.json",
+      "timestamp": "2025-03-14T16:11:10.247020",
+      "retries": 1
+    },
+    {
+      "test_case": "unabomber",
+      "model": "DeepSeek-R1",
+      "processing_time": 90.00174808502197,
+      "result_file": "generated_profiles\\run_20250314_154409\\unabomber\\DeepSeek-R1_result.json",
+      "timestamp": "2025-03-14T16:12:40.248768"
+    },
+    {
+      "test_case": "unabomber",
+      "model": "Gemini-2.0-Flash",
+      "processing_time": 16.325253009796143,
+      "result_file": "generated_profiles\\run_20250314_154409\\unabomber\\Gemini-2.0-Flash_result.json",
+      "timestamp": "2025-03-14T16:12:56.575021"
+    },
+    {
+      "test_case": "unabomber",
+      "model": "Gemini-2.0-Flash-Thinking-Exp0121",
+      "processing_time": 24.8249089717865,
+      "result_file": "generated_profiles\\run_20250314_154409\\unabomber\\Gemini-2.0-Flash-Thinking-Exp0121_result.json",
+      "timestamp": "2025-03-14T16:13:05.073677"
+    },
+    {
+      "test_case": "ed-kemper",
+      "model": "o3-mini",
+      "processing_time": 49.13926339149475,
+      "result_file": "generated_profiles\\run_20250314_154409\\ed-kemper\\o3-mini_result.json",
+      "timestamp": "2025-03-14T16:13:54.215938"
+    },
+    {
+      "test_case": "btk-otero",
+      "model": "o3-mini",
+      "processing_time": 57.51818871498108,
+      "result_file": "generated_profiles\\run_20250314_154409\\btk-otero\\o3-mini_result.json",
+      "timestamp": "2025-03-14T16:14:02.595371"
+    },
+    {
+      "test_case": "btk-otero",
+      "model": "Gemma-3",
+      "processing_time": 125.94840717315674,
+      "result_file": "generated_profiles\\run_20250314_154409\\btk-otero\\Gemma-3_result.json",
+      "timestamp": "2025-03-14T16:14:09.938767"
+    },
+    {
+      "test_case": "btk-otero",
+      "model": "GPT-4.5-Preview",
+      "processing_time": 232.27233386039734,
+      "result_file": "generated_profiles\\run_20250314_154409\\btk-otero\\GPT-4.5-Preview_result.json",
+      "timestamp": "2025-03-14T16:16:57.349513"
+    },
+    {
+      "test_case": "btk-otero",
+      "model": "GPT-4o",
+      "processing_time": 108.19419169425964,
+      "result_file": "generated_profiles\\run_20250314_154409\\btk-otero\\GPT-4o_result.json",
+      "timestamp": "2025-03-14T16:18:45.544703"
+    },
+    {
+      "test_case": "btk-otero",
+      "model": "o3-mini-high",
+      "processing_time": 116.74878764152527,
+      "result_file": "generated_profiles\\run_20250314_154409\\btk-otero\\o3-mini-high_result.json",
+      "timestamp": "2025-03-14T16:18:54.099300"
+    },
+    {
+      "test_case": "btk-otero",
+      "model": "GPT-4o-mini",
+      "processing_time": 33.57928919792175,
+      "result_file": "generated_profiles\\run_20250314_154409\\btk-otero\\GPT-4o-mini_result.json",
+      "timestamp": "2025-03-14T16:19:27.680654"
+    },
+    {
+      "test_case": "btk-otero",
+      "model": "Claude-3.7-Sonnet",
+      "processing_time": 67.2106728553772,
+      "result_file": "generated_profiles\\run_20250314_154409\\btk-otero\\Claude-3.7-Sonnet_result.json",
+      "timestamp": "2025-03-14T16:20:34.892325"
+    },
+    {
+      "test_case": "ed-kemper",
+      "model": "GPT-4.5-Preview",
+      "processing_time": 484.85214948654175,
+      "result_file": "generated_profiles\\run_20250314_154409\\ed-kemper\\GPT-4.5-Preview_result.json",
+      "timestamp": "2025-03-14T16:21:09.927826",
+      "retries": 1
+    },
+    {
+      "test_case": "ed-kemper",
+      "model": "Gemma-3",
+      "processing_time": 137.51280117034912,
+      "result_file": "generated_profiles\\run_20250314_154409\\ed-kemper\\Gemma-3_result.json",
+      "timestamp": "2025-03-14T16:21:21.180215"
+    },
+    {
+      "test_case": "btk-otero",
+      "model": "Claude-3.7-Sonnet-Thinking",
+      "processing_time": 113.49905729293823,
+      "result_file": "generated_profiles\\run_20250314_154409\\btk-otero\\Claude-3.7-Sonnet-Thinking_result.json",
+      "timestamp": "2025-03-14T16:21:21.180215"
+    },
+    {
+      "test_case": "ed-kemper",
+      "model": "GPT-4o",
+      "processing_time": 59.85313677787781,
+      "result_file": "generated_profiles\\run_20250314_154409\\ed-kemper\\GPT-4o_result.json",
+      "timestamp": "2025-03-14T16:22:09.782466"
+    },
+    {
+      "test_case": "btk-otero",
+      "model": "Llama-3.3-70B-Instruct",
+      "processing_time": 65.33157587051392,
+      "result_file": "generated_profiles\\run_20250314_154409\\btk-otero\\Llama-3.3-70B-Instruct_result.json",
+      "timestamp": "2025-03-14T16:22:26.512851"
+    },
+    {
+      "test_case": "ed-kemper",
+      "model": "o3-mini-high",
+      "processing_time": 96.76621055603027,
+      "result_file": "generated_profiles\\run_20250314_154409\\ed-kemper\\o3-mini-high_result.json",
+      "timestamp": "2025-03-14T16:22:46.696542"
+    },
+    {
+      "test_case": "btk-otero",
+      "model": "DeepSeek-R1",
+      "processing_time": 41.391281843185425,
+      "result_file": "generated_profiles\\run_20250314_154409\\btk-otero\\DeepSeek-R1_result.json",
+      "timestamp": "2025-03-14T16:23:07.905636"
+    },
+    {
+      "test_case": "btk-otero",
+      "model": "Gemini-2.0-Flash",
+      "processing_time": 18.0085391998291,
+      "result_file": "generated_profiles\\run_20250314_154409\\btk-otero\\Gemini-2.0-Flash_result.json",
+      "timestamp": "2025-03-14T16:23:25.915175"
+    },
+    {
+      "test_case": "ed-kemper",
+      "model": "GPT-4o-mini",
+      "processing_time": 42.3346791267395,
+      "result_file": "generated_profiles\\run_20250314_154409\\ed-kemper\\GPT-4o-mini_result.json",
+      "timestamp": "2025-03-14T16:23:29.032265"
+    },
+    {
+      "test_case": "btk-otero",
+      "model": "Gemini-2.0-Flash-Thinking-Exp0121",
+      "processing_time": 36.85104990005493,
+      "result_file": "generated_profiles\\run_20250314_154409\\btk-otero\\Gemini-2.0-Flash-Thinking-Exp0121_result.json",
+      "timestamp": "2025-03-14T16:23:44.756686"
+    },
+    {
+      "test_case": "ed-kemper",
+      "model": "Claude-3.7-Sonnet-Thinking",
+      "processing_time": 129.32938861846924,
+      "result_file": "generated_profiles\\run_20250314_154409\\ed-kemper\\Claude-3.7-Sonnet-Thinking_result.json",
+      "timestamp": "2025-03-14T16:25:38.362656"
+    },
+    {
+      "test_case": "ed-kemper",
+      "model": "Claude-3.7-Sonnet",
+      "processing_time": 182.08329510688782,
+      "result_file": "generated_profiles\\run_20250314_154409\\ed-kemper\\Claude-3.7-Sonnet_result.json",
+      "timestamp": "2025-03-14T16:26:31.116566",
+      "retries": 1
+    },
+    {
+      "test_case": "ed-kemper",
+      "model": "Llama-3.3-70B-Instruct",
+      "processing_time": 58.40402173995972,
+      "result_file": "generated_profiles\\run_20250314_154409\\ed-kemper\\Llama-3.3-70B-Instruct_result.json",
+      "timestamp": "2025-03-14T16:27:29.523093"
+    },
+    {
+      "test_case": "ed-kemper",
+      "model": "DeepSeek-R1",
+      "processing_time": 35.75421857833862,
+      "result_file": "generated_profiles\\run_20250314_154409\\ed-kemper\\DeepSeek-R1_result.json",
+      "timestamp": "2025-03-14T16:28:05.278311"
+    },
+    {
+      "test_case": "ed-kemper",
+      "model": "Gemini-2.0-Flash",
+      "processing_time": 18.45194101333618,
+      "result_file": "generated_profiles\\run_20250314_154409\\ed-kemper\\Gemini-2.0-Flash_result.json",
+      "timestamp": "2025-03-14T16:28:23.731337"
+    },
+    {
+      "test_case": "ed-kemper",
+      "model": "Gemini-2.0-Flash-Thinking-Exp0121",
+      "processing_time": 38.11298990249634,
+      "result_file": "generated_profiles\\run_20250314_154409\\ed-kemper\\Gemini-2.0-Flash-Thinking-Exp0121_result.json",
+      "timestamp": "2025-03-14T16:28:43.393302"
+    }
+  ]
+}

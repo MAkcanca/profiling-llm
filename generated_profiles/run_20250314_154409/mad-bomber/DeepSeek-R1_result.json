@@ -1,0 +1,175 @@
+{
+  "case_id": "92508df4-89cd-4935-bde0-2f00bea3b164",
+  "offender_profile": {
+    "demographics": {
+      "age_range": "45-55 years",
+      "gender": "MALE",
+      "employment": "Former blue-collar worker (likely utilities/mechanical)",
+      "relationship": "Single/Lives alone",
+      "living_situation": "Urban apartment or rental property",
+      "education": "High school diploma with technical training; above-average mechanical intelligence",
+      "reasoning": [
+        "Communications reference 2008 workplace injury requiring compensation claims processing knowledge",
+        "Bomb construction shows progression from basic to advanced electronics consistent with OJT",
+        "Gait analysis suggests physical impairment potentially from industrial accident"
+      ]
+    },
+    "psychological_characteristics": {
+      "personality_type": "Obsessive-compulsive with narcissistic injury",
+      "control_needs": "High need for symbolic control through systematic retaliation",
+      "social_competence": "Poor interpersonal relationships; social isolation",
+      "stress_factors": "Unresolved workplace injury grievance and financial compensation denial",
+      "fantasy_elements": "Detailed revenge fantasies tied to corporate punishment",
+      "anger_management": "Channeled through controlled explosive devices and calculated communications",
+      "reasoning": [
+        "12-year campaign demonstrates sustained fixation",
+        "Communications show escalating demands for recognition",
+        "Device placement balances publicity with casualty avoidance"
+      ]
+    },
+    "behavioral_characteristics": {
+      "crime_scene_behavior": "Highly organized with iterative improvements",
+      "violence_type": "Symbolic non-contact violence through explosives",
+      "victim_interaction": "No direct victim interaction; depersonalized targeting",
+      "post_offense_behavior": "Media engagement through encrypted communications",
+      "risk_taking": "Calculated public exposure vs forensic avoidance",
+      "trophy_taking": "Likely retains news clippings/communication copies",
+      "reasoning": [
+        "Progression from simple fuses to electronic timers shows methodological development",
+        "Consistent red fabric signature indicates ritualistic behavior",
+        "No forensic traces demonstrate countermeasure awareness"
+      ]
+    },
+    "geographic_behavior": {
+      "crime_scene_location": "Urban centers near EGU infrastructure",
+      "crime_scene_layout": "Public areas with evacuation challenges",
+      "crime_scene_characteristics": "Controlled environments allowing timed escapes",
+      "reasoning": [
+        "73% of targets within 2 miles of EGU facilities",
+        "Transit hub selections maximize publicity",
+        "Buffer zone suggested by no devices near suspected residence"
+      ]
+    },
+    "skills_and_knowledge": {
+      "technical_skills": "Advanced improvised explosives fabrication",
+      "planning_ability": "Long-term operational security maintenance",
+      "weapon_proficiency": "Specialized in incendiary devices",
+      "knot_tying": "N/A (no restraint use)",
+      "crime_scene_awareness": "Advanced anti-forensic practices",
+      "reasoning": [
+        "Homemade energetic material consistency across 12 years",
+        "Use of public WiFi and encrypted communications post-2019",
+        "Lack of tool marks/DNA indicates clean-room assembly"
+      ]
+    },
+    "investigative_implications": {
+      "prior_offenses": "Possible minor property crimes pre-2010",
+      "escalation_risk": "High risk of continued escalation in device potency",
+      "documentation": "Detailed logs of devices/communications",
+      "victim_selection": "Symbolic corporate and public infrastructure targets",
+      "cooling_off_period": "Increasing frequency (5-year hiatus then annual attacks)",
+      "reasoning": [
+        "Communications reference 17 devices matching incident count",
+        "2012-2017 gap suggests external life events affecting behavior",
+        "Recent device sophistication indicates dedicated R&D time"
+      ]
+    },
+    "key_identifiers": {
+      "occupation_type": "Former EGU maintenance technician",
+      "appearance": "Average build with right leg limp",
+      "social_role": "Socially isolated; minimal community ties",
+      "hobbies": "Electronics tinkering, anti-corporate activism",
+      "vehicle": "Public transit user; possibly bicycle commuter",
+      "reasoning": [
+        "Surveillance footage shows familiarity with transit systems",
+        "Chemical sourcing suggests hardware store access",
+        "Communications demonstrate technical writing ability"
+      ]
+    },
+    "reasoning": [
+      "Consistent grievance focus on EGU workplace injury establishes personal motive",
+      "Device evolution demonstrates technical competence and learning curve",
+      "Spatial pattern indicates residential stability within target zone",
+      "Communications structure shows non-native English influence potentially from technical documentation exposure"
+    ]
+  },
+  "validation_metrics": {
+    "key_behavioral_indicators": [
+      "Progressive device sophistication",
+      "Consistent red fabric signature",
+      "Encrypted communication adoption",
+      "EGU-focused targeting"
+    ],
+    "critical_evidence": [
+      "2008 workplace injury references in communications",
+      "Consistent explosive material sourcing",
+      "Gait analysis showing right leg impairment",
+      "Typography matching across 12-year note series"
+    ],
+    "profile_accuracy_factors": [
+      "Lack of DNA evidence requires suspect familiarity with forensic techniques",
+      "Worker's comp records alignment with communication timeline",
+      "ographicographic consistency across attack sites",
+      "Technical knowledge progression matching EGU employee training records"
+    ]
+  },
+  "framework_classifications": {
+    "narrative_action_system": {
+      "primary_classification": "REVENGEFUL",
+      "confidence": 0.85,
+      "supporting_evidence": [
+        "Targeted EGU facilities with personal significance",
+        "Methodical device improvements over 12 years",
+        "Communications framing actions as justified retribution"
+      ],
+      "contradicting_evidence": [
+        "No direct confrontation with EGU personnel",
+        "Public targets dilute personal focus"
+      ],
+      "reasoning": [
+        "Sustained campaign aligns with NAS Revengeful Mission's 'determination to complete action'",
+        "Device placement shows controlled impact rather than chaotic destruction"
+      ]
+    },
+    "sexual_behavioral_analysis": {
+      "primary_classification": null,
+      "confidence": null,
+      "supporting_evidence": null,
+      "contradicting_evidence": null,
+      "reasoning": null
+    },
+    "sexual_homicide_pathways_analysis": {
+      "primary_classification": "ANGRY",
+      "confidence": 0.65,
+      "supporting_evidence": [
+        "Retaliatory motivation against perceived corporate offender",
+        "Symbolic violence through explosive devices"
+      ],
+      "contradicting_evidence": [
+        "Absence of direct interpersonal violence",
+        "Non-sexual motivation"
+      ],
+      "reasoning": [
+        "Anger pathway's focus on perceived grievances matches communication content",
+        "Device as weapon choice avoids direct confrontation seen in typical angry pathway offenses"
+      ]
+    },
+    "spatial_behavioral_analysis": {
+      "primary_classification": "MARAUDER",
+      "confidence": 0.8,
+      "supporting_evidence": [
+        "73% of targets within suspected operational zone",
+        "Use of public transit infrastructure demonstrates local knowledge",
+        "Buffer zone suggested by no devices in residential suburbs"
+      ],
+      "contradicting_evidence": [
+        "Some targets require cross-city travel",
+        "Encrypted communications from multiple locations"
+      ],
+      "reasoning": [
+        "Consistent exploitation of EGU facility proximity",
+        "Surveillance footage shows familiarity with urban navigation"
+      ]
+    }
+  }
+}

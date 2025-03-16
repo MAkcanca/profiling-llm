@@ -97,6 +97,10 @@ async function populateProfileDropdowns() {
             compareSelect.appendChild(option);
           }
         });
+        // Select gold standard as default comparison
+        compareSelect.value = 'gold-standard';
+        // trigger change event
+        compareSelect.dispatchEvent(new Event('change'));        
       }
     });
     

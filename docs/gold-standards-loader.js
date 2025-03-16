@@ -1,16 +1,15 @@
 /**
- * Forensic-LLM2 Dynamic Gold Standards Loader
- * 
- * This module handles dynamic loading of gold standard profiles
- * without relying on hardcoded elements. It automatically adapts to
- * whatever data is available in the project.
+ * Forensic-LLM2 Static Gold Standards Loader
+ *
+ * This module loads gold standard profiles from static constants
+ * to be compatible with GitHub Pages which doesn't support directory browsing.
  */
 
-// Cache for discovered gold standard profiles
+// Cache for gold standard profiles
 let goldStandardsCache = null;
 
 /**
- * Discovers and loads all available gold standard profiles
+ * Loads all available gold standard profiles from static constants
  * @returns {Promise<Array>} Promise resolving to gold standard profiles data
  */
 async function loadGoldStandards() {
@@ -22,43 +21,33 @@ async function loadGoldStandards() {
   const goldStandards = [];
   
   try {
-    // Discover Gold Standards files
-    const goldStandardsResponse = await fetch('gold-standards/');
+    // Get gold standards from constants
+    const goldStandardsList = window.PROFILES_CONSTANTS.goldStandards;
     
-    if (goldStandardsResponse.ok) {
-      const goldStandardsText = await goldStandardsResponse.text();
-      
-      // Extract filenames using regex
-      const goldStandardFiles = extractFilenamesFromDirectoryListing(goldStandardsText, '.json');
-      
-      // Process each gold standard file
-      for (const filename of goldStandardFiles) {
-        try {
-          // Fetch and parse each gold standard file
-          const response = await fetch(`gold-standards/${filename}`);
-          if (!response.ok) continue;
-          
-          const data = await response.json();
-          
-          // Extract case ID from filename (e.g., "ted-bundy-lake" from "ted-bundy-lake-profile.json")
-          const caseId = filename.replace('-profile.json', '');
-          
-          // Create profile object with dynamic data
-          const profile = {
-            id: caseId,
-            name: formatCaseName(caseId),
-            subtitle: getSubtitle(caseId, data),
-            description: getDescription(caseId, data),
-            image: `images/criminal-profiles/${getImageName(caseId)}.jpg`,
-            filePath: `gold-standards/${filename}`,
-            frameworks: extractFrameworks(data),
-            tags: [] // No tags as requested - framework classifications are displayed separately
-          };
-          
-          goldStandards.push(profile);
-        } catch (error) {
-          console.error(`Error processing gold standard file ${filename}:`, error);
-        }
+    // Process each gold standard
+    for (const goldStandardData of goldStandardsList) {
+      try {
+        // Fetch the actual JSON content for each gold standard
+        const response = await fetch(goldStandardData.filePath);
+        if (!response.ok) continue;
+        
+        const data = await response.json();
+        
+        // Create profile object with data from constants and extracted frameworks
+        const profile = {
+          id: goldStandardData.id,
+          name: goldStandardData.name,
+          subtitle: goldStandardData.subtitle,
+          description: goldStandardData.description,
+          image: goldStandardData.image,
+          filePath: goldStandardData.filePath,
+          frameworks: extractFrameworks(data),
+          tags: [] // No tags as requested - framework classifications are displayed separately
+        };
+        
+        goldStandards.push(profile);
+      } catch (error) {
+        console.error(`Error processing gold standard file ${goldStandardData.id}:`, error);
       }
     }
     
@@ -69,35 +58,9 @@ async function loadGoldStandards() {
     goldStandardsCache = goldStandards;
     return goldStandards;
   } catch (error) {
-    console.error('Error discovering gold standards:', error);
+    console.error('Error loading gold standards:', error);
     return [];
   }
-}
-
-/**
- * Extract filenames from directory listing HTML/text
- * @param {string} directoryText - The directory listing text/HTML
- * @param {string} endsWith - File extension or suffix to filter by
- * @returns {string[]} Array of filenames
- */
-function extractFilenamesFromDirectoryListing(directoryText, endsWith) {
-  const filenames = [];
-  
-  // This regex pattern works for both Apache and Nginx directory listings
-  // as well as simple text listings
-  const regex = /href=["']?([^"'>\s]+)["']?|>([^<\s]+)/g;
-  let match;
-  
-  while ((match = regex.exec(directoryText)) !== null) {
-    const filename = match[1] || match[2];
-    
-    if (filename && filename.endsWith(endsWith)) {
-      // Clean up filename (remove trailing slash for directories)
-      filenames.push(filename.endsWith('/') ? filename.slice(0, -1) : filename);
-    }
-  }
-  
-  return filenames;
 }
 
 /**

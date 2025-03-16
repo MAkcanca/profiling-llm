@@ -93,6 +93,58 @@ window.PROFILES_CONSTANTS = {
     }
   },
   
+  // Gold standard files with their metadata
+  goldStandards: [
+    {
+      id: "ted-bundy-lake",
+      name: "Ted Bundy",
+      subtitle: "Lake Sammamish Murders",
+      description: "American serial killer who kidnapped, assaulted, and murdered numerous young women during the 1970s, and possibly earlier.",
+      image: "images/criminal-profiles/ted-bundy.jpg",
+      filePath: "gold-standards/ted-bundy-lake-profile.json"
+    },
+    {
+      id: "btk-otero",
+      name: "BTK Killer",
+      subtitle: "Dennis Rader",
+      description: "Serial killer who murdered ten people between 1974 and 1991 in Wichita, Kansas. Known for his self-given name 'BTK' (Bind, Torture, Kill).",
+      image: "images/criminal-profiles/btk.jpg",
+      filePath: "gold-standards/btk-otero-profile.json"
+    },
+    {
+      id: "ed-kemper",
+      name: "Edmund Kemper",
+      subtitle: "Co-ed Killer",
+      description: "American serial killer who murdered ten people, including his paternal grandparents and mother, between 1964 and 1973.",
+      image: "images/criminal-profiles/ed-kemper.jpg",
+      filePath: "gold-standards/ed-kemper-profile.json"
+    },
+    {
+      id: "mad-bomber",
+      name: "Mad Bomber",
+      subtitle: "George Metesky",
+      description: "American domestic terrorist who planted bombs in New York City between 1940 and 1957, primarily targeting utilities and theaters.",
+      image: "images/criminal-profiles/george-metesky.jpg",
+      filePath: "gold-standards/mad-bomber-profile.json"
+    },
+    {
+      id: "robert-napper-rachel-nickell",
+      name: "Robert Napper",
+      subtitle: "Rachel Nickell Murder",
+      description: "British serial rapist and murderer who killed Rachel Nickell on Wimbledon Common in London in 1992.",
+      image: "images/criminal-profiles/robert-napper.jpg",
+      filePath: "gold-standards/robert-napper-rachel-nickell-profile.json"
+    },
+    {
+      id: "unabomber",
+      name: "Unabomber",
+      subtitle: "Theodore Kaczynski",
+      description: "American domestic terrorist and former mathematics professor who conducted a bombing campaign targeting people involved with modern technology.",
+      image: "images/criminal-profiles/theodore-kaczynski.jpg",
+      filePath: "gold-standards/unabomber-profile.json"
+    }
+  ],
+  
   // Helper function to construct model file paths
   getModelFilePath: function(run, testCase, model) {
     return `generated_profiles/${run}/${testCase}/${model}_result.json`;

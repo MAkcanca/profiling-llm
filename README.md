@@ -4,16 +4,15 @@
 
 ## Overview
 
-Forensic-LLM2 is a groundbreaking research framework that evaluates the efficacy of large language models (LLMs) for forensic criminal profiling tasks. This research implements a structured methodology for extracting offender profiles from criminal case data using various state-of-the-art LLMs, evaluating their performance against gold standards, and providing comprehensive analysis of the results.
+Forensic-LLM2 is a research framework that evaluates the efficacy of large language models (LLMs) for forensic criminal profiling tasks. This research implements a structured methodology for extracting offender profiles from criminal case data using various state-of-the-art LLMs, evaluating their performance against gold standards, and analysing the results.
 
 ### Key Contributions
 
 - Implementation of a structured criminal profiling framework based on established psychological frameworks
-- Evaluation of 11+ state-of-the-art LLM systems on real-world criminal profiling tasks
+- Evaluation of state-of-the-art LLM systems on real-world criminal profiling tasks
 - Development of quantitative metrics for assessing profile quality and accuracy
 - Comparative analysis of model performance across different profiling dimensions
 - Identification of key factors influencing profiling accuracy
-- Open-source methodology to encourage further research in computational forensic psychology
 
 ## Methodology
 

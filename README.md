@@ -178,14 +178,19 @@ The full reproduction package includes:
 If you use Forensic-LLM2 in your research, please cite our paper:
 
 ```
-@article{profilingllm,
-  title={Evaluating Large Language Models for Criminal Profiling: A Framework-Based Approach},
-  author={[Mustafa Akcanca]},
-  journal={[ACDSA]},
-  year={2025}
-} 
+@INPROCEEDINGS{11166597,
+  author={Akcanca, Mustafa and Saribey, Aylin Yalcin},
+  booktitle={2025 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA)}, 
+  title={Evaluating Large Language Models for Criminal Profiling: A Framework-Based Approach}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Analytical models;Accuracy;Systematics;Correlation;Large language models;Forensics;Psychology;Cognition;Reliability;large language models;criminal profiling;framework evaluation;artificial intelligence;forensic psychology;evaluation methodology},
+  doi={10.1109/ACDSA65407.2025.11166597}}
 ```
 
 ## License
 
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+

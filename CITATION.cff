@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the preferred-citation below."
+title: "Forensic-LLM2: Framework for Criminal Profiling with Large Language Models"
+type: software
+license: GPL-3.0-only
+authors:
+  - family-names: Akcanca
+    given-names: Mustafa
+    orcid: "https://orcid.org/0009-0006-5241-8670"
+  - family-names: Saribey
+    given-names: "Aylin Yalcin"
+    orcid: "https://orcid.org/0000-0002-0975-8630"
+
+preferred-citation:
+  type: conference-paper
+  title: "Evaluating Large Language Models for Criminal Profiling: A Framework-Based Approach"
+  authors:
+    - family-names: Akcanca
+      given-names: Mustafa
+      orcid: "https://orcid.org/0009-0006-5241-8670"
+    - family-names: Saribey
+      given-names: "Aylin Yalcin"
+      orcid: "https://orcid.org/0000-0002-0975-8630"
+  year: 2025
+  conference: "2025 International Conference on Artificial Intelligence, Computer, Data Sciences and Applications (ACDSA)"
+  pages: "1-6"
+  doi: "10.1109/ACDSA65407.2025.11166597"
+  url: "https://doi.org/10.1109/ACDSA65407.2025.11166597"
